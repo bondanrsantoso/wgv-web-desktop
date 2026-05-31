@@ -59,7 +59,8 @@ onMounted(async () => {
             </p>
           </div>
           <div class="ms-auto shrink-0 text-end">
-            <p>{{ Math.round(voicemail.duration) }} second(s)</p>
+            <!-- <p>{{ Math.round(voicemail.duration) }} second(s)</p>  -->
+            <p>&nbsp;</p>
             <p class="opacity-75">{{ dayjs.utc(voicemail.created_at).fromNow() }}</p>
           </div>
         </button>
