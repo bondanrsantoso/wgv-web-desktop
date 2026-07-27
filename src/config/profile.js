@@ -4,6 +4,8 @@ export const profiles = {
     wallpaper: "/wallpapers/kanaia.jpeg",
     theme: "kanaia",
     displayName: "Kanaia Asa",
+    featuredVideo: 'https://www.youtube.com/watch?v=aI982MIbMCc',
+    featuredVideoTag: "#TerimaKasihKana",
     playlist: [
       {
         title: 'Punkish',
@@ -85,6 +87,8 @@ export const profiles = {
     theme: "tananona",
     displayName: "Tana Nona",
     photoAlbum: "irengdoesart",
+    featuredVideo: 'https://www.youtube.com/watch?v=1Yj2n9nqy-Q',
+    featuredVideoTag: "#SelamatPagiTana",
     tweets: [
       "/scraped_tweets/tananona.json",
     ],

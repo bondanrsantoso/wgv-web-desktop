@@ -10,7 +10,6 @@ import Slider from '@/components/SliderComponent.vue'
 import ClassicIcon from '@/components/ClassicIcon.vue'
 import { resolveProfile } from '@/config/profile'
 
-const videoSource = 'https://www.youtube.com/watch?v=aI982MIbMCc'
 const youtubePlayer = ref(null)
 const isMuted = ref(false)
 const volume = ref(50)
@@ -19,6 +18,8 @@ const selectedProfileName = ref(null)
 const selectedProfile = computed(() =>
   selectedProfileName.value ? resolveProfile(selectedProfileName.value) : null,
 )
+
+const videoSource = computed(() => selectedProfile.value.featuredVideo);
 
 onMounted(() => {
   if (window.localStorage.getItem('profile')) {
@@ -71,7 +72,7 @@ function handlePlaybackStateChanged() {
 }
 
 function handleEndButtonClick() {
-  if (confirm('Leave #TerimaKasihKana?')) {
+  if (confirm(`Leave ${selectedProfile.value.featuredVideoTag}?`)) {
     isEnded.value = true
   }
 }
@@ -82,7 +83,7 @@ function handleEndButtonClick() {
     <!-- Konten utama video call -->
     <div class="w-full h-screen flex items-center justify-center" v-if="isEnded">
       <div class="space-y-2">
-        <p class="text-center"><b>#TerimaKasihKana</b> has concluded</p>
+        <p class="text-center"><b>{{selectedProfile.featuredVideoTag}}</b> has concluded</p>
         <p class="text-center">Thank you for participating</p>
         <ClassicButton
           @click="
@@ -106,7 +107,7 @@ function handleEndButtonClick() {
       >
         <div class="p-4 border-4 border-outset bg-gray-100 flex flex-nowrap gap-2 items-center">
           <ClassicIcon name="satellite-dish" class="w-8 animate-pulse" />
-          <p>Joining <b>#TerimaKasihKana</b>...</p>
+          <p>Joining <b>{{selectedProfile.featuredVideoTag}}</b>...</p>
         </div>
       </div>
       <div class="flex flex-row flex-nowrap p-4">
@@ -131,8 +132,8 @@ function handleEndButtonClick() {
           class="w-full flex text-start p-4 !px-4"
         >
           <div>
-            <h2 class="font-bold text-xl">#TerimaKasihKana</h2>
-            <p>22 People in call</p>
+            <h2 class="font-bold text-xl">{{selectedProfile.featuredVideoTag}}</h2>
+            <p>48 People in call</p>
           </div>
           <div class="ms-auto">
             <em>Click to join</em>
