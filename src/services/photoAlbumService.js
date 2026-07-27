@@ -94,7 +94,7 @@ async function getTwitterScrapedImages(albumName) {
       photoLists.push({
           name: t.displayName || t.username,
           url: `${baseResource}?format=webp&name=large`,
-          filename: t.tweetUrl.split("/").pop() + ".webp",
+          filename: t.username,
           creditsUrl: t.tweetUrl,
         })
     }
