@@ -1,20 +1,71 @@
 {
   "metadata": {
     "hashtag": "#IrengDoesArt",
-    "scraped_at": "2026-07-27T12:27:35.970Z",
-    "total_tweets": 522,
+    "scraped_at": "2026-07-27T14:16:58.737Z",
+    "total_tweets": 524,
     "source_url": "https://x.com/hashtag/IrengDoesArt?src=hashtag_click&f=live",
     "scraper_version": "1.0.0-console",
     "tab": "latest"
   },
   "tweets": [
     {
+      "id": "2081737794779767026",
+      "username": "@Quiver_R011",
+      "displayName": "Quiver Rannette 🎵🍙 VGEN COMMISSION OPEN",
+      "text": "kamu udah banyak berjuang tamnon, terima kasih sudah ada di hidup kita, terima kasih sudah berjuang sampai detik ini.\n\notsukaresama, happy graduation ya kesayangan kita!\n\n#NonAktif #TONOfMemories #IrengDoesArt",
+      "timestamp": "2026-07-27T13:45:41.000Z",
+      "timestampLabel": "17m",
+      "tweetUrl": "https://x.com/Quiver_R011/status/2081737794779767026",
+      "links": [],
+      "media": {
+        "images": ["https://pbs.twimg.com/media/HOPLln2acAAsWY9?format=webp&name=large"],
+        "videos": []
+      },
+      "engagement": {
+        "replies": 1,
+        "retweets": 10,
+        "likes": 31,
+        "bookmarks": 0
+      },
+      "isRetweet": false,
+      "retweetedBy": null,
+      "quoted": null
+    },
+    {
+      "id": "2081716175978057733",
+      "username": "@kuritikamu",
+      "displayName": "Kuritikamu",
+      "text": "Aku paling seneng gambar citon karena warna rambutnya👌\n\nTerima kasih sudah menjadi bagian dari motivasiku menggambar! Terima kasih atas semua kerja kerasnya selama di JKT48V! Best of luck in your future endeavors!\n#IrengDoesArt #TerimakasihJKT48V #NonAktif",
+      "timestamp": "2026-07-27T12:19:47.000Z",
+      "timestampLabel": "1h",
+      "tweetUrl": "https://x.com/kuritikamu/status/2081716175978057733",
+      "links": [],
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HOO8p03bgAAkBkV?format=webp&name=large",
+          "https://pbs.twimg.com/media/HOO83wXasAA-ujm?format=webp&name=large",
+          "https://pbs.twimg.com/media/HOO89v-aEAA8Yya?format=webp&name=large",
+          "https://pbs.twimg.com/media/HOO9hccbwAE7hwD?format=webp&name=large"
+        ],
+        "videos": []
+      },
+      "engagement": {
+        "replies": 1,
+        "retweets": 9,
+        "likes": 38,
+        "bookmarks": 0
+      },
+      "isRetweet": false,
+      "retweetedBy": null,
+      "quoted": null
+    },
+    {
       "id": "2081710830102683931",
       "username": "@ryuumihikaru",
       "displayName": "Hika",
       "text": "Halo Ton...\nHappy Graduation ya...\nTerima kasih atas semua semangat, kebahagiaan, dan kenangan yang sudah kamu berikan selama bersama di JKT48V ini.\nI'll miss you...\n\nSemoga kamu bisa sukses di luar sana...\nDan sampai berjumpa lagi!\n\n#TONOfMemories #NonAktif #IrengDoesArt",
       "timestamp": "2026-07-27T11:58:32.000Z",
-      "timestampLabel": "14m",
+      "timestampLabel": "2h",
       "tweetUrl": "https://x.com/ryuumihikaru/status/2081710830102683931",
       "links": [],
       "media": {
@@ -23,8 +74,8 @@
       },
       "engagement": {
         "replies": 0,
-        "retweets": 1,
-        "likes": 1,
+        "retweets": 5,
+        "likes": 11,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -37,17 +88,17 @@
       "displayName": "ズパ ☁️",
       "text": "🌸 #TONOfMemories #IrengDoesArt",
       "timestamp": "2026-07-27T11:53:27.000Z",
-      "timestampLabel": "19m",
+      "timestampLabel": "2h",
       "tweetUrl": "https://x.com/zuppa_s0up/status/2081709549623652481",
       "links": [],
       "media": {
-        "images": [],
+        "images": ["https://pbs.twimg.com/tweet_video_thumb/HOO3yMLaAAAFLWu.jpg"],
         "videos": ["https://video.twimg.com/tweet_video/HOO3yMLaAAAFLWu.mp4"]
       },
       "engagement": {
         "replies": 0,
-        "retweets": 6,
-        "likes": 32,
+        "retweets": 21,
+        "likes": 75,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -60,7 +111,7 @@
       "displayName": "✮⋆˙ Mei ✮⋆˙",
       "text": "wherever life takes you, i hope every dream waiting for you finds its way home. thank you, @tana_jkt48v  ༘♡ ⋆｡˚ ❀\n\n#NonAktif #TONOfMemories #IrengDoesArt",
       "timestamp": "2026-07-27T11:35:29.000Z",
-      "timestampLabel": "37m",
+      "timestampLabel": "2h",
       "tweetUrl": "https://x.com/meirritory/status/2081705028184932632",
       "links": ["https://x.com/tana_jkt48v"],
       "media": {
@@ -68,9 +119,9 @@
         "videos": []
       },
       "engagement": {
-        "replies": 2,
-        "retweets": 29,
-        "likes": 103,
+        "replies": 3,
+        "retweets": 59,
+        "likes": 212,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -83,7 +134,7 @@
       "displayName": "bluesky",
       "text": "Sekarang juga kamu yang teristimewa~ 💐\n\n#NonAktif #TONOfMemories #IrengDoesArt",
       "timestamp": "2026-07-27T11:24:05.000Z",
-      "timestampLabel": "48m",
+      "timestampLabel": "2h",
       "tweetUrl": "https://x.com/bulusekai/status/2081702157330587794",
       "links": [],
       "media": {
@@ -91,9 +142,9 @@
         "videos": []
       },
       "engagement": {
-        "replies": 1,
-        "retweets": 65,
-        "likes": 240,
+        "replies": 2,
+        "retweets": 134,
+        "likes": 578,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -106,7 +157,7 @@
       "displayName": "abyyolla",
       "text": "happy graduation 🌸\nmay your voice will always find its way to the world 🌿🌸\n\n#TONOfMemories #IrengDoesArt",
       "timestamp": "2026-07-27T11:03:13.000Z",
-      "timestampLabel": "1h",
+      "timestampLabel": "2h",
       "tweetUrl": "https://x.com/abyyolla/status/2081696906141728973",
       "links": [],
       "media": {
@@ -114,9 +165,9 @@
         "videos": []
       },
       "engagement": {
-        "replies": 1,
-        "retweets": 15,
-        "likes": 29,
+        "replies": 2,
+        "retweets": 30,
+        "likes": 75,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -129,7 +180,7 @@
       "displayName": "PiaraanKoko",
       "text": "Hai Ton ❤️\nWalaupun udah disiapin, tapi tetep aja belum siap untuk perpisahan ini. \n\nHappy graduation Tana Nona\n\n#TONOfmemories #IrengDoesArt \n#NONAktif #TerimaKasihJKT48V",
       "timestamp": "2026-07-27T11:01:24.000Z",
-      "timestampLabel": "1h",
+      "timestampLabel": "3h",
       "tweetUrl": "https://x.com/Fian_iian/status/2081696449084240296",
       "links": [],
       "media": {
@@ -141,8 +192,8 @@
       },
       "engagement": {
         "replies": 1,
-        "retweets": 1,
-        "likes": 2,
+        "retweets": 5,
+        "likes": 24,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -155,7 +206,7 @@
       "displayName": "tebtebo",
       "text": "Happy #NonAktif day @tana_jkt48v 🌸\n\nSemoga dilancarkan semuanya ya buat stream grad nanti malam. Sepertinya sudah cukup sedihnya & saatnya mengantar kelulusanmu dengan bahagia. Semangat Tono Nono!!!! Selamat mekar kelopak sakura diluar sana.\n\n#IrengDoesArt #TerimakasihJKT48V 🤍",
       "timestamp": "2026-07-27T08:08:19.000Z",
-      "timestampLabel": "4h",
+      "timestampLabel": "5h",
       "tweetUrl": "https://x.com/Tebtebo16/status/2081652891509756153",
       "links": ["https://x.com/tana_jkt48v"],
       "media": {
@@ -164,8 +215,8 @@
       },
       "engagement": {
         "replies": 0,
-        "retweets": 7,
-        "likes": 26,
+        "retweets": 11,
+        "likes": 73,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -178,7 +229,7 @@
       "displayName": "(♆) ƒα૨ ɦε*ωαɳ ყαɳɠ ɓ☆เҡ #NonAktif",
       "text": "Happy Graduation Ton! 🙌\nMaaf cuma bisa ngasih yappingan di waktu yang mepet deadline Ton 🙇‍♂️\n\n#TONOfmemories #IrengDoesArt #TanaNonaJKT48V",
       "timestamp": "2026-07-27T05:59:59.000Z",
-      "timestampLabel": "6h",
+      "timestampLabel": "8h",
       "tweetUrl": "https://x.com/FarunaJivananta/status/2081620596635611293",
       "links": [],
       "media": {
@@ -192,8 +243,8 @@
       },
       "engagement": {
         "replies": 1,
-        "retweets": 8,
-        "likes": 64,
+        "retweets": 10,
+        "likes": 71,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -206,7 +257,7 @@
       "displayName": "fino ⏳ commission open:D",
       "text": "old commission work, had lot of fun drawing you two!\nglad i had the chance to draw you two!\n\n#Piallete #IrengDoesArt #TONOfmemories",
       "timestamp": "2026-07-27T02:48:21.000Z",
-      "timestampLabel": "9h",
+      "timestampLabel": "11h",
       "tweetUrl": "https://x.com/nanushika_/status/2081572369572016543",
       "links": [],
       "media": {
@@ -215,8 +266,8 @@
       },
       "engagement": {
         "replies": 0,
-        "retweets": 16,
-        "likes": 101,
+        "retweets": 19,
+        "likes": 108,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -229,7 +280,7 @@
       "displayName": "Kriss",
       "text": "Terima kasih atas 2 tahunnya\n🎨 by Mawko\n#IrengDoesArt",
       "timestamp": "2026-07-27T00:38:37.000Z",
-      "timestampLabel": "11h",
+      "timestampLabel": "13h",
       "tweetUrl": "https://x.com/qrtz_lol/status/2081539722070077865",
       "links": [],
       "media": {
@@ -238,8 +289,8 @@
       },
       "engagement": {
         "replies": 0,
-        "retweets": 2,
-        "likes": 6,
+        "retweets": 4,
+        "likes": 8,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -252,7 +303,7 @@
       "displayName": "pilaaa🐣🕶",
       "text": "Happy Graduation @tana_jkt48v 💐\n\n#NonAktif\n#IrengDoesArt\n#TONofmemories",
       "timestamp": "2026-07-26T20:51:48.000Z",
-      "timestampLabel": "15h",
+      "timestampLabel": "17h",
       "tweetUrl": "https://x.com/Nafila__/status/2081482642315485188",
       "links": ["https://x.com/tana_jkt48v"],
       "media": {
@@ -279,7 +330,7 @@
       "displayName": "Danny sasazaki",
       "text": "#IrengDoesArt Tana Nona in Rpg World as Tanker",
       "timestamp": "2026-07-26T19:08:12.000Z",
-      "timestampLabel": "17h",
+      "timestampLabel": "18h",
       "tweetUrl": "https://x.com/DannySasazaki/status/2081456570484027696",
       "links": [],
       "media": {
@@ -289,7 +340,7 @@
       "engagement": {
         "replies": 0,
         "retweets": 4,
-        "likes": 14,
+        "likes": 15,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -302,7 +353,7 @@
       "displayName": "kei 🛸 ˎˊ˗",
       "text": "o7 kak tana! terima kasih untuk kerja kerasnya selama ini! ♡\n#IrengDoesArt",
       "timestamp": "2026-07-26T13:33:11.000Z",
-      "timestampLabel": "22h",
+      "timestampLabel": "Jul 26",
       "tweetUrl": "https://x.com/kei_klp48/status/2081372261798617328",
       "links": [],
       "media": {
@@ -311,8 +362,8 @@
       },
       "engagement": {
         "replies": 6,
-        "retweets": 100,
-        "likes": 667,
+        "retweets": 102,
+        "likes": 694,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -490,7 +541,7 @@
       "tweetUrl": "https://x.com/lianetteru/status/2078156668416987509",
       "links": [],
       "media": {
-        "images": ["https://pbs.twimg.com/media/HNcYblkbkAAXkTS?format=png&name=large"],
+        "images": ["https://pbs.twimg.com/media/HNcYblkbkAAXkTS?format=png&name=small"],
         "videos": []
       },
       "engagement": {
@@ -665,8 +716,8 @@
       },
       "engagement": {
         "replies": 10,
-        "retweets": 42,
-        "likes": 218,
+        "retweets": 43,
+        "likes": 219,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -776,8 +827,8 @@
       },
       "engagement": {
         "replies": 9,
-        "retweets": 162,
-        "likes": 553,
+        "retweets": 163,
+        "likes": 554,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -891,8 +942,8 @@
       "media": {
         "images": [],
         "videos": [
-          "blob:https://x.com/7c79cd68-ce32-48c6-b390-856aad25b309",
-          "blob:https://x.com/7c79cd68-ce32-48c6-b390-856aad25b309"
+          "blob:https://x.com/fc82046b-cb9b-48f9-b284-139d898e7eb3",
+          "blob:https://x.com/fc82046b-cb9b-48f9-b284-139d898e7eb3"
         ]
       },
       "engagement": {
@@ -1309,12 +1360,10 @@
       "tweetUrl": "https://x.com/barry_ptr/status/2037126065513259177",
       "links": ["https://x.com/tana_jkt48v"],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/amplify_video_thumb/2037125769709969408/img/UVGRtnsyL4xn2O3u.jpg"
-        ],
+        "images": [],
         "videos": [
-          "blob:https://x.com/d36a4b90-a66f-448b-a161-1d0942de0d73",
-          "blob:https://x.com/d36a4b90-a66f-448b-a161-1d0942de0d73"
+          "blob:https://x.com/f06e0f3a-2438-4e32-ad74-d78401c3d4c1",
+          "blob:https://x.com/f06e0f3a-2438-4e32-ad74-d78401c3d4c1"
         ]
       },
       "engagement": {
@@ -1371,7 +1420,7 @@
       "engagement": {
         "replies": 4,
         "retweets": 23,
-        "likes": 1737,
+        "likes": 1738,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -1522,7 +1571,7 @@
       "engagement": {
         "replies": 0,
         "retweets": 12,
-        "likes": 137,
+        "likes": 136,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -1545,7 +1594,7 @@
       "engagement": {
         "replies": 4,
         "retweets": 34,
-        "likes": 244,
+        "likes": 245,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -1654,12 +1703,10 @@
       "tweetUrl": "https://x.com/Adamyasin0103/status/2014018984631476715",
       "links": ["https://x.com/tana_jkt48v"],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/amplify_video_thumb/2014016247562932224/img/JhP2fGhooMl5gnJU.jpg"
-        ],
+        "images": [],
         "videos": [
-          "blob:https://x.com/290b1edf-1046-4844-8310-a82a03b4070a",
-          "blob:https://x.com/290b1edf-1046-4844-8310-a82a03b4070a"
+          "blob:https://x.com/833a087a-c285-4da9-8f97-4b8c93d9323d",
+          "blob:https://x.com/833a087a-c285-4da9-8f97-4b8c93d9323d"
         ]
       },
       "engagement": {
@@ -1711,7 +1758,7 @@
       "engagement": {
         "replies": 0,
         "retweets": 3,
-        "likes": 10,
+        "likes": 9,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -1754,7 +1801,7 @@
       "tweetUrl": "https://x.com/AcikMango/status/2006249652472135854",
       "links": [],
       "media": {
-        "images": ["https://pbs.twimg.com/tweet_video_thumb/G9ed01nacAA_wYH.jpg"],
+        "images": [],
         "videos": ["https://video.twimg.com/tweet_video/G9ed01nacAA_wYH.mp4"]
       },
       "engagement": {
@@ -1826,7 +1873,7 @@
       "engagement": {
         "replies": 3,
         "retweets": 39,
-        "likes": 236,
+        "likes": 235,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -2167,7 +2214,7 @@
       "engagement": {
         "replies": 9,
         "retweets": 27,
-        "likes": 256,
+        "likes": 255,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -2371,7 +2418,7 @@
       "engagement": {
         "replies": 2,
         "retweets": 8,
-        "likes": 108,
+        "likes": 109,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -2541,8 +2588,8 @@
       "media": {
         "images": [],
         "videos": [
-          "blob:https://x.com/69144c9b-e53c-4847-b019-c7612609e027",
-          "blob:https://x.com/69144c9b-e53c-4847-b019-c7612609e027"
+          "blob:https://x.com/5fee2c04-9e71-4bae-a35d-8e9b809f0824",
+          "blob:https://x.com/5fee2c04-9e71-4bae-a35d-8e9b809f0824"
         ]
       },
       "engagement": {
@@ -2612,19 +2659,20 @@
       "links": [],
       "media": {
         "images": [
+          "https://pbs.twimg.com/amplify_video_thumb/1960307541227003904/img/N5Mt8_WX9K4wdNs9.jpg",
           "https://pbs.twimg.com/amplify_video_thumb/1960307572969521152/img/J-Wy8VN6KvySEGtU.jpg"
         ],
         "videos": [
-          "blob:https://x.com/8f9e69a3-3e81-4e72-99f6-ed6e75d20df7",
-          "blob:https://x.com/8f9e69a3-3e81-4e72-99f6-ed6e75d20df7",
-          "blob:https://x.com/86ca02ef-308b-4ef3-8f9a-724efbd9da6b",
-          "blob:https://x.com/86ca02ef-308b-4ef3-8f9a-724efbd9da6b"
+          "blob:https://x.com/8daf5822-8383-403d-97e9-258a75435ac3",
+          "blob:https://x.com/8daf5822-8383-403d-97e9-258a75435ac3",
+          "blob:https://x.com/d11d9d40-09d3-4dca-b179-256eb83f93ad",
+          "blob:https://x.com/d11d9d40-09d3-4dca-b179-256eb83f93ad"
         ]
       },
       "engagement": {
         "replies": 1,
         "retweets": 44,
-        "likes": 311,
+        "likes": 312,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -2734,7 +2782,7 @@
       "engagement": {
         "replies": 5,
         "retweets": 80,
-        "likes": 925,
+        "likes": 926,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -2950,10 +2998,12 @@
         "https://x.com/koh_acuk"
       ],
       "media": {
-        "images": [],
+        "images": [
+          "https://pbs.twimg.com/ext_tw_video_thumb/1947615852049899520/pu/img/zsQmi4JzuZoeYVE4.jpg"
+        ],
         "videos": [
-          "blob:https://x.com/d99be2bc-e44f-45a4-bfcd-0ffc7817e5bd",
-          "blob:https://x.com/d99be2bc-e44f-45a4-bfcd-0ffc7817e5bd"
+          "blob:https://x.com/e5910ddc-8788-4c3d-81a3-000ab9a83e29",
+          "blob:https://x.com/e5910ddc-8788-4c3d-81a3-000ab9a83e29"
         ]
       },
       "engagement": {
@@ -2999,10 +3049,11 @@
       "tweetUrl": "https://x.com/Tebtebo16/status/1946890702203523143",
       "links": [],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1946890642329886720/pu/img/U2rnkBvi1dqTiDbD?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": [
+          "blob:https://x.com/b144d01e-e302-4c55-b828-fd42740a79d6",
+          "blob:https://x.com/b144d01e-e302-4c55-b828-fd42740a79d6"
+        ]
       },
       "engagement": {
         "replies": 1,
@@ -3075,10 +3126,11 @@
       "tweetUrl": "https://x.com/gilangaji147/status/1942178126261633233",
       "links": ["https://x.com/tana_jkt48v"],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1942178023077507072/pu/img/WsVvNw0gJ8orFBtK?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": [
+          "blob:https://x.com/66084543-7b6c-4c9b-a4dc-2e290ce9cd26",
+          "blob:https://x.com/66084543-7b6c-4c9b-a4dc-2e290ce9cd26"
+        ]
       },
       "engagement": {
         "replies": 2,
@@ -3567,7 +3619,7 @@
       "tweetUrl": "https://x.com/bulusekai/status/1925734644995027303",
       "links": [],
       "media": {
-        "images": ["https://pbs.twimg.com/media/GrmVNDPX0AAxrSd?format=png&name=large"],
+        "images": ["https://pbs.twimg.com/media/GrmVNDPX0AAxrSd?format=png&name=small"],
         "videos": []
       },
       "engagement": {
@@ -3663,11 +3715,11 @@
         "https://x.com/kanaia_jkt48v"
       ],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/media/GrOW1IWXgAEKe5b?format=webp&name=large",
-          "https://pbs.twimg.com/ext_tw_video_thumb/1924047388374716416/pu/img/U08UM5EyDK0XEjXl?format=webp&name=large"
-        ],
-        "videos": []
+        "images": ["https://pbs.twimg.com/media/GrOW1IWXgAEKe5b?format=webp&name=large"],
+        "videos": [
+          "blob:https://x.com/c29d6c24-aa7d-4e36-b70a-06795c3c35cd",
+          "blob:https://x.com/c29d6c24-aa7d-4e36-b70a-06795c3c35cd"
+        ]
       },
       "engagement": {
         "replies": 1,
@@ -4074,10 +4126,11 @@
       "tweetUrl": "https://x.com/luckywonky/status/1914690743467446282",
       "links": ["https://x.com/tana_jkt48v"],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/amplify_video_thumb/1914683456992555008/img/0Fkn0VLHNWsCav_d?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": [
+          "blob:https://x.com/d2ccd0df-4827-48b9-9c26-d25b1dab8209",
+          "blob:https://x.com/d2ccd0df-4827-48b9-9c26-d25b1dab8209"
+        ]
       },
       "engagement": {
         "replies": 5,
@@ -4334,10 +4387,11 @@
       "tweetUrl": "https://x.com/ktsr_45/status/1909569628629508410",
       "links": [],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1909569582227927040/pu/img/upaxg5_PPjt9VXs4?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": [
+          "blob:https://x.com/894a9338-3f91-4dfd-80bf-ab72b2e44a5b",
+          "blob:https://x.com/894a9338-3f91-4dfd-80bf-ab72b2e44a5b"
+        ]
       },
       "engagement": {
         "replies": 0,
@@ -4566,10 +4620,11 @@
       "tweetUrl": "https://x.com/ReinkaNanashi/status/1903731282494013815",
       "links": [],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1903730641344319488/pu/img/PW8AxeUzRf-gjHUm?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": [
+          "blob:https://x.com/ba004543-bc0a-46bd-8286-57cf3aaa5df1",
+          "blob:https://x.com/ba004543-bc0a-46bd-8286-57cf3aaa5df1"
+        ]
       },
       "engagement": {
         "replies": 8,
@@ -4602,7 +4657,7 @@
       "engagement": {
         "replies": 40,
         "retweets": 136,
-        "likes": 1513,
+        "likes": 1514,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -4671,7 +4726,7 @@
       "engagement": {
         "replies": 2,
         "retweets": 34,
-        "likes": 285,
+        "likes": 286,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -5095,10 +5150,11 @@
       "tweetUrl": "https://x.com/AergiaAjah/status/1886598016938991719",
       "links": ["https://x.com/tana_jkt48v"],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1886597616206798851/pu/img/yNtFMkg_d2tS-Yf4?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": [
+          "blob:https://x.com/d2bf99a8-5c8d-4c90-a68c-a621ac17ba0c",
+          "blob:https://x.com/d2bf99a8-5c8d-4c90-a68c-a621ac17ba0c"
+        ]
       },
       "engagement": {
         "replies": 2,
@@ -5120,7 +5176,7 @@
       "tweetUrl": "https://x.com/AergiaAjah/status/1886490199989084282",
       "links": [],
       "media": {
-        "images": ["https://pbs.twimg.com/media/Gi4neska4AAHcvy?format=png&name=large"],
+        "images": ["https://pbs.twimg.com/media/Gi4neska4AAHcvy?format=png&name=240x240"],
         "videos": []
       },
       "engagement": {
@@ -5171,10 +5227,11 @@
       "tweetUrl": "https://x.com/sunymz/status/1880561064611651624",
       "links": [],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1880560864539111424/pu/img/ZtxM0x3UT4fqU2QE?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": [
+          "blob:https://x.com/cbfba960-4b62-4ca8-b571-dd3f96c1db6c",
+          "blob:https://x.com/cbfba960-4b62-4ca8-b571-dd3f96c1db6c"
+        ]
       },
       "engagement": {
         "replies": 3,
@@ -5278,15 +5335,16 @@
       "tweetUrl": "https://x.com/sunymz/status/1871862470845083832",
       "links": ["https://x.com/tana_jkt48v", "https://x.com/wargavirtual48"],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1871861630671421441/pu/img/KOk2eEAsM9CnnMpm?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": [
+          "blob:https://x.com/7f5f43e6-7f31-4339-ab6a-9484401d71d4",
+          "blob:https://x.com/7f5f43e6-7f31-4339-ab6a-9484401d71d4"
+        ]
       },
       "engagement": {
         "replies": 69,
-        "retweets": 911,
-        "likes": 2134,
+        "retweets": 912,
+        "likes": 2135,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -5304,17 +5362,17 @@
       "links": [],
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/GfkTmAfaQAAAL6w?format=png&name=large",
-          "https://pbs.twimg.com/media/GfkTnWRaUAAlF3s?format=png&name=large",
-          "https://pbs.twimg.com/media/GfkTosaaEAAwGBH?format=png&name=large",
-          "https://pbs.twimg.com/media/GfkTqIfaYAA1GLE?format=png&name=large"
+          "https://pbs.twimg.com/media/GfkTmAfaQAAAL6w?format=png&name=360x360",
+          "https://pbs.twimg.com/media/GfkTnWRaUAAlF3s?format=png&name=360x360",
+          "https://pbs.twimg.com/media/GfkTosaaEAAwGBH?format=png&name=360x360",
+          "https://pbs.twimg.com/media/GfkTqIfaYAA1GLE?format=png&name=360x360"
         ],
         "videos": []
       },
       "engagement": {
         "replies": 0,
         "retweets": 8,
-        "likes": 95,
+        "likes": 94,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -6197,9 +6255,12 @@
       "links": [],
       "media": {
         "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1832703406991163392/pu/img/iuCGAFnr5Kw1S6H6?format=webp&name=large"
+          "https://pbs.twimg.com/ext_tw_video_thumb/1832703406991163392/pu/img/iuCGAFnr5Kw1S6H6.jpg"
         ],
-        "videos": []
+        "videos": [
+          "blob:https://x.com/e5aaa38b-acc2-429b-8993-e0acf07b47a6",
+          "blob:https://x.com/e5aaa38b-acc2-429b-8993-e0acf07b47a6"
+        ]
       },
       "engagement": {
         "replies": 1,
@@ -6221,10 +6282,8 @@
       "tweetUrl": "https://x.com/kazootoku/status/1832664748695138375",
       "links": [],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/tweet_video_thumb/GW7u3gEa8AA0QEO?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": ["https://video.twimg.com/tweet_video/GW7u3gEa8AA0QEO.mp4"]
       },
       "engagement": {
         "replies": 4,
@@ -6663,11 +6722,11 @@
       "tweetUrl": "https://x.com/giyohoho/status/1827276805524615355",
       "links": ["https://x.com/tana_jkt48v"],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1827276287833964545/pu/img/jd12s1j9dmmOmMth?format=webp&name=large",
-          "https://pbs.twimg.com/media/GVvKGhza8AI1QwX?format=png&name=large"
-        ],
-        "videos": []
+        "images": ["https://pbs.twimg.com/media/GVvKGhza8AI1QwX?format=png&name=small"],
+        "videos": [
+          "blob:https://x.com/0360ca93-4bbf-4603-a61e-1e0aca45daa6",
+          "blob:https://x.com/0360ca93-4bbf-4603-a61e-1e0aca45daa6"
+        ]
       },
       "engagement": {
         "replies": 0,
@@ -7080,10 +7139,11 @@
       "tweetUrl": "https://x.com/anak_oyaji/status/1814046948170875156",
       "links": ["https://x.com/tana_jkt48v"],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1814046568238202880/pu/img/54YPZnMuun58NBlv?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": [
+          "blob:https://x.com/02ea5c3d-9419-41cd-92b7-a2b5b12f80ed",
+          "blob:https://x.com/02ea5c3d-9419-41cd-92b7-a2b5b12f80ed"
+        ]
       },
       "engagement": {
         "replies": 0,
@@ -7106,9 +7166,12 @@
       "links": ["https://x.com/tana_jkt48v"],
       "media": {
         "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1813882302621184000/pu/img/oYpQWgnnGTmuev42?format=webp&name=large"
+          "https://pbs.twimg.com/ext_tw_video_thumb/1813882302621184000/pu/img/oYpQWgnnGTmuev42.jpg"
         ],
-        "videos": []
+        "videos": [
+          "blob:https://x.com/bf800d02-7b94-4514-ba06-1849fba78879",
+          "blob:https://x.com/bf800d02-7b94-4514-ba06-1849fba78879"
+        ]
       },
       "engagement": {
         "replies": 4,
@@ -7130,10 +7193,11 @@
       "tweetUrl": "https://x.com/anak_oyaji/status/1813269257192677751",
       "links": ["https://x.com/tana_jkt48v"],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1813269186971594755/pu/img/p45YIpPyowUqPEeG?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": [
+          "blob:https://x.com/c876f5d3-53a4-4e4b-a6ab-17a1a7c3fa5a",
+          "blob:https://x.com/c876f5d3-53a4-4e4b-a6ab-17a1a7c3fa5a"
+        ]
       },
       "engagement": {
         "replies": 0,
@@ -7361,8 +7425,8 @@
           "https://pbs.twimg.com/ext_tw_video_thumb/1804571186355150849/pu/img/pivamGIaWlBRDQ-4.jpg"
         ],
         "videos": [
-          "blob:https://x.com/902d0eb8-bf63-4a57-a678-ebe132a6b5ea",
-          "blob:https://x.com/902d0eb8-bf63-4a57-a678-ebe132a6b5ea"
+          "blob:https://x.com/9b76e57b-bacf-4125-95d2-bd8410d433d8",
+          "blob:https://x.com/9b76e57b-bacf-4125-95d2-bd8410d433d8"
         ]
       },
       "engagement": {
@@ -7435,16 +7499,18 @@
         "https://x.com/pia_jkt48v"
       ],
       "media": {
-        "images": [],
+        "images": [
+          "https://pbs.twimg.com/ext_tw_video_thumb/1798368434478252032/pu/img/FRyq8GusjkeOjIax.jpg"
+        ],
         "videos": [
-          "blob:https://x.com/dcb3aac8-c2de-4755-88f3-1bd022cdef78",
-          "blob:https://x.com/dcb3aac8-c2de-4755-88f3-1bd022cdef78"
+          "blob:https://x.com/a8a000cd-53a0-4a39-88b2-8a223ffacb4c",
+          "blob:https://x.com/a8a000cd-53a0-4a39-88b2-8a223ffacb4c"
         ]
       },
       "engagement": {
         "replies": 2,
         "retweets": 11,
-        "likes": 147,
+        "likes": 146,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -7455,11 +7521,11 @@
       "id": "1798307569293033558",
       "username": "@sunymz",
       "displayName": "sunny🔆",
-      "text": "Stream tono sore tadi\nMeme ini disponsori oleh trakteeran @ayamgesrek\n\nKalo meme tetep pake #IrengDoesArt ya?  https://x.com/ayamgesrek/sta/ayamgesrek/status/1798293402410451161…",
+      "text": "Stream tono sore tadi\nMeme ini disponsori oleh trakteeran @ayamgesrek\n\nKalo meme tetep pake #IrengDoesArt ya?  https://t.co/JzaaTQD4kC",
       "timestamp": "2024-06-05T10:55:10.000Z",
       "timestampLabel": "Jun 5, 2024",
       "tweetUrl": "https://x.com/sunymz/status/1798307569293033558",
-      "links": ["https://x.com/ayamgesrek", "https://x.com/ayamgesrek/status/1798293402410451161"],
+      "links": ["https://x.com/ayamgesrek", "https://t.co/JzaaTQD4kC"],
       "media": {
         "images": ["https://pbs.twimg.com/media/GPTfM0Ca4AAyAUR?format=webp&name=large"],
         "videos": []
@@ -7579,7 +7645,7 @@
       "tweetUrl": "https://x.com/athaaddo/status/1795074435625472245",
       "links": [],
       "media": {
-        "images": ["https://pbs.twimg.com/media/GOlhOakbkAADD-D?format=png&name=large"],
+        "images": ["https://pbs.twimg.com/media/GOlhOakbkAADD-D?format=png&name=small"],
         "videos": []
       },
       "engagement": {
@@ -7631,7 +7697,7 @@
       "engagement": {
         "replies": 1,
         "retweets": 11,
-        "likes": 303,
+        "likes": 302,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -7750,7 +7816,7 @@
       "engagement": {
         "replies": 0,
         "retweets": 15,
-        "likes": 371,
+        "likes": 370,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -7830,7 +7896,7 @@
       "tweetUrl": "https://x.com/SasaeCollective/status/1788765906862272749",
       "links": ["https://x.com/66666666kg/status/1785341381185286472"],
       "media": {
-        "images": ["https://pbs.twimg.com/media/GNLqHLRb0AAqWte?format=png&name=large"],
+        "images": ["https://pbs.twimg.com/media/GNLqHLRb0AAqWte?format=png&name=small"],
         "videos": []
       },
       "engagement": {
@@ -7961,7 +8027,7 @@
       "tweetUrl": "https://x.com/athaaddo/status/1784947090789224796",
       "links": [],
       "media": {
-        "images": ["https://pbs.twimg.com/media/GMVn6lUbgAA62st?format=png&name=large"],
+        "images": ["https://pbs.twimg.com/media/GMVn6lUbgAA62st?format=png&name=small"],
         "videos": []
       },
       "engagement": {
@@ -8208,14 +8274,14 @@
       "media": {
         "images": [],
         "videos": [
-          "blob:https://x.com/1229a623-9220-45e1-b3bb-bc94155aa6c6",
-          "blob:https://x.com/1229a623-9220-45e1-b3bb-bc94155aa6c6"
+          "blob:https://x.com/3f86de67-1975-4eee-98dc-ca6c0a9cf762",
+          "blob:https://x.com/3f86de67-1975-4eee-98dc-ca6c0a9cf762"
         ]
       },
       "engagement": {
         "replies": 0,
         "retweets": 10,
-        "likes": 260,
+        "likes": 259,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -8238,7 +8304,7 @@
       "engagement": {
         "replies": 2,
         "retweets": 5,
-        "likes": 256,
+        "likes": 255,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -8255,12 +8321,10 @@
       "tweetUrl": "https://x.com/KresnaPuntoaji/status/1782272692202463730",
       "links": ["https://x.com/tana_jkt48v"],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1782272670836674560/pu/img/406i-MArTZHJUY9s.jpg"
-        ],
+        "images": [],
         "videos": [
-          "blob:https://x.com/7fa18e06-53a0-4cc3-a38f-abadd2cbb5f5",
-          "blob:https://x.com/7fa18e06-53a0-4cc3-a38f-abadd2cbb5f5"
+          "blob:https://x.com/ad9ed706-ab93-41dd-8317-876b6864f255",
+          "blob:https://x.com/ad9ed706-ab93-41dd-8317-876b6864f255"
         ]
       },
       "engagement": {
@@ -8283,7 +8347,7 @@
       "tweetUrl": "https://x.com/Copolatooos/status/1782224194991772007",
       "links": [],
       "media": {
-        "images": ["https://pbs.twimg.com/media/GLu7daBaYAAXz1C?format=png&name=large"],
+        "images": ["https://pbs.twimg.com/media/GLu7daBaYAAXz1C?format=png&name=small"],
         "videos": []
       },
       "engagement": {
@@ -8312,7 +8376,7 @@
       "engagement": {
         "replies": 0,
         "retweets": 29,
-        "likes": 375,
+        "likes": 374,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -8354,14 +8418,14 @@
       "media": {
         "images": [],
         "videos": [
-          "blob:https://x.com/646c40d5-0a37-438c-b523-34c95000f2be",
-          "blob:https://x.com/646c40d5-0a37-438c-b523-34c95000f2be"
+          "blob:https://x.com/b3c52b8d-2426-4615-844e-c54f5c742cfd",
+          "blob:https://x.com/b3c52b8d-2426-4615-844e-c54f5c742cfd"
         ]
       },
       "engagement": {
         "replies": 3,
         "retweets": 15,
-        "likes": 237,
+        "likes": 236,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -8389,7 +8453,7 @@
       "engagement": {
         "replies": 1,
         "retweets": 10,
-        "likes": 291,
+        "likes": 290,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -8412,7 +8476,7 @@
       "engagement": {
         "replies": 0,
         "retweets": 10,
-        "likes": 224,
+        "likes": 223,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -8539,7 +8603,7 @@
       "tweetUrl": "https://x.com/agarpac/status/1775847430606729436",
       "links": [],
       "media": {
-        "images": ["https://pbs.twimg.com/media/GKUTo9DbgAAsZqH?format=png&name=large"],
+        "images": ["https://pbs.twimg.com/media/GKUTo9DbgAAsZqH?format=png&name=small"],
         "videos": []
       },
       "engagement": {
@@ -8615,7 +8679,7 @@
       "tweetUrl": "https://x.com/anak_oyaji/status/1773432599362572563",
       "links": ["https://x.com/tana_jkt48v"],
       "media": {
-        "images": ["https://pbs.twimg.com/media/GJx_jSXawAEItdW?format=png&name=large"],
+        "images": ["https://pbs.twimg.com/media/GJx_jSXawAEItdW?format=png&name=small"],
         "videos": []
       },
       "engagement": {
@@ -8638,7 +8702,7 @@
       "tweetUrl": "https://x.com/mendadakwota/status/1773424620298998143",
       "links": [],
       "media": {
-        "images": ["https://pbs.twimg.com/media/GJx4S1obkAAzCUY?format=png&name=large"],
+        "images": ["https://pbs.twimg.com/media/GJx4S1obkAAzCUY?format=png&name=small"],
         "videos": []
       },
       "engagement": {
@@ -8663,7 +8727,7 @@
       "media": {
         "images": [
           "https://pbs.twimg.com/media/GJsprQDagAAzGwi?format=webp&name=large",
-          "https://pbs.twimg.com/media/GJsprikagAE1-vO?format=png&name=large"
+          "https://pbs.twimg.com/media/GJsprikagAE1-vO?format=png&name=360x360"
         ],
         "videos": []
       },
@@ -8833,7 +8897,7 @@
       "tweetUrl": "https://x.com/anak_oyaji/status/1771608206860595644",
       "links": [],
       "media": {
-        "images": ["https://pbs.twimg.com/media/GJYERnPbEAAPOBG?format=png&name=large"],
+        "images": ["https://pbs.twimg.com/media/GJYERnPbEAAPOBG?format=png&name=small"],
         "videos": []
       },
       "engagement": {
@@ -9008,7 +9072,7 @@
       "tweetUrl": "https://x.com/nuueee/status/1770786995146539152",
       "links": [],
       "media": {
-        "images": ["https://pbs.twimg.com/media/GJMZTTlXgAAxeLZ?format=png&name=large"],
+        "images": ["https://pbs.twimg.com/media/GJMZTTlXgAAxeLZ?format=png&name=small"],
         "videos": []
       },
       "engagement": {
@@ -9248,7 +9312,7 @@
       "media": {
         "images": [
           "https://pbs.twimg.com/media/GIj0X7Xa4AAlR1L?format=webp&name=large",
-          "https://pbs.twimg.com/media/GIj0YLPboAALpWl?format=png&name=large"
+          "https://pbs.twimg.com/media/GIj0YLPboAALpWl?format=png&name=360x360"
         ],
         "videos": []
       },
@@ -9302,10 +9366,12 @@
         "https://x.com/pia_jkt48v"
       ],
       "media": {
-        "images": [],
+        "images": [
+          "https://pbs.twimg.com/ext_tw_video_thumb/1767412051813470208/pu/img/YeWTyR5sRztl2k1y.jpg"
+        ],
         "videos": [
-          "blob:https://x.com/3bc9443d-26aa-449b-a8a5-2c5b959b8aa1",
-          "blob:https://x.com/3bc9443d-26aa-449b-a8a5-2c5b959b8aa1"
+          "blob:https://x.com/fc6c32ff-553f-4858-862e-0266687a21b4",
+          "blob:https://x.com/fc6c32ff-553f-4858-862e-0266687a21b4"
         ]
       },
       "engagement": {
@@ -9443,7 +9509,7 @@
       "tweetUrl": "https://x.com/Copolatooos/status/1764936537165418876",
       "links": [],
       "media": {
-        "images": ["https://pbs.twimg.com/media/GH5QbSmbIAAC-lV?format=png&name=large"],
+        "images": ["https://pbs.twimg.com/media/GH5QbSmbIAAC-lV?format=png&name=small"],
         "videos": []
       },
       "engagement": {
@@ -9466,7 +9532,7 @@
       "tweetUrl": "https://x.com/Copolatooos/status/1764868077819474160",
       "links": [],
       "media": {
-        "images": ["https://pbs.twimg.com/media/GH4SKcXbQAAg6zk?format=png&name=large"],
+        "images": ["https://pbs.twimg.com/media/GH4SKcXbQAAg6zk?format=png&name=small"],
         "videos": []
       },
       "engagement": {
@@ -9645,7 +9711,7 @@
       "engagement": {
         "replies": 7,
         "retweets": 16,
-        "likes": 436,
+        "likes": 435,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -9662,10 +9728,8 @@
       "tweetUrl": "https://x.com/SasaeCollective/status/1761226692868415521",
       "links": [],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/tweet_video_thumb/GDuJC04bEAAb8lJ?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": ["https://video.twimg.com/tweet_video/GDuJC04bEAAb8lJ.mp4"]
       },
       "engagement": {
         "replies": 1,
@@ -9785,7 +9849,7 @@
       "engagement": {
         "replies": 18,
         "retweets": 26,
-        "likes": 684,
+        "likes": 683,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -9833,10 +9897,8 @@
         "https://x.com/tana_jkt48v"
       ],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/tweet_video_thumb/GGSeE8hbUAACvR6?format=webp&name=large"
-        ],
-        "videos": []
+        "images": ["https://pbs.twimg.com/tweet_video_thumb/GGSeE8hbUAACvR6.jpg"],
+        "videos": ["https://video.twimg.com/tweet_video/GGSeE8hbUAACvR6.mp4"]
       },
       "engagement": {
         "replies": 16,
@@ -10191,10 +10253,11 @@
         "https://x.com/pia_jkt48v"
       ],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1750038334020464640/pu/img/X5uc39Z8bKSU54wo?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": [
+          "blob:https://x.com/371de87b-24f8-4621-ad5e-0a624b2316ef",
+          "blob:https://x.com/371de87b-24f8-4621-ad5e-0a624b2316ef"
+        ]
       },
       "engagement": {
         "replies": 8,
@@ -10216,10 +10279,11 @@
       "tweetUrl": "https://x.com/AergiaAjah/status/1749358989497028841",
       "links": [],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1749358177450332160/pu/img/8QF7Gji2PIFlcTHp?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": [
+          "blob:https://x.com/aad12324-56b5-439b-bdfc-2fd79851d0f6",
+          "blob:https://x.com/aad12324-56b5-439b-bdfc-2fd79851d0f6"
+        ]
       },
       "engagement": {
         "replies": 0,
@@ -10310,10 +10374,11 @@
       "tweetUrl": "https://x.com/AergiaAjah/status/1747201128473993466",
       "links": [],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1747200657298497536/pu/img/b__fC0gdDzt8ODUs?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": [
+          "blob:https://x.com/70b17984-4709-40c1-8211-d4ee737e1c0d",
+          "blob:https://x.com/70b17984-4709-40c1-8211-d4ee737e1c0d"
+        ]
       },
       "engagement": {
         "replies": 2,
@@ -10358,10 +10423,11 @@
       "tweetUrl": "https://x.com/nuueee/status/1744361885569339626",
       "links": ["https://x.com/tana_jkt48v"],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1744361698419408897/pu/img/T1DFvdFJzjQTDNFE?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": [
+          "blob:https://x.com/88f53471-3145-4043-9643-658b83415eed",
+          "blob:https://x.com/88f53471-3145-4043-9643-658b83415eed"
+        ]
       },
       "engagement": {
         "replies": 4,
@@ -10406,10 +10472,11 @@
       "tweetUrl": "https://x.com/sunymz/status/1742567601199583554",
       "links": [],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1742567458807140352/pu/img/dDAyrRfKMBC0o7tK?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": [
+          "blob:https://x.com/8431a69c-6cb1-4bb5-ba80-83b27e087ce2",
+          "blob:https://x.com/8431a69c-6cb1-4bb5-ba80-83b27e087ce2"
+        ]
       },
       "engagement": {
         "replies": 6,
@@ -10500,10 +10567,11 @@
       "tweetUrl": "https://x.com/nuueee/status/1741263862144639245",
       "links": [],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1741263838740373504/pu/img/4Nl765hJ5-vfEb-l?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": [
+          "blob:https://x.com/9f53e490-7581-475d-b3d6-fbd956dc3cb5",
+          "blob:https://x.com/9f53e490-7581-475d-b3d6-fbd956dc3cb5"
+        ]
       },
       "engagement": {
         "replies": 1,
@@ -10896,7 +10964,7 @@
       "engagement": {
         "replies": 2,
         "retweets": 21,
-        "likes": 261,
+        "likes": 262,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -11217,7 +11285,7 @@
       "engagement": {
         "replies": 1,
         "retweets": 24,
-        "likes": 322,
+        "likes": 321,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -11378,7 +11446,7 @@
       "engagement": {
         "replies": 8,
         "retweets": 26,
-        "likes": 364,
+        "likes": 365,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -11497,7 +11565,7 @@
       "engagement": {
         "replies": 10,
         "retweets": 23,
-        "likes": 428,
+        "likes": 429,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -11625,7 +11693,7 @@
       "engagement": {
         "replies": 13,
         "retweets": 14,
-        "likes": 501,
+        "likes": 502,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -11763,7 +11831,7 @@
       "engagement": {
         "replies": 12,
         "retweets": 20,
-        "likes": 546,
+        "likes": 547,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -11790,7 +11858,7 @@
       "engagement": {
         "replies": 3,
         "retweets": 17,
-        "likes": 289,
+        "likes": 290,
         "bookmarks": 0
       },
       "isRetweet": false,
@@ -11926,10 +11994,11 @@
       "tweetUrl": "https://x.com/IsoMirai/status/1699401894215774452",
       "links": [],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1699401159969325056/pu/img/zW0sOff3n7U9JJZn?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": [
+          "blob:https://x.com/75c6db39-88f0-4a07-977b-57a904272a06",
+          "blob:https://x.com/75c6db39-88f0-4a07-977b-57a904272a06"
+        ]
       },
       "engagement": {
         "replies": 6,
@@ -11998,8 +12067,8 @@
       "links": ["https://x.com/tana_jkt48v", "https://t.co/inqKaL7Pj7"],
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/F41zHFtasAAHN_x?format=png&name=large",
-          "https://pbs.twimg.com/media/F41zHPZbMAABxQq?format=png&name=large"
+          "https://pbs.twimg.com/media/F41zHFtasAAHN_x?format=png&name=360x360",
+          "https://pbs.twimg.com/media/F41zHPZbMAABxQq?format=png&name=360x360"
         ],
         "videos": []
       },
@@ -12830,10 +12899,11 @@
       "tweetUrl": "https://x.com/SwiftCh_/status/1693984825584345250",
       "links": ["https://x.com/tana_jkt48v"],
       "media": {
-        "images": [
-          "https://pbs.twimg.com/ext_tw_video_thumb/1693984764926308353/pu/img/kpY7QiNA4ufBjjzN?format=webp&name=large"
-        ],
-        "videos": []
+        "images": [],
+        "videos": [
+          "blob:https://x.com/d6a676f1-ce32-4073-b7aa-e59c99a224b8",
+          "blob:https://x.com/d6a676f1-ce32-4073-b7aa-e59c99a224b8"
+        ]
       },
       "engagement": {
         "replies": 0,
