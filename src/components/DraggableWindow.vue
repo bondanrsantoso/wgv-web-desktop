@@ -1,6 +1,7 @@
 <script setup>
 import { computed, reactive, ref, watch } from 'vue'
-import ClassicButton from './ClassicButton.vue'
+// import ClassicButton from './ClassicButton.vue'
+import { ChevronDown, ChevronsDownUpIcon, ChevronsUpDownIcon, MinusIcon, XIcon } from '@lucide/vue'
 
 const props = defineProps({
   maximized: { type: Boolean, default: false },
@@ -9,6 +10,7 @@ const props = defineProps({
   title: { type: String, default: 'Untitled' },
   minWidth: { type: Number, default: 400 },
   minHeight: { type: Number, default: 200 },
+  dialog: { type: Boolean, default: false },
 })
 
 const dragHandle = ref(null)
@@ -130,79 +132,104 @@ const isWindowHeldDown = ref(false)
         }
       }
     "
-    class="window-outer-frame border border-gray-800 flex flex-col overflow-auto w-[0px] h-[0px]"
+    class="window-outer-frame border border-neutral-800 flex flex-col overflow-auto w-0 h-0"
     :class="{
-      'z-50': !props.minimized && props.windowActive,
+      'z-30': !props.minimized && props.windowActive,
       'w-full h-full relative': props.maximized,
       'absolute resize': !props.maximized,
       'z-0': !props.windowActive,
     }"
   >
-    <div class="window-frame border-4 bg-gray-200 p-0 w-full h-full flex flex-col">
+    <div
+      class="window-frame border-2 border-neutral-300 bg-neutral-200 p-0 w-full h-full flex flex-col"
+    >
       <div
-        class="w-full flex flex-row flex-nowrap p-1 text-sm shrink-0"
+        class="w-full flex flex-row flex-nowrap p-1 text-sm shrink-0 relative h-9"
         :class="{
-          'bg-linear-to-r from-kana-blue to-kana-purple': props.windowActive,
-          'bg-kana-blue-pale': !props.windowActive,
+          'bg-neutral-300': props.windowActive,
+          'bg-neutral-200': !props.windowActive,
         }"
       >
-        <!-- Title bar -->
         <div
-          @mousedown="handleDragStart"
-          ref="dragHandle"
-          class="shrink w-full overflow-ellipsis flex flex-row flex-nowrap gap-1 items-center"
+          class="mr-auto shrink-0 flex flex-row flex-nowrap gap-2 px-1 items-center z-10 group/wbtn pr-2"
+          :class="{
+            'saturate-0': !props.windowActive,
+            'bg-neutral-300': props.windowActive,
+          }"
         >
-          <template v-if="$slots.icon">
-            <slot name="icon"></slot>
-          </template>
-          <!-- Title Bar text here -->
-          <p
-            class="px-2 !select-none text-nowrap text-ellipsis"
-            :class="{
-              'font-bold': props.windowActive,
-            }"
-          >
-            {{ props.title }}
-          </p>
-        </div>
-        <div class="ml-auto shrink-0 flex flex-row flex-nowrap gap-1">
           <!-- Button container -->
-          <ClassicButton
-            @click="
-              () => {
-                emits('minimize')
-              }
-            "
-            class="font-bold overflow-hidden relative border-gray-300 flex items-center aspect-square"
-          >
-            <span class="bi-dash-lg top-2 relative leading-4"></span>
-          </ClassicButton>
-          <ClassicButton
-            @click="
-              () => {
-                emits(props.maximized ? 'restore' : 'maximize')
-              }
-            "
-            class="font-bold border-gray-300 flex items-center aspect-square"
-          >
-            <span
-              class="leading-4"
-              :class="{
-                'bi-fullscreen': !props.maximized,
-                'bi-fullscreen-exit': props.maximized,
-              }"
-            ></span>
-          </ClassicButton>
-          <ClassicButton
+          <button
             @click="
               () => {
                 emits('close')
               }
             "
-            class="font-bold border-gray-300 flex items-center aspect-square"
+            class="rounded-full w-4 h-4 bg-red-500 overflow-hidden"
           >
-            <span class="bi-x-lg leading-4"></span>
-          </ClassicButton>
+            <XIcon class="w-full h-full opacity-0 group-hover/wbtn:opacity-100" />
+          </button>
+          <!-- <button
+            @click="
+              () => {
+                emits('minimize')
+              }
+            "
+            class="rounded-full w-4 h-4 bg-yellow-500 overflow-hidden"
+          >
+            <MinusIcon class="w-full h-full opacity-0 group-hover/wbtn:opacity-100" />
+          </button> -->
+          <button
+            @click="
+              () => {
+                emits(props.maximized ? 'restore' : 'maximize')
+              }
+            "
+            class="rounded-full w-4 h-4 bg-green-600 overflow-hidden rotate-45"
+          >
+            <ChevronsUpDownIcon
+              v-if="!props.maximized"
+              class="w-full h-full opacity-0 group-hover/wbtn:opacity-100"
+            />
+            <ChevronsDownUpIcon
+              v-if="props.maximized"
+              class="w-full h-full opacity-0 group-hover/wbtn:opacity-100"
+            />
+          </button>
+        </div>
+        <div
+          v-if="props.windowActive"
+          class="absolute w-full top-0 left-0 px-2 py-1 flex flex-col gap-px justify-center h-full"
+        >
+          <!-- The striped window frame decoration found in classic Macintosh/Apple systems -->
+          <hr v-for="i in 5" :key="i" class="border border-outset border-neutral-100 w-full" />
+        </div>
+        <!-- Title bar -->
+        <div
+          @mousedown="handleDragStart"
+          ref="dragHandle"
+          class="top-0 left-0 shrink w-full text-ellipsis flex flex-row justify-center flex-nowrap gap-1 items-center absolute h-full"
+        >
+          <div
+            class="flex flex-row items-center gap-1 px-1 py-1"
+            :class="{
+              'bg-neutral-300': props.windowActive,
+              'bg-neutral-200': !props.windowActive,
+            }"
+          >
+            <template v-if="$slots.icon">
+              <slot name="icon"></slot>
+            </template>
+            <!-- Title Bar text here -->
+            <p
+              class="px-2 !select-none text-nowrap text-ellipsis"
+              :class="{
+                'font-bold': props.windowActive,
+                'opacity-50': !props.windowActive,
+              }"
+            >
+              {{ props.title }}
+            </p>
+          </div>
         </div>
       </div>
 
@@ -228,7 +255,7 @@ const isWindowHeldDown = ref(false)
 </template>
 
 <style scoped>
-.window-frame {
+/*.window-frame {
   border-style: outset;
-}
+}*/
 </style>

@@ -14,4 +14,7 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url)),
     },
   },
+  server: {
+    allowedHosts: ['.localhost', '127.0.0.1', '.trycloudflare.com'],
+  },
 })

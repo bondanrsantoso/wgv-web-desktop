@@ -18,6 +18,7 @@ export async function getSpreadsheetData() {
     // Mengubah data JSON menjadi array objek yang lebih mudah digunakan
     const processedData = transformSpreadsheetData(jsonData)
 
+    console.log("processed", processedData);
     return processedData
   } catch (error) {
     console.error('Error fetching spreadsheet data:', error)

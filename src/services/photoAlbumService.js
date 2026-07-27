@@ -6,6 +6,7 @@
 import { generateDriveEmbedUrl } from '@/utils/generatedDriveEmbedUrl'
 import { getSpreadsheetData } from './spreadsheetService'
 import axios from 'axios'
+import { resolveProfile } from '@/config/profile'
 
 /**
  * Mengambil data foto dari API atau sumber data lainnya
@@ -55,6 +56,12 @@ export async function getPhotoById(id) {
 }
 
 export async function getLocalPhotoList() {
+  const profileName = window.localStorage.getItem('profile') || 'kanaia'
+  const profile = resolveProfile(profileName)
+
+  if (profile.photoAlbum) {
+    return getTwitterScrapedImages(profile.photoAlbum)
+  }
   const response = await axios.get('/fanarts/credits.txt')
 
   /**
@@ -70,4 +77,28 @@ export async function getLocalPhotoList() {
   }))
 
   return photoList
+}
+
+async function getTwitterScrapedImages(albumName) {
+  const response = await axios.get(`/fanarts/data/${albumName}.json`)
+  const { tweets } = response.data
+
+  if (!Array.isArray(tweets)) {
+    console.error('Scraped tweets is not a valid array')
+    return []
+  }
+  const photoLists = []
+  for (const t of tweets) {
+    for (const image of t.media?.images || []) {
+      const [baseResource] = image.split("?");
+      photoLists.push({
+          name: t.displayName || t.username,
+          url: `${baseResource}?format=webp&name=large`,
+          filename: t.tweetUrl.split("/").pop() + ".webp",
+          creditsUrl: t.tweetUrl,
+        })
+    }
+  }
+
+  return photoLists;
 }

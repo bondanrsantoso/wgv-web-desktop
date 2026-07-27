@@ -7,6 +7,8 @@ import RelativeTime from 'dayjs/plugin/relativeTime'
 import { computed, onMounted, reactive, ref, watch } from 'vue'
 import DOMPurify from 'dompurify'
 import ClassicIcon from '@/components/ClassicIcon.vue'
+import { resolveProfile } from '@/config/profile'
+import axios from 'axios'
 
 dayjs.extend(RelativeTime)
 
@@ -39,19 +41,68 @@ function parseSpreadsheetDate(dateString) {
   return date
 }
 
-onMounted(async () => {
-  const submission = await getSpreadsheetData()
+const selectedProfileName = ref(null)
+const selectedProfile = computed(() =>
+  selectedProfileName.value ? resolveProfile(selectedProfileName.value) : null,
+)
+const isFromTweet = computed(() => (selectedProfile.value.tweets ? true : false))
 
-  for (const item of submission) {
-    const sanitizedLetter = DOMPurify.sanitize(item.fanLetter)
-    emails.push({
-      name: item.name,
-      username: item.name,
-      subject: item.fubject,
-      body: sanitizedLetter.replaceAll('\n', '<br/>'),
-      timestamp: parseSpreadsheetDate(item.timestamp),
-      attachments: item.fanSubmission,
-    })
+watch(selectedProfile, async (profile) => {
+  // console.log({profile})
+  if (profile.tweets?.length > 0) {
+    for (const tweetDataUrl of profile.tweets) {
+      try {
+        const response = await axios.get(tweetDataUrl)
+        const { tweets } = response.data
+        for (const tweet of tweets) {
+          if (tweet.username === '@wargavirtual48' || tweet.username === '@tana_jkt48v') continue
+          const sanitizedLetter = DOMPurify.sanitize(tweet.text)
+          emails.push({
+            name: tweet.displayName,
+            username: tweet.username,
+            tweetUrl: tweet.tweetUrl,
+            subject: tweet.text.slice(0, 50) + '...',
+            body: sanitizedLetter.replaceAll('\n', '<br/>'),
+            timestamp: new Date(tweet.timestamp),
+            attachments: tweet.media?.images?.length > 0 ? tweet.media?.images : null,
+            quoted: tweet.quoted
+              ? {
+                  name: tweet.quoted.displayName,
+                  username: tweet.quoted.username,
+                  subject: tweet.quoted.text.slice(0, 100) + '...',
+                  body: tweet.quoted.text.replaceAll('\n', '<br/>'),
+                  timestamp: new Date(tweet.quoted.timestamp),
+                  attachments: tweet.quoted.media?.images?.length > 0 ? tweet.media?.images : null,
+                }
+              : null,
+          })
+        }
+      } catch (e) {
+        console.error('Failed to fetch tweets', e)
+      }
+    }
+  } else {
+    const submission = await getSpreadsheetData()
+
+    for (const item of submission) {
+      const sanitizedLetter = DOMPurify.sanitize(item.fanLetter)
+      emails.push({
+        name: item.name,
+        username: item.name,
+        subject: item.fubject,
+        body: sanitizedLetter.replaceAll('\n', '<br/>'),
+        timestamp: parseSpreadsheetDate(item.timestamp),
+        attachments: item.fanSubmission ? [item.fanSubmission] : null,
+      })
+    }
+  }
+})
+
+onMounted(async () => {
+  if (window.localStorage.getItem('profile')) {
+    selectedProfileName.value = window.localStorage.getItem('profile')
+  } else {
+    selectedProfileName.value = 'kanaia'
   }
 })
 
@@ -70,6 +121,9 @@ const currentMail = computed(() => {
  */
 function getDriveEmbeddingURL(attachmentUrl) {
   const url = new URL(attachmentUrl)
+  if (!/google/i.test(url.hostname)) {
+    return attachmentUrl
+  }
 
   const fileId = url.searchParams.get('id')
 
@@ -95,7 +149,11 @@ function handleAttachmentLoad() {
 </script>
 
 <template>
-  <div class="flex flex-col h-screen w-screen overflow-hidden">
+  <div
+    class="flex flex-col h-screen w-screen overflow-hidden"
+    v-if="selectedProfile"
+    :class="[`theme-${selectedProfile.theme || 'kanaia'}`]"
+  >
     <header class="bg-gray-200 shrink-0 p-4 flex flex-row flex-nowrap items-center">
       <ClassicButton
         class="p-1 px-2 group"
@@ -121,9 +179,13 @@ function handleAttachmentLoad() {
       </ClassicButton>
 
       <div class="ms-auto">
-        <img src="/kanaia.jpg" alt="kanaia profile" class="inline-block w-8 border me-2" />
+        <img
+          :src="selectedProfile.photo"
+          alt="kanaia profile"
+          class="inline-block w-8 border me-2"
+        />
         <span>
-          <b>Kanaia Asa</b>
+          <b>{{ selectedProfile.displayName }}</b>
         </span>
       </div>
     </header>
@@ -139,8 +201,8 @@ function handleAttachmentLoad() {
         <hr class="pt-4" /> -->
         <div class="w-full grid grid-cols-1 divide-solid divide-y-1 divide-gray-400 select-none">
           <button
-            class="space-y-1 py-2 px-4 block text-start hover:bg-blue-800 hover:text-white"
-            :class="{ 'bg-blue-300': activeMailIndex === i }"
+            class="space-y-1 py-2 px-4 block text-start hover:bg-primary hover:text-white"
+            :class="{ 'bg-primary text-white': activeMailIndex === i }"
             v-for="(email, i) in emails"
             :key="`${i}${email.username}`"
             @click="() => (activeMailIndex = i)"
@@ -168,19 +230,30 @@ function handleAttachmentLoad() {
             <div class="space-y-1">
               <div class="flex flex-row gap-2">
                 <div class="text-start">From:</div>
-                <b>{{ currentMail.username }}</b>
+                <b>{{ currentMail.name }} - {{ currentMail.username }}</b>
               </div>
               <div class="flex flex-row gap-2">
                 <div class="text-start">To:</div>
-                <b>Kanaia Asa</b>
+                <b>{{ selectedProfile.displayName }}</b>
               </div>
               <div class="flex flex-row gap-2">
                 <div class="text-start">Subject:</div>
                 <b>{{ currentMail.subject }}</b>
               </div>
-              <div v-if="currentMail.attachments" class="flex flex-row gap-2">
+              <div v-if="currentMail.attachments?.length > 0" class="flex flex-row gap-2">
                 <div class="text-start">Attachment:</div>
-                <b>1 Attachment(s)</b>
+                <b>{{ currentMail.attachments?.length }} Attachment(s)</b>
+              </div>
+              <div v-if="currentMail.tweetUrl">
+                <ClassicButton
+                  is="a"
+                  :href="currentMail.tweetUrl"
+                  target="_blank"
+                  class="px-4 py-1"
+                >
+                  <span class="bi-box-arrow-up-right me-2"></span>
+                  View Original
+                </ClassicButton>
               </div>
             </div>
             <div class="text-end ms-auto">
@@ -191,32 +264,58 @@ function handleAttachmentLoad() {
           <div class="py-4 prose-md mx-auto bg-white px-8">
             <!-- Email Body -->
             <div v-html="currentMail.body"></div>
-
-            <!-- <pre>
-            {{ JSON.stringify(currentMail, null, 2) }}
-          </pre> -->
+            <div v-if="currentMail.quoted" class="mt-2 text-purple-800">
+              <hr class="my-4" />
+              <p>
+                Quoting:
+                <strong>{{ currentMail.quoted.name }}</strong>
+                ({{ currentMail.quoted.username }})
+              </p>
+              <p>
+                {{ dayjs(currentMail.quoted.timestamp).fromNow() }}
+              </p>
+              <div class="mt-2" v-html="currentMail.quoted.body"></div>
+              <!-- <pre>
+                {{ JSON.stringify(currentMail.quoted, null, 2) }}
+              </pre> -->
+            </div>
           </div>
-          <div v-if="currentMail.attachments" class="mt-6">
+
+          <div v-if="currentMail.attachments?.length > 0" class="mt-6">
             <h3 class="text-lg font-bold">Attachment(s)</h3>
             <div class="mt-2 relative">
               <ClassicButton @click="() => (isAttachmentOpen = true)" v-if="!isAttachmentOpen">
                 <span class="bi-paperclip me-2"></span>
-                View 1 Attachment(s)
+                View {{ currentMail.attachments?.length }} Attachment(s)
               </ClassicButton>
+              <template v-if="isAttachmentOpen && !isFromTweet">
+                <!-- Drive Embed view -->
+                <div
+                  v-if="isAttachmentOpen"
+                  class="absolute w-full h-full flex items-center justify-center bg-gray-300"
+                >
+                  <img src="/hourglass.gif" alt="" class="w-8 h-8" />
+                </div>
+                <iframe
+                  v-for="attachment in currentMail.attachments"
+                  :key="attachment"
+                  :src="getDriveEmbeddingURL(attachment)"
+                  class="w-full h-[80vh] relative"
+                  frameborder="0"
+                ></iframe>
+              </template>
               <div
-                v-if="isAttachmentOpen"
-                class="absolute w-full h-full flex items-center justify-center bg-gray-300"
+                class="w-full flex flex-row flex-wrap gap-4"
+                v-if="isAttachmentOpen && isFromTweet"
               >
-                <img src="/hourglass.gif" alt="" class="w-8 h-8" />
+                <div
+                  v-for="attachment in currentMail.attachments"
+                  class="min-w-1/3 max-w-full grow"
+                  :key="attachment"
+                >
+                  <img :src="attachment" class="w-full" alt="" />
+                </div>
               </div>
-              <iframe
-                ref="attachmentFrame"
-                @load="handleAttachmentLoad"
-                :src="getDriveEmbeddingURL(currentMail.attachments)"
-                v-if="isAttachmentOpen"
-                class="w-full h-[80vh] relative"
-                frameborder="0"
-              ></iframe>
             </div>
           </div>
         </div>

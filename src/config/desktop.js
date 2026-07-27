@@ -1,7 +1,7 @@
 export const apps = [
   {
-    icon: 'cd-audio',
-    label: 'Kaia Media Player',
+    icon: 'applications-multimedia',
+    label: 'WGV Media Player',
     appletUrl: '/applet/media-player',
     windowSetting: {
       minWidth: 640,
@@ -9,7 +9,7 @@ export const apps = [
     },
   },
   {
-    icon: 'monalisa',
+    icon: 'applications-photography',
     label: 'Photo Viewer',
     appletUrl: '/applet/photo-album',
     windowSetting: {
@@ -18,7 +18,7 @@ export const apps = [
     },
   },
   {
-    icon: 'people',
+    icon: 'susers',
     label: 'Video Call',
     appletUrl: '/applet/video-call',
     windowSetting: {
@@ -26,17 +26,17 @@ export const apps = [
       minHeight: 600,
     },
   },
+  // {
+  //   icon: 'telephone',
+  //   label: 'Voicemail',
+  //   appletUrl: '/applet/voice-mail',
+  //   windowSetting: {
+  //     minWidth: 500,
+  //     minHeight: 480,
+  //   },
+  // },
   {
-    icon: 'telephone',
-    label: 'Voicemail',
-    appletUrl: '/applet/voice-mail',
-    windowSetting: {
-      minWidth: 500,
-      minHeight: 480,
-    },
-  },
-  {
-    icon: 'mail',
+    icon: 'mailnag',
     label: 'E-Mail',
     appletUrl: '/applet/email',
     windowSetting: {
@@ -48,13 +48,13 @@ export const apps = [
 
 export const desktopIcons = [
   ...apps,
-  {
-    icon: 'notepad',
-    label: 'Memori Asa.pdf',
-    appletUrl: 'https://online.fliphtml5.com/cxnyj/ocnr/',
-    windowSetting: {
-      minWidth: 500,
-      minHeight: 480,
-    },
-  },
+  // {
+  //   icon: 'audiobook',
+  //   label: 'TONOfMemories.pdf',
+  //   appletUrl: 'https://online.fliphtml5.com/cxnyj/ocnr/',
+  //   windowSetting: {
+  //     minWidth: 500,
+  //     minHeight: 480,
+  //   },
+  // },
 ]

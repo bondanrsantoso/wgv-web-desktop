@@ -1,98 +1,39 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <script setup>
-import { computed, ref, watch } from 'vue'
+import { computed, ref, watch, onMounted } from 'vue'
 import Youtube from 'vue3-youtube'
 import Slider from '@/components/SliderComponent.vue'
 import dayjs from 'dayjs'
 import UTC from 'dayjs/plugin/utc'
 import ClassicButton from '@/components/ClassicButton.vue'
+import { resolveProfile } from '@/config/profile'
 
 dayjs.extend(UTC)
 
 const SETTING_MEDIA_VOLUME = 'preferred_media_volume'
 const SETTING_PREFER_MUTED = 'preferred_media_muted'
 
-const playlist = [
-  {
-    title: 'Punkish',
-    artist: 'JKT48V',
-    album: 'Punkish',
-    url: 'https://www.youtube.com/watch?v=bCeWCo8ICPc',
-  },
-  {
-    title: 'Switch',
-    artist: 'Kanaia Asa',
-    album: 'Switch (Cover)',
-    url: 'https://www.youtube.com/watch?v=_ndMYK3eGiY',
-  },
-  {
-    title: 'Heart Gata Virus',
-    artist: 'JKT48V',
-    album: 'Heart Gata Virus',
-    url: 'https://www.youtube.com/watch?v=vvKmNuXc9_0',
-  },
-  {
-    title: 'Fly Me to The Star',
-    artist: 'Kanaia Asa',
-    album: 'Fly Me to The Star (Cover)',
-    url: 'https://www.youtube.com/watch?v=FOfGOirMtmI',
-  },
-  {
-    title: 'Hana',
-    artist: 'Kanaia Asa',
-    album: 'Hana (Cover)',
-    url: 'https://www.youtube.com/watch?v=-9MJzTk2btQ',
-  },
-  {
-    title: 'Rapsodi',
-    artist: 'Kanaia Asa',
-    album: 'Rapsodi (Cover)',
-    url: 'https://www.youtube.com/watch?v=nsbK62FEHUA',
-  },
-  {
-    title: 'Kanayobi',
-    artist: 'Kanaia Asa',
-    album: 'Kanayobi',
-    url: 'https://www.youtube.com/watch?v=dTE_TbM2jE4',
-  },
-  {
-    title: 'Jangan Panggil Diriku Idol',
-    artist: 'Kanaia Asa & Tana Nona',
-    album: 'Jangan Panggil Diriku Idol (Cover)',
-    url: 'https://www.youtube.com/watch?v=jydU7Cj3b48',
-  },
-  {
-    title: 'Suatu Saat Bertemu',
-    artist: 'JKT48V',
-    album: 'Suatu Saat Bertemu',
-    url: 'https://www.youtube.com/watch?v=eW1P0lOiBM0',
-  },
-  {
-    title: 'Sungai Impian',
-    artist: 'Kanaia Asa & Pia Meraleo',
-    album: 'Sungai Impian / Yume no Kawa (Cover)',
-    url: 'https://www.youtube.com/watch?v=uxnXVo8W70I',
-  },
-  {
-    title: 'Always be With You XD',
-    artist: 'Kanaia Asa & Caerula Aki',
-    album: 'Always be With You XD (Cover)',
-    url: 'https://www.youtube.com/watch?v=b4IHMx5acIc',
-  },
-  {
-    title: 'Memori Asa',
-    artist: 'Wargavi48',
-    album: 'Memori Asa (Special Graduation Kanaia Asa)',
-    url: 'https://www.youtube.com/watch?v=5BViCw0zyUM',
-  },
-]
+const selectedProfileName = ref(null)
+const selectedProfile = computed(() =>
+  selectedProfileName.value ? resolveProfile(selectedProfileName.value) : null,
+)
+
+const playlist = computed(() => selectedProfile.value?.playlist || []);
+
+onMounted(async () => {
+  if (window.localStorage.getItem('profile')) {
+    selectedProfileName.value = window.localStorage.getItem('profile')
+  } else {
+    selectedProfileName.value = 'kanaia'
+  }
+})
 
 const showPlaylist = ref(false)
 
 const activeVideoIndex = ref(-1)
 const activeVideo = computed(() => {
   if (activeVideoIndex.value === -1) return null
-  return playlist[activeVideoIndex.value]
+  return playlist.value[activeVideoIndex.value]
 })
 
 const progress = ref(0)

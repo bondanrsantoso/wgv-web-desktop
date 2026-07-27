@@ -128,7 +128,7 @@ function checkIconVisible() {
   <div
     ref="outermostContainer"
     @fullscreenchange="fullscreenChange"
-    class="bg-white relative w-screen h-screen border-3 border-gray-200 overflow-x-hidden flex flex-col select-none"
+    class="bg-white relative w-screen h-screen border-3 border-gray-200 overflow-x-hidden flex flex-col select-none theme-tananona"
   >
     <nav class="w-full p-4 bg-gray-200 flex flex-row flex-nowrap items-center shrink-0">
       <!-- <ClassicButton
@@ -220,7 +220,7 @@ function checkIconVisible() {
           :class="{
             'underline text-blue-800': selectedImage.creditsUrl,
           }"
-          >By {{ selectedImage.name }}</component
+          >From {{ selectedImage.name }}</component
         >
         <div class="flex items-center flex-row justify-center gap-4 relative">
           <ClassicButton

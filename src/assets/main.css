@@ -3,6 +3,8 @@
 
 @plugin "@tailwindcss/typography";
 
+/*@custom-variant tana (&:is(.theme-tananona *));*/
+
 @theme {
   --font-sans: 'Karla', Arial, sans-serif;
   --color-kana-blue: #99b1dc;
@@ -10,7 +12,18 @@
   --color-kana-purple: #bea3e7;
   --color-brand-blue-dark: #1e87bc;
 
-  --shadow-classic: 10px 10px rgba(0, 0, 0, 0.2);
+  --color-primary: oklch(54.6% 0.245 262.881);
+
+  --shadow-classic: 10px 10px rgba(0, 0, 0, 0.4);
+
+  --text-shadow-outline: -1px -1px 1px var(--tw-text-shadow-color, rgb(0 0 0 / 0.2)),
+                        1px 1px 1px var(--tw-text-shadow-color, rgb(0 0 0 / 0.2)),
+                        -1px 1px 1px var(--tw-text-shadow-color, rgb(0 0 0 / 0.2)),
+                        1px -1px 1px var(--tw-text-shadow-color, rgb(0 0 0 / 0.2));
+}
+
+.theme-tananona, .theme-tananona * {
+  --color-primary: #b85e68;
 }
 
 html,

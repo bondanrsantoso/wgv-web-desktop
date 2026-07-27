@@ -19,7 +19,7 @@ watch(props, () => {
 </script>
 
 <template>
-  <div class="w-full h-full grow-0 flex flex-col overflow-y-hidden relative bg-gray-200">
+  <div class="w-full h-full grow-0 flex flex-col overflow-y-hidden relative bg-gray-200 theme-tananona">
     <div
       class="h-full border-3 border-inset shrink grow-0 bg-black relative flex flex-col justify-center"
     >

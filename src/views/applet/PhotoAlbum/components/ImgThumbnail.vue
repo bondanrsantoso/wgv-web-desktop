@@ -39,7 +39,7 @@ defineExpose({
       <div
         class="w-full h-full opacity-50 absolute z-20"
         :class="{
-          'bg-blue-800': props.selected,
+          'bg-primary': props.selected,
           'bg-transparent': !props.selected,
         }"
       ></div>
@@ -57,7 +57,7 @@ defineExpose({
     <p
       class="truncate"
       :class="{
-        'bg-blue-900 text-white': props.selected,
+        'bg-primary text-white': props.selected,
       }"
     >
       {{ filename }}

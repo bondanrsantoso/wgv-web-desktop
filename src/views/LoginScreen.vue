@@ -1,19 +1,24 @@
 <script setup lang="ts">
 import ClassicButton from '@/components/ClassicButton.vue'
 import ClassicIcon from '@/components/ClassicIcon.vue'
-import { ref } from 'vue'
+import { ref, computed } from 'vue'
+import { profiles, resolveProfile } from "@/config/profile"
+
+const selectedProfile = ref("kanaia");
+const selectedTheme = computed(() => resolveProfile(selectedProfile.value).theme)
 
 const showHelp = ref(false)
 
 const emits = defineEmits(['login'])
 function handleLogin() {
-  emits('login')
+  emits('login', selectedProfile.value)
 }
 </script>
 
 <template>
   <div
     class="fixed w-screen h-screen z-50 bg-blue-300 flex justify-center items-center overflow-hidden select-none"
+    :class="[`theme-${selectedTheme}`]"
   >
     <div class="border-1 border-black m-10">
       <div class="border-4 border-outset bg-gray-300 max-w-xl">
@@ -24,9 +29,11 @@ function handleLogin() {
           <p>Login</p>
         </div>
         <div class="w-full p-4 space-y-4">
-          <div class="flex flex-row gap-4 items-center">
-            <img src="/kanaia.jpg" alt="" class="inline-block w-12 me-6 border-2 border-outset" />
-            <p class="font-bold text-lg">Kanaia Asa</p>
+          <div class="bg-white border border-black">
+            <div v-for="(profile, key) in profiles" @click="() => {selectedProfile = key}" class="flex flex-row gap-2 px-2 py-3 items-center" :key="key" :class="{'bg-primary text-white': key === selectedProfile}">
+              <img :src="profile.photo" alt="" class="inline-block w-12 me-6 border-2 border-outset" />
+              <p class="font-bold text-lg">{{profile.displayName}}</p>
+            </div>
           </div>
           <form class="space-y-4" @submit.prevent="handleLogin">
             <div class="flex flex-row gap-4 items-center">
