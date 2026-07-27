@@ -114,6 +114,12 @@ export const profiles = {
         url: 'https://www.youtube.com/watch?v=2oqWG4ELyv4',
       },
       {
+        title: 'Just Wanna xxxx With You',
+        artist: 'Tana Nona, Pia Meraleo, Auri Cordelia, Caerula Aki, Gema Gathika',
+        album: 'Just Wanna xxxx With You (Cover)',
+        url: 'https://www.youtube.com/watch?v=ejUBpOIPDhc',
+      },
+      {
         title: 'Unravel',
         artist: 'Tana Nona',
         album: 'Unravel (Cover)',
@@ -162,10 +168,22 @@ export const profiles = {
         url: 'https://www.youtube.com/watch?v=OfUW4qyN7t0',
       },
       {
+        title: 'Endless Tears',
+        artist: 'Tana Nona & Amarynn',
+        album: 'Endless Tears (Cover)',
+        url: 'https://www.youtube.com/watch?v=6XSi_6LtmWQ',
+      },
+      {
         title: 'Getcha',
         artist: 'Tana Nona & Kureiji Ollie',
         album: 'Getcha (Cover)',
         url: 'https://www.youtube.com/watch?v=6eVa2Au3F_A',
+      },
+      {
+        title: 'Re:Dreaming Angel (Indonesia Ver.)',
+        artist: 'Tana Nona & Pia Meraleo',
+        album: 'Re:Dreaming Angel (Zenless Zone Zero)',
+        url: 'https://www.youtube.com/watch?v=mDq8I8Kt7JE',
       },
       {
         title: 'Oh My Pumpkin! Jawa Version',
