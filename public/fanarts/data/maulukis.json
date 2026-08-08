@@ -1,0 +1,1535 @@
+{
+  "metadata": {
+    "hashtag": "#MauLukis",
+    "scraped_at": "2026-08-08T14:59:40.605Z",
+    "total_tweets": 40,
+    "source_url": "https://x.com/hashtag/MauLukis",
+    "scraper_version": "1.2.0",
+    "chrome_port": 9222,
+    "scroll_delay_ms": 2000,
+    "images_downloaded": 43,
+    "videos_downloaded": 2,
+    "avatars_downloaded": 25,
+    "images_dir": "images",
+    "videos_dir": "videos",
+    "avatars_dir": "avatars"
+  },
+  "tweets": [
+    {
+      "id": "2085818527601361211",
+      "username": "@DannySasazaki",
+      "displayName": "Danny sasazaki",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2039868517319901184/e8bmLu1j_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#MauLukis",
+      "tweetUrl": "https://x.com/DannySasazaki/status/2085818527601361211",
+      "links": [],
+      "timestamp": "2026-08-07T20:01:04.000Z",
+      "timestampLabel": "18h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPJQ5aqakAEzp7O?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 1,
+        "likes": 12,
+        "bookmarks": 0,
+        "views": 152
+      },
+      "localImages": [
+        "images/2085818527601361211_1.jpg"
+      ],
+      "localAvatar": "avatars/DannySasazaki.jpg"
+    },
+    {
+      "id": "2085309438748135642",
+      "username": "@DannySasazaki",
+      "displayName": "Danny sasazaki",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2039868517319901184/e8bmLu1j_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#MauLukis hasil modif gambar lama",
+      "tweetUrl": "https://x.com/DannySasazaki/status/2085309438748135642",
+      "links": [],
+      "timestamp": "2026-08-06T10:18:08.000Z",
+      "timestampLabel": "Aug 6",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPCB4i3a0AAlIRh?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 1,
+        "bookmarks": 0,
+        "views": 43
+      },
+      "localImages": [
+        "images/2085309438748135642_1.jpg"
+      ],
+      "localAvatar": "avatars/DannySasazaki.jpg"
+    },
+    {
+      "id": "2084883930688430557",
+      "username": "@DannySasazaki",
+      "displayName": "Danny sasazaki",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2039868517319901184/e8bmLu1j_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#Maulukis",
+      "tweetUrl": "https://x.com/DannySasazaki/status/2084883930688430557",
+      "links": [],
+      "timestamp": "2026-08-05T06:07:19.000Z",
+      "timestampLabel": "Aug 5",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HO7-4sObsAAG7qa?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 1,
+        "bookmarks": 0,
+        "views": 30
+      },
+      "localImages": [
+        "images/2084883930688430557_1.jpg"
+      ],
+      "localAvatar": "avatars/DannySasazaki.jpg"
+    },
+    {
+      "id": "2083295270402707563",
+      "username": "@bulusekai",
+      "displayName": "bluesky",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2044041379589005312/8c1MTQNV_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "candy sebuah ya~ ada dalam pipi~\n\n#MauLukis #Isha4K",
+      "tweetUrl": "https://x.com/bulusekai/status/2083295270402707563",
+      "links": [],
+      "timestamp": "2026-07-31T20:54:32.000Z",
+      "timestampLabel": "Aug 1",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HOlZsG7aUAARr5i?format=jpg&name=small",
+          "https://pbs.twimg.com/media/HLx-VoHaoAAj1Rc?format=png&name=240x240"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 43,
+        "likes": 215,
+        "bookmarks": 0,
+        "views": 4200
+      },
+      "localImages": [
+        "images/2083295270402707563_1.jpg",
+        "images/2083295270402707563_2.jpg"
+      ],
+      "localAvatar": "avatars/bulusekai.jpg"
+    },
+    {
+      "id": "2070669357420773729",
+      "username": "@bulusekai",
+      "displayName": "bluesky",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2044041379589005312/8c1MTQNV_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "candy sebuah ya~ ada dalam pipi🍭 #MauLukis #Isha4K",
+      "tweetUrl": "https://x.com/bulusekai/status/2070669357420773729",
+      "links": [],
+      "timestamp": "2026-06-27T00:43:40.000Z",
+      "timestampLabel": "Jun 27",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HLx-VoHaoAAj1Rc?format=png&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 24,
+        "likes": 108,
+        "bookmarks": 0,
+        "views": 11000
+      },
+      "localImages": [
+        "images/2070669357420773729_1.jpg"
+      ],
+      "localAvatar": "avatars/bulusekai.jpg"
+    },
+    {
+      "id": "2069078565963104638",
+      "username": "@mrtn_arc",
+      "displayName": "Leuca",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2069638741333889025/MlmDVdib_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "\"The darker the night, the brighter the stars\"\n\nTetap semangat ya dalam berkarya~^^\n#Midn19htDaydream #MauLukis",
+      "tweetUrl": "https://x.com/mrtn_arc/status/2069078565963104638",
+      "links": [],
+      "timestamp": "2026-06-22T15:22:26.000Z",
+      "timestampLabel": "Jun 22",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HLbX_YoagAEAOIj?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 5,
+        "likes": 12,
+        "bookmarks": 0,
+        "views": 284
+      },
+      "localImages": [
+        "images/2069078565963104638_1.jpg"
+      ],
+      "localAvatar": "avatars/mrtn_arc.jpg"
+    },
+    {
+      "id": "2068721434780930180",
+      "username": "@gw_yudaa",
+      "displayName": "Yuda",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1767583464508067840/-sSSV5HT_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Happy Birthday Maura\n\n#MauLukis #Midn19htDaydream",
+      "tweetUrl": "https://x.com/gw_yudaa/status/2068721434780930180",
+      "links": [],
+      "timestamp": "2026-06-21T15:43:19.000Z",
+      "timestampLabel": "Jun 21",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HLWTLX0bgAA13Co?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 5,
+        "likes": 12,
+        "bookmarks": 0,
+        "views": 313
+      },
+      "localImages": [
+        "images/2068721434780930180_1.jpg"
+      ],
+      "localAvatar": "avatars/gw_yudaa.jpg"
+    },
+    {
+      "id": "2068695156845592836",
+      "username": "@ryuumihikaru",
+      "displayName": "Hika",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2082467334179135488/1bKnwzjD_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "HBD Mauwa (part2)...\nSemoga yang disemogakan tersemogakan... 💙\n\n#Midn19htDaydream\n#MauLukis #MauraJKT48V",
+      "tweetUrl": "https://x.com/ryuumihikaru/status/2068695156845592836",
+      "links": [],
+      "timestamp": "2026-06-21T13:58:54.000Z",
+      "timestampLabel": "Jun 21",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HLV7R--awAAiIdZ?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 21,
+        "likes": 73,
+        "bookmarks": 0,
+        "views": 3000
+      },
+      "localImages": [
+        "images/2068695156845592836_1.jpg"
+      ],
+      "localAvatar": "avatars/ryuumihikaru.jpg"
+    },
+    {
+      "id": "2068527222315704506",
+      "username": "@Fian_iian",
+      "displayName": "PiaraanKoko",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2082478720770846720/Ic-z2AYx_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Selamat ulang tahun ketua 💙\nSemoga yang disemogakan terwujudkan tahun ini\n\nArt by : Pini kichi\n#Midn19htDayDream #MauLukis",
+      "tweetUrl": "https://x.com/Fian_iian/status/2068527222315704506",
+      "links": [],
+      "timestamp": "2026-06-21T02:51:35.000Z",
+      "timestampLabel": "Jun 21",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HLTiiqYbkAIHR2k?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 8,
+        "likes": 22,
+        "bookmarks": 0,
+        "views": 337
+      },
+      "localImages": [
+        "images/2068527222315704506_1.jpg"
+      ],
+      "localAvatar": "avatars/Fian_iian.jpg"
+    },
+    {
+      "id": "2068494129622093906",
+      "username": "@AchmadRafieD",
+      "displayName": "Achmad Rafie Diankusuma",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2083790910882766849/B1iA9pqD_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Happy birthday, Maura Nilambari.\n\n#maurajkt48v #maulukis #Midn19htDaydream",
+      "tweetUrl": "https://x.com/AchmadRafieD/status/2068494129622093906",
+      "links": [],
+      "timestamp": "2026-06-21T00:40:05.000Z",
+      "timestampLabel": "Jun 21",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HLTEcfWa8AAqsLI?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 2,
+        "likes": 9,
+        "bookmarks": 0,
+        "views": 187
+      },
+      "localImages": [
+        "images/2068494129622093906_1.jpg"
+      ],
+      "localAvatar": "avatars/AchmadRafieD.jpg"
+    },
+    {
+      "id": "2068484578692702499",
+      "username": "@ryuumihikaru",
+      "displayName": "Hika",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2082467334179135488/1bKnwzjD_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "HBD Mauwa (part1)... 💙✨\n\n#Midn19htDaydream\n#MauLukis #MauraJKT48V",
+      "tweetUrl": "https://x.com/ryuumihikaru/status/2068484578692702499",
+      "links": [],
+      "timestamp": "2026-06-21T00:02:08.000Z",
+      "timestampLabel": "Jun 21",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HLS7s0ka8AAfN0N?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 10,
+        "likes": 28,
+        "bookmarks": 0,
+        "views": 361
+      },
+      "localImages": [
+        "images/2068484578692702499_1.jpg"
+      ],
+      "localAvatar": "avatars/ryuumihikaru.jpg"
+    },
+    {
+      "id": "2068393768534135041",
+      "username": "@Empingsolo_",
+      "displayName": "Empingsolo",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2071546082056896512/5FVkc4Nl_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "selamat hbd maura 🎂🎷🎺\n.\n.\nart by ashitaa\n#MauLukis #Midn19htDaydream 🎷",
+      "tweetUrl": "https://x.com/Empingsolo_/status/2068393768534135041",
+      "links": [],
+      "timestamp": "2026-06-20T18:01:17.000Z",
+      "timestampLabel": "Jun 21",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HLRm7Cta8AA0-XT?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 9,
+        "likes": 50,
+        "bookmarks": 0,
+        "views": 675
+      },
+      "localImages": [
+        "images/2068393768534135041_1.jpg"
+      ],
+      "localAvatar": "avatars/Empingsolo_.jpg"
+    },
+    {
+      "id": "2062453325338198208",
+      "username": "@DannySasazaki",
+      "displayName": "Danny sasazaki",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2039868517319901184/e8bmLu1j_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#MauLukis #SamiOnoArt #Isha4K #Piallete #IrengDoesArt #KanArtea #CaerulArt #Cordeliart #SolPAINT terinspirasi dari art style yoshitaka amano (still need more practice though)",
+      "tweetUrl": "https://x.com/DannySasazaki/status/2062453325338198208",
+      "links": [],
+      "timestamp": "2026-06-04T08:36:05.000Z",
+      "timestampLabel": "Jun 4",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HJ9OXqKboAADK6h?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 15,
+        "likes": 76,
+        "bookmarks": 0,
+        "views": 3700
+      },
+      "localImages": [
+        "images/2062453325338198208_1.jpg"
+      ],
+      "localAvatar": "avatars/DannySasazaki.jpg"
+    },
+    {
+      "id": "2062116052553871594",
+      "username": "@DannySasazaki",
+      "displayName": "Danny sasazaki",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2039868517319901184/e8bmLu1j_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "WIP #Maulukis",
+      "tweetUrl": "https://x.com/DannySasazaki/status/2062116052553871594",
+      "links": [],
+      "timestamp": "2026-06-03T10:15:53.000Z",
+      "timestampLabel": "Jun 3",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HJ4bnydaEAAakei?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 3,
+        "bookmarks": 0,
+        "views": 174
+      },
+      "localImages": [
+        "images/2062116052553871594_1.jpg"
+      ],
+      "localAvatar": "avatars/DannySasazaki.jpg"
+    },
+    {
+      "id": "2048627476671467783",
+      "username": "@xshirahalicex",
+      "displayName": "Shirahashi Halice 白橋はりす",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2085363526877786112/yI6JZdAf_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Hari yang panas \n\nJangan lupa topi dan kipas hhe \n\n#piallete #irengdoesart #maulukis #isha4k #samionoart #jkt48v",
+      "tweetUrl": "https://x.com/xshirahalicex/status/2048627476671467783",
+      "links": [],
+      "timestamp": "2026-04-27T04:57:06.000Z",
+      "timestampLabel": "Apr 27",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HG4v0qkakAAMhLA?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 3,
+        "likes": 7,
+        "bookmarks": 0,
+        "views": 512
+      },
+      "localImages": [
+        "images/2048627476671467783_1.jpg"
+      ],
+      "localAvatar": "avatars/xshirahalicex.jpg"
+    },
+    {
+      "id": "2046615478286831781",
+      "username": "@xshirahalicex",
+      "displayName": "Shirahashi Halice 白橋はりす",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2085363526877786112/yI6JZdAf_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Pake template Team Love #Piallete #IrengDoesArt #MauLukis #Isha4k #SamiOnoArt BTW #21ntikArunika #TanaMini juga hhe",
+      "tweetUrl": "https://x.com/xshirahalicex/status/2046615478286831781",
+      "links": [],
+      "timestamp": "2026-04-21T15:42:08.000Z",
+      "timestampLabel": "Apr 21",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HGcJ6tpbUAAm_TV?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 6,
+        "likes": 31,
+        "bookmarks": 0,
+        "views": 850
+      },
+      "localImages": [
+        "images/2046615478286831781_1.jpg"
+      ],
+      "localAvatar": "avatars/xshirahalicex.jpg"
+    },
+    {
+      "id": "2044016551570145366",
+      "username": "@kuritikamu",
+      "displayName": "Kuritikamu",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2056160848536801280/DPoUItP8_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "2/5 done 💪\n#MauLukis",
+      "tweetUrl": "https://x.com/kuritikamu/status/2044016551570145366",
+      "links": [],
+      "timestamp": "2026-04-14T11:34:56.000Z",
+      "timestampLabel": "Apr 14",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HF3N51baAAAWyZ3?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 7,
+        "likes": 32,
+        "bookmarks": 0,
+        "views": 609
+      },
+      "localImages": [
+        "images/2044016551570145366_1.jpg"
+      ],
+      "localAvatar": "avatars/kuritikamu.jpg"
+    },
+    {
+      "id": "2039642689667563958",
+      "username": "@Rizuka_Miku",
+      "displayName": "Rizuka Miku|| Cover FAJAR SANG IDOLA",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086095175924023296/OKwYTfqn_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Maura: Wah udah jadi nih nastarnya~ ☺️\nMiku: Akan ku habiskan semuanya!😋\n\n🎨: \n@pia_jkt48v\n 💖✨ #MauLukis \n@maura_jkt48v",
+      "tweetUrl": "https://x.com/Rizuka_Miku/status/2039642689667563958",
+      "links": [
+        "https://x.com/pia_jkt48v",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-04-02T09:54:46.000Z",
+      "timestampLabel": "Apr 2",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HE5C_XTbQAAOdcE?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 15,
+        "likes": 106,
+        "bookmarks": 0,
+        "views": 1300
+      },
+      "localImages": [
+        "images/2039642689667563958_1.jpg"
+      ],
+      "localAvatar": "avatars/Rizuka_Miku.jpg"
+    },
+    {
+      "id": "2035355845740155005",
+      "username": "@DannySasazaki",
+      "displayName": "Danny sasazaki",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2039868517319901184/e8bmLu1j_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Ramadan ends,\nyet it's warmth lingers somewhere within us.\nMinal aidin wal faidzin, mohon maaf lahir dan batin 🤍\n\n#MauLukis #SamiOnoArt #Isha4K #Piallete #IrengDoesArt #KanArtea",
+      "tweetUrl": "https://x.com/DannySasazaki/status/2035355845740155005",
+      "links": [],
+      "timestamp": "2026-03-21T14:00:23.000Z",
+      "timestampLabel": "Mar 21",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HD8JWvWa8AAANga?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 36,
+        "likes": 199,
+        "bookmarks": 0,
+        "views": 7400
+      },
+      "localImages": [
+        "images/2035355845740155005_1.jpg"
+      ],
+      "localAvatar": "avatars/DannySasazaki.jpg"
+    },
+    {
+      "id": "2033634575822557281",
+      "username": "@rush_a0807",
+      "displayName": "Rush-A",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2085660795955036160/N3nqo4_b_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "❄️\n#MauLukis #MauraJKT48V",
+      "tweetUrl": "https://x.com/rush_a0807/status/2033634575822557281",
+      "links": [],
+      "timestamp": "2026-03-16T20:00:40.000Z",
+      "timestampLabel": "Mar 17",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HDjrpJAaAAEucfo?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 4,
+        "likes": 13,
+        "bookmarks": 0,
+        "views": 335
+      },
+      "localImages": [
+        "images/2033634575822557281_1.jpg"
+      ],
+      "localAvatar": "avatars/rush_a0807.jpg"
+    },
+    {
+      "id": "2025697726734946476",
+      "username": "@DannySasazaki",
+      "displayName": "Danny sasazaki",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2039868517319901184/e8bmLu1j_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "I'm mistakenly calculate the veil size when it involved the hair flexibility. Assalamualaikum ukhti \n@tana_jkt48v\n dan \n@maura_jkt48v\n ijin #IrengDoesArt #MauLukis",
+      "tweetUrl": "https://x.com/DannySasazaki/status/2025697726734946476",
+      "links": [
+        "https://x.com/tana_jkt48v",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-02-22T22:22:28.000Z",
+      "timestampLabel": "Feb 23",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HBy5WPFaMAAj1-P?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 8,
+        "likes": 49,
+        "bookmarks": 0,
+        "views": 3600
+      },
+      "localImages": [
+        "images/2025697726734946476_1.jpg"
+      ],
+      "localAvatar": "avatars/DannySasazaki.jpg"
+    },
+    {
+      "id": "2025667871633002832",
+      "username": "@DannySasazaki",
+      "displayName": "Danny sasazaki",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2039868517319901184/e8bmLu1j_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Assalamualaikum ukhti \n@tana_jkt48v\n dan \n@maura_jkt48v\n ijin #IrengDoesArt #MauLukis",
+      "tweetUrl": "https://x.com/DannySasazaki/status/2025667871633002832",
+      "links": [
+        "https://x.com/tana_jkt48v",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-02-22T20:23:50.000Z",
+      "timestampLabel": "Feb 23",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HByeMbfbgAApyam?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 12,
+        "likes": 135,
+        "bookmarks": 0,
+        "views": 4400
+      },
+      "localImages": [
+        "images/2025667871633002832_1.jpg"
+      ],
+      "localAvatar": "avatars/DannySasazaki.jpg"
+    },
+    {
+      "id": "2008419776453111835",
+      "username": "@DannySasazaki",
+      "displayName": "Danny sasazaki",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2039868517319901184/e8bmLu1j_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Ketika \n@maura_jkt48v\n tiba tiba punya ide aneh untuk konten #MauLukis #Isha4K #SamiOnoArt",
+      "tweetUrl": "https://x.com/DannySasazaki/status/2008419776453111835",
+      "links": [
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-01-06T06:06:03.000Z",
+      "timestampLabel": "Jan 6",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G99XJLDbcAQe4HK?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 4,
+        "likes": 27,
+        "bookmarks": 0,
+        "views": 704
+      },
+      "localImages": [
+        "images/2008419776453111835_1.jpg"
+      ],
+      "localAvatar": "avatars/DannySasazaki.jpg"
+    },
+    {
+      "id": "2006763932221059341",
+      "username": "@AntalProph82974",
+      "displayName": "Crown",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2042609030687002628/EOasPyKL_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "ketika mereka jadi servant di FGO, \n\nGrand order good bye\n\n#MauLukis #samiOnoArt #Isha4K #FGO",
+      "tweetUrl": "https://x.com/AntalProph82974/status/2006763932221059341",
+      "links": [],
+      "timestamp": "2026-01-01T16:26:19.000Z",
+      "timestampLabel": "Jan 1",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G9l0Pd3bIAAxNlg?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 5,
+        "likes": 11,
+        "bookmarks": 0,
+        "views": 603
+      },
+      "localImages": [
+        "images/2006763932221059341_1.jpg"
+      ],
+      "localAvatar": "avatars/AntalProph82974.jpg"
+    },
+    {
+      "id": "2004118363883425795",
+      "username": "@DannySasazaki",
+      "displayName": "Danny sasazaki",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2039868517319901184/e8bmLu1j_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "AHIHIHI #MauLukis \n@maura_jkt48v",
+      "tweetUrl": "https://x.com/DannySasazaki/status/2004118363883425795",
+      "links": [
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2025-12-25T09:13:47.000Z",
+      "timestampLabel": "Dec 25, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G9APB-yb0AIfdk_?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 4,
+        "likes": 8,
+        "bookmarks": 0,
+        "views": 309
+      },
+      "localImages": [
+        "images/2004118363883425795_1.jpg"
+      ],
+      "localAvatar": "avatars/DannySasazaki.jpg"
+    },
+    {
+      "id": "1996912152100458693",
+      "username": "@awil_will",
+      "displayName": "Awil Will",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1933059394532749314/712PRAAs_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "❄️🥶\n#MauLukis",
+      "tweetUrl": "https://x.com/awil_will/status/1996912152100458693",
+      "links": [],
+      "timestamp": "2025-12-05T11:58:52.000Z",
+      "timestampLabel": "Dec 5, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G7Z1BEQb0AAdc4A?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 8,
+        "retweets": 44,
+        "likes": 236,
+        "bookmarks": 0,
+        "views": 5100
+      },
+      "localImages": [
+        "images/1996912152100458693_1.jpg"
+      ],
+      "localAvatar": "avatars/awil_will.jpg"
+    },
+    {
+      "id": "1993728735422632165",
+      "username": "@mrtn_arc",
+      "displayName": "Leuca",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2069638741333889025/MlmDVdib_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Selamat dan semangat berkarya, Kak Maura. Salam kenal ya~^^ #MauLukis",
+      "tweetUrl": "https://x.com/mrtn_arc/status/1993728735422632165",
+      "links": [],
+      "timestamp": "2025-11-26T17:09:06.000Z",
+      "timestampLabel": "Nov 27, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G6sluAdbkAEL2_c?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 4,
+        "likes": 15,
+        "bookmarks": 0,
+        "views": 360
+      },
+      "localImages": [
+        "images/1993728735422632165_1.jpg"
+      ],
+      "localAvatar": "avatars/mrtn_arc.jpg"
+    },
+    {
+      "id": "1992941273171505508",
+      "username": "@Saltyuko27",
+      "displayName": "Yuko27 ✱ working on comms!",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2040380029293735936/Q6N5Kx67_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "【 #yk27work 】\nI was in charge for \n@maura_jkt48v\n 's\nStream overlays, Schedule, Logo, and Social Media Banners!\n\nThank you so much for trusting me and congratulations for the debut!!\n\n#MauLukis",
+      "tweetUrl": "https://x.com/Saltyuko27/status/1992941273171505508",
+      "links": [
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2025-11-24T13:00:01.000Z",
+      "timestampLabel": "Nov 24, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G6fO9ShawAAFnd3?format=jpg&name=small",
+          "https://pbs.twimg.com/media/G6fOr3vb0AAKQwl?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 2,
+        "retweets": 12,
+        "likes": 96,
+        "bookmarks": 0,
+        "views": 2400
+      },
+      "localImages": [
+        "images/1992941273171505508_1.jpg",
+        "images/1992941273171505508_2.jpg"
+      ],
+      "localAvatar": "avatars/Saltyuko27.jpg"
+    },
+    {
+      "id": "1992919400761143718",
+      "username": "@meirritory",
+      "displayName": "✮⋆˙ Mei ✮⋆˙",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1971940286923526147/sReq9XV__normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "\"They said oil and water were never meant to be...\nlook at us now.\"\n\nTana Nona x Maura Nilambari — Arcane ver.\n#IrengDoesArt #MauLukis",
+      "tweetUrl": "https://x.com/meirritory/status/1992919400761143718",
+      "links": [],
+      "timestamp": "2025-11-24T11:33:06.000Z",
+      "timestampLabel": "Nov 24, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G6hBmobb0AAiQcY?format=jpg&name=small",
+          "https://pbs.twimg.com/media/G6hBneXaQAAd6Ay?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 6,
+        "retweets": 57,
+        "likes": 320,
+        "bookmarks": 0,
+        "views": 10000
+      },
+      "thread": [
+        {
+          "id": "1992923909373739178",
+          "username": "@meirritory",
+          "displayName": "✮⋆˙ Mei ✮⋆˙",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1971940286923526147/sReq9XV__normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "Tana Nona as Vi, Maura Nilambari as Caitlyn Kiramman — two worlds, one connection.\n\n#IrengDoesArt #MauLukis",
+          "tweetUrl": "https://x.com/meirritory/status/1992923909373739178/photo/1",
+          "links": [],
+          "timestamp": "2025-11-24T11:51:01.000Z",
+          "timestampLabel": "6:51 PM · Nov 24, 2025",
+          "media": {
+            "images": [
+              "https://pbs.twimg.com/media/G6hH5ipagAErKR8?format=jpg&name=360x360",
+              "https://pbs.twimg.com/media/G6hJsmkagAEyEPH?format=jpg&name=360x360"
+            ],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 7,
+            "retweets": 48,
+            "likes": 337,
+            "bookmarks": 14,
+            "views": 0
+          },
+          "isThreadReply": true,
+          "localImages": [
+            "images/1992923909373739178_1.jpg",
+            "images/1992923909373739178_2.jpg"
+          ],
+          "localAvatar": "avatars/meirritory.jpg"
+        },
+        {
+          "id": "2043284377459941471",
+          "username": "@meirritory",
+          "displayName": "✮⋆˙ Mei ✮⋆˙",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1971940286923526147/sReq9XV__normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "iyaa boleh bgt silakan yaa Maura!!🥰",
+          "tweetUrl": "https://x.com/meirritory/status/2043284377459941471",
+          "links": [],
+          "timestamp": "2026-04-12T11:05:32.000Z",
+          "timestampLabel": "Apr 12",
+          "media": {
+            "images": [],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 0,
+            "retweets": 0,
+            "likes": 3,
+            "bookmarks": 0,
+            "views": 171
+          },
+          "isThreadReply": true,
+          "localAvatar": "avatars/meirritory.jpg"
+        }
+      ],
+      "isThreadReply": false,
+      "localImages": [
+        "images/1992919400761143718_1.jpg",
+        "images/1992919400761143718_2.jpg"
+      ],
+      "localAvatar": "avatars/meirritory.jpg"
+    },
+    {
+      "id": "1992888898431910297",
+      "username": "@trialexit",
+      "displayName": "bliari",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2021206677195046912/fgqQqf4L_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#MauLukis",
+      "tweetUrl": "https://x.com/trialexit/status/1992888898431910297",
+      "links": [],
+      "timestamp": "2025-11-24T09:31:54.000Z",
+      "timestampLabel": "Nov 24, 2025",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 15,
+        "likes": 142,
+        "bookmarks": 0,
+        "views": 2100
+      },
+      "localVideo": "videos/1992888898431910297.mp4",
+      "localAvatar": "avatars/trialexit.jpg"
+    },
+    {
+      "id": "1992699465355128927",
+      "username": "@doodlyz_",
+      "displayName": "Doodlyz",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2048641291119190016/C7kuwmyn_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "#MauLukis 🤔",
+      "tweetUrl": "https://x.com/doodlyz_/status/1992699465355128927",
+      "links": [],
+      "timestamp": "2025-11-23T20:59:09.000Z",
+      "timestampLabel": "Nov 24, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G6d9miaakAAwMJo?format=jpg&name=small",
+          "https://pbs.twimg.com/media/G5uMLAHWUAA3l3D?format=jpg&name=120x120"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 2,
+        "likes": 17,
+        "bookmarks": 0,
+        "views": 781
+      },
+      "localImages": [
+        "images/1992699465355128927_1.jpg",
+        "images/1992699465355128927_2.jpg"
+      ],
+      "localAvatar": "avatars/doodlyz_.jpg"
+    },
+    {
+      "id": "1992608884314476612",
+      "username": "@konattt",
+      "displayName": "Konattt (COMMISSION Open)",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1144878193893003264/uttPZ4FT_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Mau Tayang\n#MauLukis",
+      "tweetUrl": "https://x.com/konattt/status/1992608884314476612",
+      "links": [],
+      "timestamp": "2025-11-23T14:59:13.000Z",
+      "timestampLabel": "Nov 23, 2025",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 4,
+        "likes": 23,
+        "bookmarks": 0,
+        "views": 737
+      },
+      "localVideo": "videos/1992608884314476612.mp4",
+      "localAvatar": "avatars/konattt.jpg"
+    },
+    {
+      "id": "1992607293259833730",
+      "username": "@Nueks__",
+      "displayName": "Nueks",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2013860812721369088/rLwqSV8U_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#MauLukis",
+      "tweetUrl": "https://x.com/Nueks__/status/1992607293259833730",
+      "links": [],
+      "timestamp": "2025-11-23T14:52:54.000Z",
+      "timestampLabel": "Nov 23, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G6cpt0saoAAdZww?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 8,
+        "likes": 29,
+        "bookmarks": 0,
+        "views": 947
+      },
+      "localImages": [
+        "images/1992607293259833730_1.jpg"
+      ],
+      "localAvatar": "avatars/Nueks__.jpg"
+    },
+    {
+      "id": "1992606177314959825",
+      "username": "@MahiraHiraa",
+      "displayName": "Hiraa | Commission Open",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2057444655328055296/5fYMbGHn_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Rkgk\n#MauLukis",
+      "tweetUrl": "https://x.com/MahiraHiraa/status/1992606177314959825",
+      "links": [],
+      "timestamp": "2025-11-23T14:48:28.000Z",
+      "timestampLabel": "Nov 23, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G6couBkbMAAgKac?format=png&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 2,
+        "retweets": 14,
+        "likes": 90,
+        "bookmarks": 0,
+        "views": 1900
+      },
+      "localImages": [
+        "images/1992606177314959825_1.jpg"
+      ],
+      "localAvatar": "avatars/MahiraHiraa.jpg"
+    },
+    {
+      "id": "1992601356038013175",
+      "username": "@MaroonR19",
+      "displayName": "マルーンR",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2066224951049535488/CgUC4pDO_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#MauLukis",
+      "tweetUrl": "https://x.com/MaroonR19/status/1992601356038013175",
+      "links": [],
+      "timestamp": "2025-11-23T14:29:18.000Z",
+      "timestampLabel": "Nov 23, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G6ckPBPawAAQd5A?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 6,
+        "retweets": 57,
+        "likes": 361,
+        "bookmarks": 0,
+        "views": 7900
+      },
+      "localImages": [
+        "images/1992601356038013175_1.jpg"
+      ],
+      "localAvatar": "avatars/MaroonR19.jpg"
+    },
+    {
+      "id": "1992601103729643924",
+      "username": "@MaroonR19",
+      "displayName": "マルーンR",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2066224951049535488/CgUC4pDO_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "frosted blossom of bygone floe.\n#MauLukis",
+      "tweetUrl": "https://x.com/MaroonR19/status/1992601103729643924",
+      "links": [],
+      "timestamp": "2025-11-23T14:28:18.000Z",
+      "timestampLabel": "Nov 23, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G6ciU6kbMAArqp_?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 7,
+        "retweets": 57,
+        "likes": 471,
+        "bookmarks": 0,
+        "views": 9000
+      },
+      "localImages": [
+        "images/1992601103729643924_1.jpg"
+      ],
+      "localAvatar": "avatars/MaroonR19.jpg"
+    },
+    {
+      "id": "1992599050898776512",
+      "username": "@hievasp",
+      "displayName": "Hieh",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1707419742464843776/4CGT6Oe__normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "CONGRATS DEBUT MAURAA! ✨\n\nAnaknya aestetik sekali yaaa wkwk\n#MauLukis",
+      "tweetUrl": "https://x.com/hievasp/status/1992599050898776512",
+      "links": [],
+      "timestamp": "2025-11-23T14:20:09.000Z",
+      "timestampLabel": "Nov 23, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G6cfm41a8AAZZDe?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 4,
+        "retweets": 90,
+        "likes": 742,
+        "bookmarks": 0,
+        "views": 18000
+      },
+      "localImages": [
+        "images/1992599050898776512_1.jpg"
+      ],
+      "localAvatar": "avatars/hievasp.jpg"
+    },
+    {
+      "id": "1992594408156611039",
+      "username": "@shinoillust_",
+      "displayName": "shinonono",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1995027039011889152/VCWBTD58_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Congrats atas debutnya Maura!!\nOtsuMaura!!\n\n#MauLukis #MauraJKT48V",
+      "tweetUrl": "https://x.com/shinoillust_/status/1992594408156611039",
+      "links": [],
+      "timestamp": "2025-11-23T14:01:42.000Z",
+      "timestampLabel": "Nov 23, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G6cR68oa4AAsPzh?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 4,
+        "retweets": 14,
+        "likes": 161,
+        "bookmarks": 0,
+        "views": 5500
+      },
+      "localImages": [
+        "images/1992594408156611039_1.jpg"
+      ],
+      "localAvatar": "avatars/shinoillust_.jpg"
+    },
+    {
+      "id": "1992588202298016146",
+      "username": "@bulusekai",
+      "displayName": "bluesky",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2044041379589005312/8c1MTQNV_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#MauLukis",
+      "tweetUrl": "https://x.com/bulusekai/status/1992588202298016146",
+      "links": [],
+      "timestamp": "2025-11-23T13:37:02.000Z",
+      "timestampLabel": "Nov 23, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G4mIZQQacAAOpuo?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 4,
+        "likes": 95,
+        "bookmarks": 0,
+        "views": 2000
+      },
+      "localImages": [
+        "images/1992588202298016146_1.jpg"
+      ],
+      "localAvatar": "avatars/bulusekai.jpg"
+    },
+    {
+      "id": "2084212472895152589",
+      "username": "@maura_jkt48v",
+      "displayName": "Maura Nilambari",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2077276580095905792/YgNpRexJ_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Sebelum cerita ini sampai di penghujung halaman…\n\nKalau kalian ingin meninggalkan sepucuk surat untukku, bagikan dengan hashtag #WuvMaura ya!",
+      "tweetUrl": "https://x.com/maura_jkt48v/status/2084212472895152589",
+      "links": [],
+      "timestamp": "2026-08-03T09:39:10.000Z",
+      "timestampLabel": "Aug 3",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 12,
+        "retweets": 80,
+        "likes": 408,
+        "bookmarks": 0,
+        "views": 9100
+      },
+      "thread": [
+        {
+          "id": "2084212474895855879",
+          "username": "@maura_jkt48v",
+          "displayName": "Maura Nilambari",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2077276580095905792/YgNpRexJ_normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "Aku akan membaca beberapa di antaranya saat graduation stream nanti 🤍\n\nDan kalau kalian ingin meninggalkan warna dan kenangan dengan cara yang berbeda…\n\n🎨 Fanart: #MauLukis\n🎬 Clip: #CuplikanMaura",
+          "tweetUrl": "https://x.com/maura_jkt48v/status/2084212474895855879",
+          "links": [],
+          "timestamp": "2026-08-03T09:39:11.000Z",
+          "timestampLabel": "4:39 PM · Aug 3, 2026",
+          "media": {
+            "images": [],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 0,
+            "retweets": 20,
+            "likes": 135,
+            "bookmarks": 0,
+            "views": 0
+          },
+          "isThreadReply": true,
+          "localAvatar": "avatars/maura_jkt48v.jpg"
+        }
+      ],
+      "isThreadReply": false,
+      "localAvatar": "avatars/maura_jkt48v.jpg"
+    }
+  ]
+}

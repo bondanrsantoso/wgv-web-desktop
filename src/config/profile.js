@@ -239,6 +239,43 @@ export const profiles = {
       },
     ]
   },
+  maura: {
+    photo: "/profiles/maura.jpg",
+    wallpaper: "/wallpapers/maura.jpg",
+    theme: "maura",
+    displayName: "Maura Nilambari",
+    photoAlbum: "maulukis",
+    featuredVideo: 'https://www.youtube.com/watch?v=tCNLREVv33I',
+    featuredVideoTag: "#makeitMemaurable",
+    tweets: [
+      "/scraped_tweets/maura.json",
+    ],
+    playlist: [
+      {
+        title: 'Suatu Saat Bertemu (Dreamtale)',
+        artist: 'JKT48V Gen 2',
+        album: 'Suatu Saat Bertemu (Dreamtale)',
+        url: 'https://www.youtube.com/watch?v=NLQn3tm3tUc',
+      },
+      {
+        title: 'Weight of The World (壊レタ世界ノ歌)',
+        artist: 'Maura Nilambari',
+        album: 'Weight of The World (壊レタ世界ノ歌) (Cover)',
+        url: 'https://www.youtube.com/watch?v=Vs-Ba6jVQBw',
+      },
+    ],
+    desktopItems: [
+      {
+        icon: 'audiobook',
+        label: 'Nuansa-Karya-Kata_ByHelmi.pdf',
+        appletUrl: 'https://drive.google.com/file/d/1HSiNUtkStjfN0dKTNxe-KTRv6lYeEM81/preview',
+        windowSetting: {
+          minWidth: 500,
+          minHeight: 480,
+        },
+      },
+    ]
+  },
 };
 
 export function resolveProfile(profileName) {

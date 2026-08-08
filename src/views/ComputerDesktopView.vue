@@ -4,7 +4,7 @@ import ClassicIcon from '@/components/ClassicIcon.vue'
 import DesktopIcon from '@/components/DesktopIcon.vue'
 import DraggableWindow from '@/components/DraggableWindow.vue'
 import dayjs from 'dayjs'
-import { computed, onMounted, reactive, ref } from 'vue'
+import { computed, onMounted, reactive, ref, watch } from 'vue'
 import { apps, desktopIcons as icons } from '../config/desktop'
 import BootScreen from './BootScreen.vue'
 import LoginScreen from './LoginScreen.vue'
@@ -186,15 +186,30 @@ function toggleFullscreen() {
   }
 }
 
-const selectedProfile = ref("kanaia");
-const selectedTheme = computed(() => resolveProfile(selectedProfile.value).theme);
-const selectedWallpaper = computed(() => resolveProfile(selectedProfile.value).wallpaper);
+const selectedProfile = ref('kanaia')
+const selectedTheme = computed(() => resolveProfile(selectedProfile.value).theme)
+const selectedWallpaper = computed(() => resolveProfile(selectedProfile.value).wallpaper)
+const additionalDesktopIcons = computed(
+  () => resolveProfile(selectedProfile.value).desktopItems || [],
+)
 
 function handleLogin(profile) {
   selectedProfile.value = profile
-  isLoggedIn.value = true;
-  window.localStorage.setItem("profile", profile);
+  isLoggedIn.value = true
+  window.localStorage.setItem('profile', profile)
 }
+
+watch(additionalDesktopIcons, (addedIcons) => {
+  if (addedIcons?.length > 0) {
+    desktopIcons.length = 0
+    for (const i of icons) {
+      desktopIcons.push({ ...i, selected: false })
+    }
+    for (const i of addedIcons) {
+      desktopIcons.push({ ...i, selected: false })
+    }
+  }
+})
 
 const menubarContents = computed(() => [
   {
@@ -203,8 +218,8 @@ const menubarContents = computed(() => [
       {
         label: 'Log out',
         onClick() {
-          runningApps.length = 0;
-          isLoggedIn.value = false;
+          runningApps.length = 0
+          isLoggedIn.value = false
         },
       },
       {
@@ -377,13 +392,9 @@ const submenuOpen = ref(false)
 
       <div
         id="desktop-container"
-        style="
-          background-size: cover;
-          background-position: center;
-          background-repeat: no-repeat;
-        "
+        style="background-size: cover; background-position: center; background-repeat: no-repeat"
         :style="{
-          backgroundImage: `url('${selectedWallpaper}')`
+          backgroundImage: `url('${selectedWallpaper}')`,
         }"
         class="w-full h-full overflow-hidden relative bg-stone-300"
         @click="

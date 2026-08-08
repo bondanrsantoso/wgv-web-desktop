@@ -26,6 +26,10 @@
   --color-primary: #b85e68;
 }
 
+.theme-maura, .theme-maura * {
+  --color-primary: #445fac;
+}
+
 html,
 body {
   font-size: 14px;
