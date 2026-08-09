@@ -259,6 +259,12 @@ export const profiles = {
         url: 'https://www.youtube.com/watch?v=NLQn3tm3tUc',
       },
       {
+        title: 'We Are',
+        artist: 'Isha Kirana & Maura Nilambari',
+        album: 'We Are (Cover)',
+        url: 'https://www.youtube.com/watch?v=nXAAiVBeZ_U',
+      },
+      {
         title: 'Weight of The World (壊レタ世界ノ歌)',
         artist: 'Maura Nilambari',
         album: 'Weight of The World (壊レタ世界ノ歌) (Cover)',
