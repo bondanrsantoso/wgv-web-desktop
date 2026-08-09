@@ -249,6 +249,7 @@ export const profiles = {
     featuredVideoTag: "#makeitMemaurable",
     tweets: [
       "/scraped_tweets/maura.json",
+      "/scraped_tweets/makeitMemaurable.json",
     ],
     playlist: [
       {

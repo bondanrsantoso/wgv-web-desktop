@@ -1,20 +1,125 @@
 {
   "metadata": {
     "hashtag": "#MauLukis",
-    "scraped_at": "2026-08-08T14:59:40.605Z",
-    "total_tweets": 40,
+    "scraped_at": "2026-08-09T11:56:12.309Z",
+    "total_tweets": 43,
     "source_url": "https://x.com/hashtag/MauLukis",
     "scraper_version": "1.2.0",
     "chrome_port": 9222,
     "scroll_delay_ms": 2000,
-    "images_downloaded": 43,
+    "images_downloaded": 45,
     "videos_downloaded": 2,
-    "avatars_downloaded": 25,
+    "avatars_downloaded": 28,
     "images_dir": "images",
     "videos_dir": "videos",
     "avatars_dir": "avatars"
   },
   "tweets": [
+    {
+      "id": "2086362831604383831",
+      "username": "@mirukuuu_uuu",
+      "displayName": "Mirukuuuuuu",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2027982227246878723/Sr5myqUx_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "🌻\n#WuvMaura #MauLukis",
+      "tweetUrl": "https://x.com/mirukuuu_uuu/status/2086362831604383831",
+      "links": [],
+      "timestamp": "2026-08-09T08:03:56.000Z",
+      "timestampLabel": "3h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPQ_7ylbgAAm_kv?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 5,
+        "likes": 42,
+        "bookmarks": 0,
+        "views": 1200
+      },
+      "localImages": [
+        "images/2086362831604383831_1.jpg"
+      ],
+      "localAvatar": "avatars/mirukuuu_uuu.jpg"
+    },
+    {
+      "id": "2086314682206536094",
+      "username": "@abyyolla",
+      "displayName": "abyyolla",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2022581216604798976/Eyoh2fse_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "warmest snow girl ❄️ thank youu ~ 💙\n                                                                                                                               \n#makeitMemaurable #MauLukis",
+      "tweetUrl": "https://x.com/abyyolla/status/2086314682206536094",
+      "links": [],
+      "timestamp": "2026-08-09T04:52:36.000Z",
+      "timestampLabel": "7h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPQUI_rbAAAhUqo?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 2,
+        "retweets": 14,
+        "likes": 47,
+        "bookmarks": 0,
+        "views": 1200
+      },
+      "localImages": [
+        "images/2086314682206536094_1.jpg"
+      ],
+      "localAvatar": "avatars/abyyolla.jpg"
+    },
+    {
+      "id": "2086247477917991041",
+      "username": "@GADJEMAN4444",
+      "displayName": "Firmansyah || COMMISSION OPEN",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2073234163952689152/i6dNZ4wn_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#MauLukis",
+      "tweetUrl": "https://x.com/GADJEMAN4444/status/2086247477917991041",
+      "links": [],
+      "timestamp": "2026-08-09T00:25:33.000Z",
+      "timestampLabel": "11h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPPW_6_a0AAoYko?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 3,
+        "likes": 39,
+        "bookmarks": 0,
+        "views": 1100
+      },
+      "localImages": [
+        "images/2086247477917991041_1.jpg"
+      ],
+      "localAvatar": "avatars/GADJEMAN4444.jpg"
+    },
     {
       "id": "2085818527601361211",
       "username": "@DannySasazaki",
@@ -26,10 +131,10 @@
       "tweetUrl": "https://x.com/DannySasazaki/status/2085818527601361211",
       "links": [],
       "timestamp": "2026-08-07T20:01:04.000Z",
-      "timestampLabel": "18h",
+      "timestampLabel": "Aug 8",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HPJQ5aqakAEzp7O?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HPJQ5aqakAEzp7O?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -40,10 +145,10 @@
       "isReply": false,
       "engagement": {
         "replies": 0,
-        "retweets": 1,
-        "likes": 12,
+        "retweets": 3,
+        "likes": 48,
         "bookmarks": 0,
-        "views": 152
+        "views": 1400
       },
       "localImages": [
         "images/2085818527601361211_1.jpg"
@@ -64,7 +169,7 @@
       "timestampLabel": "Aug 6",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HPCB4i3a0AAlIRh?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HPCB4i3a0AAlIRh?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -76,9 +181,9 @@
       "engagement": {
         "replies": 0,
         "retweets": 0,
-        "likes": 1,
+        "likes": 2,
         "bookmarks": 0,
-        "views": 43
+        "views": 62
       },
       "localImages": [
         "images/2085309438748135642_1.jpg"
@@ -99,7 +204,7 @@
       "timestampLabel": "Aug 5",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HO7-4sObsAAG7qa?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HO7-4sObsAAG7qa?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -111,9 +216,9 @@
       "engagement": {
         "replies": 0,
         "retweets": 0,
-        "likes": 1,
+        "likes": 2,
         "bookmarks": 0,
-        "views": 30
+        "views": 47
       },
       "localImages": [
         "images/2084883930688430557_1.jpg"
@@ -134,7 +239,7 @@
       "timestampLabel": "Aug 1",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HOlZsG7aUAARr5i?format=jpg&name=small",
+          "https://pbs.twimg.com/media/HOlZsG7aUAARr5i?format=jpg&name=orig",
           "https://pbs.twimg.com/media/HLx-VoHaoAAj1Rc?format=png&name=240x240"
         ],
         "videos": []
@@ -146,10 +251,10 @@
       "isReply": false,
       "engagement": {
         "replies": 0,
-        "retweets": 43,
-        "likes": 215,
+        "retweets": 51,
+        "likes": 245,
         "bookmarks": 0,
-        "views": 4200
+        "views": 6000
       },
       "localImages": [
         "images/2083295270402707563_1.jpg",
@@ -171,7 +276,7 @@
       "timestampLabel": "Jun 27",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HLx-VoHaoAAj1Rc?format=png&name=small"
+          "https://pbs.twimg.com/media/HLx-VoHaoAAj1Rc?format=png&name=orig"
         ],
         "videos": []
       },
@@ -185,7 +290,7 @@
         "retweets": 24,
         "likes": 108,
         "bookmarks": 0,
-        "views": 11000
+        "views": 13000
       },
       "localImages": [
         "images/2070669357420773729_1.jpg"
@@ -196,7 +301,7 @@
       "id": "2069078565963104638",
       "username": "@mrtn_arc",
       "displayName": "Leuca",
-      "avatarUrl": "https://pbs.twimg.com/profile_images/2069638741333889025/MlmDVdib_normal.jpg",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086111928867512320/G3MUJzV0_normal.jpg",
       "isVerified": false,
       "verifiedType": null,
       "text": "\"The darker the night, the brighter the stars\"\n\nTetap semangat ya dalam berkarya~^^\n#Midn19htDaydream #MauLukis",
@@ -206,7 +311,7 @@
       "timestampLabel": "Jun 22",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HLbX_YoagAEAOIj?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HLbX_YoagAEAOIj?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -220,7 +325,7 @@
         "retweets": 5,
         "likes": 12,
         "bookmarks": 0,
-        "views": 284
+        "views": 296
       },
       "localImages": [
         "images/2069078565963104638_1.jpg"
@@ -241,7 +346,7 @@
       "timestampLabel": "Jun 21",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HLWTLX0bgAA13Co?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HLWTLX0bgAA13Co?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -255,7 +360,7 @@
         "retweets": 5,
         "likes": 12,
         "bookmarks": 0,
-        "views": 313
+        "views": 325
       },
       "localImages": [
         "images/2068721434780930180_1.jpg"
@@ -276,7 +381,7 @@
       "timestampLabel": "Jun 21",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HLV7R--awAAiIdZ?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HLV7R--awAAiIdZ?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -311,7 +416,7 @@
       "timestampLabel": "Jun 21",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HLTiiqYbkAIHR2k?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HLTiiqYbkAIHR2k?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -322,10 +427,10 @@
       "isReply": false,
       "engagement": {
         "replies": 0,
-        "retweets": 8,
-        "likes": 22,
+        "retweets": 9,
+        "likes": 23,
         "bookmarks": 0,
-        "views": 337
+        "views": 342
       },
       "localImages": [
         "images/2068527222315704506_1.jpg"
@@ -346,7 +451,7 @@
       "timestampLabel": "Jun 21",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HLTEcfWa8AAqsLI?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HLTEcfWa8AAqsLI?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -360,7 +465,7 @@
         "retweets": 2,
         "likes": 9,
         "bookmarks": 0,
-        "views": 187
+        "views": 192
       },
       "localImages": [
         "images/2068494129622093906_1.jpg"
@@ -381,7 +486,7 @@
       "timestampLabel": "Jun 21",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HLS7s0ka8AAfN0N?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HLS7s0ka8AAfN0N?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -395,7 +500,7 @@
         "retweets": 10,
         "likes": 28,
         "bookmarks": 0,
-        "views": 361
+        "views": 366
       },
       "localImages": [
         "images/2068484578692702499_1.jpg"
@@ -416,7 +521,7 @@
       "timestampLabel": "Jun 21",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HLRm7Cta8AA0-XT?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HLRm7Cta8AA0-XT?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -430,7 +535,7 @@
         "retweets": 9,
         "likes": 50,
         "bookmarks": 0,
-        "views": 675
+        "views": 685
       },
       "localImages": [
         "images/2068393768534135041_1.jpg"
@@ -451,7 +556,7 @@
       "timestampLabel": "Jun 4",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HJ9OXqKboAADK6h?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HJ9OXqKboAADK6h?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -486,7 +591,7 @@
       "timestampLabel": "Jun 3",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HJ4bnydaEAAakei?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HJ4bnydaEAAakei?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -500,7 +605,7 @@
         "retweets": 0,
         "likes": 3,
         "bookmarks": 0,
-        "views": 174
+        "views": 178
       },
       "localImages": [
         "images/2062116052553871594_1.jpg"
@@ -511,7 +616,7 @@
       "id": "2048627476671467783",
       "username": "@xshirahalicex",
       "displayName": "Shirahashi Halice 白橋はりす",
-      "avatarUrl": "https://pbs.twimg.com/profile_images/2085363526877786112/yI6JZdAf_normal.jpg",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086194678047834112/smZ3b-eW_normal.jpg",
       "isVerified": true,
       "verifiedType": "blue",
       "text": "Hari yang panas \n\nJangan lupa topi dan kipas hhe \n\n#piallete #irengdoesart #maulukis #isha4k #samionoart #jkt48v",
@@ -521,7 +626,7 @@
       "timestampLabel": "Apr 27",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HG4v0qkakAAMhLA?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HG4v0qkakAAMhLA?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -535,7 +640,7 @@
         "retweets": 3,
         "likes": 7,
         "bookmarks": 0,
-        "views": 512
+        "views": 517
       },
       "localImages": [
         "images/2048627476671467783_1.jpg"
@@ -546,7 +651,7 @@
       "id": "2046615478286831781",
       "username": "@xshirahalicex",
       "displayName": "Shirahashi Halice 白橋はりす",
-      "avatarUrl": "https://pbs.twimg.com/profile_images/2085363526877786112/yI6JZdAf_normal.jpg",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086194678047834112/smZ3b-eW_normal.jpg",
       "isVerified": true,
       "verifiedType": "blue",
       "text": "Pake template Team Love #Piallete #IrengDoesArt #MauLukis #Isha4k #SamiOnoArt BTW #21ntikArunika #TanaMini juga hhe",
@@ -556,7 +661,7 @@
       "timestampLabel": "Apr 21",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HGcJ6tpbUAAm_TV?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HGcJ6tpbUAAm_TV?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -570,7 +675,7 @@
         "retweets": 6,
         "likes": 31,
         "bookmarks": 0,
-        "views": 850
+        "views": 858
       },
       "localImages": [
         "images/2046615478286831781_1.jpg"
@@ -591,7 +696,7 @@
       "timestampLabel": "Apr 14",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HF3N51baAAAWyZ3?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HF3N51baAAAWyZ3?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -605,7 +710,7 @@
         "retweets": 7,
         "likes": 32,
         "bookmarks": 0,
-        "views": 609
+        "views": 615
       },
       "localImages": [
         "images/2044016551570145366_1.jpg"
@@ -629,7 +734,7 @@
       "timestampLabel": "Apr 2",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HE5C_XTbQAAOdcE?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HE5C_XTbQAAOdcE?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -641,7 +746,7 @@
       "engagement": {
         "replies": 0,
         "retweets": 15,
-        "likes": 106,
+        "likes": 107,
         "bookmarks": 0,
         "views": 1300
       },
@@ -664,7 +769,7 @@
       "timestampLabel": "Mar 21",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HD8JWvWa8AAANga?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HD8JWvWa8AAANga?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -699,7 +804,7 @@
       "timestampLabel": "Mar 17",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HDjrpJAaAAEucfo?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HDjrpJAaAAEucfo?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -710,10 +815,10 @@
       "isReply": false,
       "engagement": {
         "replies": 0,
-        "retweets": 4,
+        "retweets": 5,
         "likes": 13,
         "bookmarks": 0,
-        "views": 335
+        "views": 340
       },
       "localImages": [
         "images/2033634575822557281_1.jpg"
@@ -737,7 +842,7 @@
       "timestampLabel": "Feb 23",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HBy5WPFaMAAj1-P?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HBy5WPFaMAAj1-P?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -775,7 +880,7 @@
       "timestampLabel": "Feb 23",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HByeMbfbgAApyam?format=jpg&name=small"
+          "https://pbs.twimg.com/media/HByeMbfbgAApyam?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -812,7 +917,7 @@
       "timestampLabel": "Jan 6",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/G99XJLDbcAQe4HK?format=jpg&name=small"
+          "https://pbs.twimg.com/media/G99XJLDbcAQe4HK?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -826,7 +931,7 @@
         "retweets": 4,
         "likes": 27,
         "bookmarks": 0,
-        "views": 704
+        "views": 708
       },
       "localImages": [
         "images/2008419776453111835_1.jpg"
@@ -847,7 +952,7 @@
       "timestampLabel": "Jan 1",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/G9l0Pd3bIAAxNlg?format=jpg&name=small"
+          "https://pbs.twimg.com/media/G9l0Pd3bIAAxNlg?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -858,10 +963,10 @@
       "isReply": false,
       "engagement": {
         "replies": 0,
-        "retweets": 5,
+        "retweets": 6,
         "likes": 11,
         "bookmarks": 0,
-        "views": 603
+        "views": 607
       },
       "localImages": [
         "images/2006763932221059341_1.jpg"
@@ -884,7 +989,7 @@
       "timestampLabel": "Dec 25, 2025",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/G9APB-yb0AIfdk_?format=jpg&name=small"
+          "https://pbs.twimg.com/media/G9APB-yb0AIfdk_?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -898,7 +1003,7 @@
         "retweets": 4,
         "likes": 8,
         "bookmarks": 0,
-        "views": 309
+        "views": 312
       },
       "localImages": [
         "images/2004118363883425795_1.jpg"
@@ -919,7 +1024,7 @@
       "timestampLabel": "Dec 5, 2025",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/G7Z1BEQb0AAdc4A?format=jpg&name=small"
+          "https://pbs.twimg.com/media/G7Z1BEQb0AAdc4A?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -931,7 +1036,7 @@
       "engagement": {
         "replies": 8,
         "retweets": 44,
-        "likes": 236,
+        "likes": 237,
         "bookmarks": 0,
         "views": 5100
       },
@@ -944,7 +1049,7 @@
       "id": "1993728735422632165",
       "username": "@mrtn_arc",
       "displayName": "Leuca",
-      "avatarUrl": "https://pbs.twimg.com/profile_images/2069638741333889025/MlmDVdib_normal.jpg",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086111928867512320/G3MUJzV0_normal.jpg",
       "isVerified": false,
       "verifiedType": null,
       "text": "Selamat dan semangat berkarya, Kak Maura. Salam kenal ya~^^ #MauLukis",
@@ -954,7 +1059,7 @@
       "timestampLabel": "Nov 27, 2025",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/G6sluAdbkAEL2_c?format=jpg&name=small"
+          "https://pbs.twimg.com/media/G6sluAdbkAEL2_c?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -968,7 +1073,7 @@
         "retweets": 4,
         "likes": 15,
         "bookmarks": 0,
-        "views": 360
+        "views": 363
       },
       "localImages": [
         "images/1993728735422632165_1.jpg"
@@ -991,8 +1096,8 @@
       "timestampLabel": "Nov 24, 2025",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/G6fO9ShawAAFnd3?format=jpg&name=small",
-          "https://pbs.twimg.com/media/G6fOr3vb0AAKQwl?format=jpg&name=small"
+          "https://pbs.twimg.com/media/G6fO9ShawAAFnd3?format=jpg&name=orig",
+          "https://pbs.twimg.com/media/G6fOr3vb0AAKQwl?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -1028,8 +1133,8 @@
       "timestampLabel": "Nov 24, 2025",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/G6hBmobb0AAiQcY?format=jpg&name=small",
-          "https://pbs.twimg.com/media/G6hBneXaQAAd6Ay?format=jpg&name=small"
+          "https://pbs.twimg.com/media/G6hBmobb0AAiQcY?format=jpg&name=orig",
+          "https://pbs.twimg.com/media/G6hBneXaQAAd6Ay?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -1041,7 +1146,7 @@
       "engagement": {
         "replies": 6,
         "retweets": 57,
-        "likes": 320,
+        "likes": 321,
         "bookmarks": 0,
         "views": 10000
       },
@@ -1073,7 +1178,7 @@
           "engagement": {
             "replies": 7,
             "retweets": 48,
-            "likes": 337,
+            "likes": 338,
             "bookmarks": 14,
             "views": 0
           },
@@ -1110,7 +1215,7 @@
             "retweets": 0,
             "likes": 3,
             "bookmarks": 0,
-            "views": 171
+            "views": 181
           },
           "isThreadReply": true,
           "localAvatar": "avatars/meirritory.jpg"
@@ -1146,8 +1251,8 @@
       "isReply": false,
       "engagement": {
         "replies": 0,
-        "retweets": 15,
-        "likes": 142,
+        "retweets": 16,
+        "likes": 143,
         "bookmarks": 0,
         "views": 2100
       },
@@ -1168,7 +1273,7 @@
       "timestampLabel": "Nov 24, 2025",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/G6d9miaakAAwMJo?format=jpg&name=small",
+          "https://pbs.twimg.com/media/G6d9miaakAAwMJo?format=jpg&name=orig",
           "https://pbs.twimg.com/media/G5uMLAHWUAA3l3D?format=jpg&name=120x120"
         ],
         "videos": []
@@ -1183,7 +1288,7 @@
         "retweets": 2,
         "likes": 17,
         "bookmarks": 0,
-        "views": 781
+        "views": 784
       },
       "localImages": [
         "images/1992699465355128927_1.jpg",
@@ -1214,10 +1319,10 @@
       "isReply": false,
       "engagement": {
         "replies": 0,
-        "retweets": 4,
+        "retweets": 5,
         "likes": 23,
         "bookmarks": 0,
-        "views": 737
+        "views": 746
       },
       "localVideo": "videos/1992608884314476612.mp4",
       "localAvatar": "avatars/konattt.jpg"
@@ -1236,7 +1341,7 @@
       "timestampLabel": "Nov 23, 2025",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/G6cpt0saoAAdZww?format=jpg&name=small"
+          "https://pbs.twimg.com/media/G6cpt0saoAAdZww?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -1247,10 +1352,10 @@
       "isReply": false,
       "engagement": {
         "replies": 1,
-        "retweets": 8,
-        "likes": 29,
+        "retweets": 9,
+        "likes": 30,
         "bookmarks": 0,
-        "views": 947
+        "views": 954
       },
       "localImages": [
         "images/1992607293259833730_1.jpg"
@@ -1271,7 +1376,7 @@
       "timestampLabel": "Nov 23, 2025",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/G6couBkbMAAgKac?format=png&name=small"
+          "https://pbs.twimg.com/media/G6couBkbMAAgKac?format=png&name=orig"
         ],
         "videos": []
       },
@@ -1282,8 +1387,8 @@
       "isReply": false,
       "engagement": {
         "replies": 2,
-        "retweets": 14,
-        "likes": 90,
+        "retweets": 15,
+        "likes": 91,
         "bookmarks": 0,
         "views": 1900
       },
@@ -1306,7 +1411,7 @@
       "timestampLabel": "Nov 23, 2025",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/G6ckPBPawAAQd5A?format=jpg&name=small"
+          "https://pbs.twimg.com/media/G6ckPBPawAAQd5A?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -1318,7 +1423,7 @@
       "engagement": {
         "replies": 6,
         "retweets": 57,
-        "likes": 361,
+        "likes": 362,
         "bookmarks": 0,
         "views": 7900
       },
@@ -1341,7 +1446,7 @@
       "timestampLabel": "Nov 23, 2025",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/G6ciU6kbMAArqp_?format=jpg&name=small"
+          "https://pbs.twimg.com/media/G6ciU6kbMAArqp_?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -1375,9 +1480,7 @@
       "timestamp": "2025-11-23T14:20:09.000Z",
       "timestampLabel": "Nov 23, 2025",
       "media": {
-        "images": [
-          "https://pbs.twimg.com/media/G6cfm41a8AAZZDe?format=jpg&name=small"
-        ],
+        "images": [],
         "videos": []
       },
       "quote": null,
@@ -1388,13 +1491,10 @@
       "engagement": {
         "replies": 4,
         "retweets": 90,
-        "likes": 742,
+        "likes": 743,
         "bookmarks": 0,
         "views": 18000
       },
-      "localImages": [
-        "images/1992599050898776512_1.jpg"
-      ],
       "localAvatar": "avatars/hievasp.jpg"
     },
     {
@@ -1411,7 +1511,7 @@
       "timestampLabel": "Nov 23, 2025",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/G6cR68oa4AAsPzh?format=jpg&name=small"
+          "https://pbs.twimg.com/media/G6cR68oa4AAsPzh?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -1422,7 +1522,7 @@
       "isReply": false,
       "engagement": {
         "replies": 4,
-        "retweets": 14,
+        "retweets": 15,
         "likes": 161,
         "bookmarks": 0,
         "views": 5500
@@ -1446,7 +1546,7 @@
       "timestampLabel": "Nov 23, 2025",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/G4mIZQQacAAOpuo?format=jpg&name=small"
+          "https://pbs.twimg.com/media/G4mIZQQacAAOpuo?format=jpg&name=orig"
         ],
         "videos": []
       },
@@ -1471,7 +1571,7 @@
       "id": "2084212472895152589",
       "username": "@maura_jkt48v",
       "displayName": "Maura Nilambari",
-      "avatarUrl": "https://pbs.twimg.com/profile_images/2077276580095905792/YgNpRexJ_normal.jpg",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086176222862831616/mi4MWrvt_normal.jpg",
       "isVerified": false,
       "verifiedType": null,
       "text": "Sebelum cerita ini sampai di penghujung halaman…\n\nKalau kalian ingin meninggalkan sepucuk surat untukku, bagikan dengan hashtag #WuvMaura ya!",
@@ -1489,18 +1589,18 @@
       "hasShowThread": false,
       "isReply": false,
       "engagement": {
-        "replies": 12,
-        "retweets": 80,
-        "likes": 408,
+        "replies": 13,
+        "retweets": 88,
+        "likes": 433,
         "bookmarks": 0,
-        "views": 9100
+        "views": 11000
       },
       "thread": [
         {
           "id": "2084212474895855879",
           "username": "@maura_jkt48v",
           "displayName": "Maura Nilambari",
-          "avatarUrl": "https://pbs.twimg.com/profile_images/2077276580095905792/YgNpRexJ_normal.jpg",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2086176222862831616/mi4MWrvt_normal.jpg",
           "isVerified": false,
           "verifiedType": null,
           "text": "Aku akan membaca beberapa di antaranya saat graduation stream nanti 🤍\n\nDan kalau kalian ingin meninggalkan warna dan kenangan dengan cara yang berbeda…\n\n🎨 Fanart: #MauLukis\n🎬 Clip: #CuplikanMaura",
@@ -1519,8 +1619,8 @@
           "isReply": false,
           "engagement": {
             "replies": 0,
-            "retweets": 20,
-            "likes": 135,
+            "retweets": 22,
+            "likes": 136,
             "bookmarks": 0,
             "views": 0
           },

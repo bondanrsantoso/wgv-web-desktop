@@ -1,0 +1,3186 @@
+{
+  "metadata": {
+    "hashtag": "#makeitMemaurable",
+    "scraped_at": "2026-08-09T11:45:00.374Z",
+    "total_tweets": 72,
+    "source_url": "https://x.com/hashtag/makeitMemaurable",
+    "scraper_version": "1.2.0",
+    "chrome_port": 9222,
+    "scroll_delay_ms": 2000,
+    "images_downloaded": 60,
+    "videos_downloaded": 3,
+    "avatars_downloaded": 57,
+    "images_dir": "images",
+    "videos_dir": "videos",
+    "avatars_dir": "avatars"
+  },
+  "tweets": [
+    {
+      "id": "2086414491546526006",
+      "username": "@sunymz",
+      "displayName": "sunny",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086408880461156352/VzYPYUqu_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Terima kasih Maura! 🤍🥀\n\n#WuvMaura #makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/sunymz/status/2086414491546526006",
+      "links": [],
+      "timestamp": "2026-08-09T11:29:13.000Z",
+      "timestampLabel": "8m",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPRuy9LacAEBKDx?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 1,
+        "likes": 4,
+        "bookmarks": 0,
+        "views": 11
+      },
+      "localImages": [
+        "images/2086414491546526006_1.jpg"
+      ],
+      "localAvatar": "avatars/sunymz.jpg"
+    },
+    {
+      "id": "2086411632645980297",
+      "username": "@Ralvandra_INA",
+      "displayName": "Ralvandra #KiboNoHikari",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2070843772821491712/UdNrSaNg_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Holla FriendLyne! ✨\n\nHari ini MinRal  dapet undangan dari Kaka Kaka \n@wargavirtual48\n untuk menghadiri stream graduation ka \n@maura_jkt48v\n 🥹\n\nAyo kita ramaikan bersama-sama di YouTube Maura Nilambari JKT48V\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/Ralvandra_INA/status/2086411632645980297",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T11:17:51.000Z",
+      "timestampLabel": "19m",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPRsUatbEAA8dXB?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 7,
+        "bookmarks": 0,
+        "views": 106
+      },
+      "localImages": [
+        "images/2086411632645980297_1.jpg"
+      ],
+      "localAvatar": "avatars/Ralvandra_INA.jpg"
+    },
+    {
+      "id": "2086410838718763222",
+      "username": "@ZainRizuka14",
+      "displayName": "Zain Rizuka",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086094309493985282/uAwOnGEL_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "🤍🥀\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/ZainRizuka14/status/2086410838718763222",
+      "links": [],
+      "timestamp": "2026-08-09T11:14:42.000Z",
+      "timestampLabel": "23m",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 62
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/ZainRizuka14.jpg"
+    },
+    {
+      "id": "2086410377827676172",
+      "username": "@RaraLandID",
+      "displayName": "RaraLand || #EtoileNaissante",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2054062695717203968/Tlli8CWm_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Hai Rarals! \n\nMinRa dapat undangan dari kakak-kakak \n@wargavirtual48\n untuk menghadiri Graduation Stream Kak \n@maura_jkt48v\n 🥺\n\nYuk kita ramaikan last stream Kak Maura di channel Youtube Maura Nilambari - JKT48V hari ini 🙌🏻\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/RaraLandID/status/2086410377827676172",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T11:12:52.000Z",
+      "timestampLabel": "24m",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPRrLQrbcAEHv_U?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 2,
+        "likes": 3,
+        "bookmarks": 0,
+        "views": 91
+      },
+      "localImages": [
+        "images/2086410377827676172_1.jpg"
+      ],
+      "localAvatar": "avatars/RaraLandID.jpg"
+    },
+    {
+      "id": "2086409569295814721",
+      "username": "@Le_ViosaOFC",
+      "displayName": "Le Viosa #IGNITE",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2077372365416407041/ABoKLnAr_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Malam ini saatnya kita kumpul bareng dan kasih dukungan terbaik buat Graduation Stream \n@maura_jkt48v\n. Kehadiran kalian bakal sangat berarti! 💙\n\n⏰ 19.19 WIB\n📌 https://youtube.com/watch?v=2QxfnXY6OoA\n\nSampai ketemu di live chat!~\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/Le_ViosaOFC/status/2086409569295814721",
+      "links": [
+        "https://x.com/maura_jkt48v",
+        "https://t.co/KrEubqkWBf"
+      ],
+      "timestamp": "2026-08-09T11:09:39.000Z",
+      "timestampLabel": "28m",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPRqcFfa4AAaW7i?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 4,
+        "bookmarks": 0,
+        "views": 252
+      },
+      "localImages": [
+        "images/2086409569295814721_1.jpg"
+      ],
+      "localAvatar": "avatars/Le_ViosaOFC.jpg"
+    },
+    {
+      "id": "2086408878007492674",
+      "username": "@kong__kung",
+      "displayName": "KiNG KaNG #makeitMemaurable",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086283550819848192/u4gc-AxU_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "🤍🥀\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/kong__kung/status/2086408878007492674",
+      "links": [],
+      "timestamp": "2026-08-09T11:06:54.000Z",
+      "timestampLabel": "30m",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 61
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/kong__kung.jpg"
+    },
+    {
+      "id": "2086402937954374067",
+      "username": "@ooc_jkt48v",
+      "displayName": "Out of Context Jeketivi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2080687711607005184/RI397I8T_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "bokura ga ima rn \n@maura_jkt48v\n \n#makeitMemaurable #WuvMaura",
+      "tweetUrl": "https://x.com/ooc_jkt48v/status/2086402937954374067",
+      "links": [
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T10:43:18.000Z",
+      "timestampLabel": "54m",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 4,
+        "likes": 6,
+        "bookmarks": 0,
+        "views": 95
+      },
+      "localVideo": "videos/2086402937954374067.mp4",
+      "localAvatar": "avatars/ooc_jkt48v.jpg"
+    },
+    {
+      "id": "2086400916182466726",
+      "username": "@nakohayou",
+      "displayName": "Jii",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086100111084621824/dQl-WRGj_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "🤍🥀\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/nakohayou/status/2086400916182466726",
+      "links": [],
+      "timestamp": "2026-08-09T10:35:16.000Z",
+      "timestampLabel": "1h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 223
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/nakohayou.jpg"
+    },
+    {
+      "id": "2086400060909359478",
+      "username": "@wargavirtual48",
+      "displayName": "WARGAVI48 #makeitMemaurable",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086097139722305536/dKyRGGlJ_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "🥺\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/wargavirtual48/status/2086400060909359478",
+      "links": [],
+      "timestamp": "2026-08-09T10:31:52.000Z",
+      "timestampLabel": "1h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 3,
+        "bookmarks": 0,
+        "views": 347
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/wargavirtual48.jpg"
+    },
+    {
+      "id": "2086399333537312978",
+      "username": "@Cynthiaction",
+      "displayName": "୨♡୧ Cynthia in Action ୨♡୧",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2046245556897669120/UbabDHoX_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Selamat sore!!!✨\n\nMincyn dapet undangan dari Kaka Kaka \n@wargavirtual48\n untuk menghadiri stream graduation nya ka \n@maura_jkt48v\n 🥹🥹🥹\n\nSee you di Last Stream ka \n@maura_jkt48v\n \nDi channel YouTube Maura Nilambari -JKT48V\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/Cynthiaction/status/2086399333537312978",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T10:28:59.000Z",
+      "timestampLabel": "1h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPRhIlkbcAAdhUq?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 11,
+        "bookmarks": 0,
+        "views": 538
+      },
+      "localImages": [
+        "images/2086399333537312978_1.jpg"
+      ],
+      "localAvatar": "avatars/Cynthiaction.jpg"
+    },
+    {
+      "id": "2086398778307973138",
+      "username": "@nikods76",
+      "displayName": "Niko Danusaid Nugroho",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2076250267713261568/iXhr5umq_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Hari ini teman2 huhuhu 😭😭\n\n@maura_jkt48v\n \n#makeitMemaurable",
+      "tweetUrl": "https://x.com/nikods76/status/2086398778307973138",
+      "links": [
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T10:26:46.000Z",
+      "timestampLabel": "1h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPRa_p2acAAqmw5?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 36
+      },
+      "localImages": [
+        "images/2086398778307973138_1.jpg"
+      ],
+      "localAvatar": "avatars/nikods76.jpg"
+    },
+    {
+      "id": "2086395513549783193",
+      "username": "@LynearID",
+      "displayName": "LynearID",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2068283375006482432/m_yn62yg_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Minlyn dapat undangan dari \n@wargavirtual48\n untuk acara kelulusan nya \n@maura_jkt48v\n.\n\nJangan lupa untuk meramaikan stream terakhir kali dari \n@tana_jkt48v\n, hari ini di channel youtube nya maura, pukul 19.19 wib. 💖😭😭\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/LynearID/status/2086395513549783193",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v",
+        "https://x.com/tana_jkt48v"
+      ],
+      "timestamp": "2026-08-09T10:13:48.000Z",
+      "timestampLabel": "1h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPRdqMuaIAAGQiM?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 10,
+        "bookmarks": 0,
+        "views": 427
+      },
+      "localImages": [
+        "images/2086395513549783193_1.jpg"
+      ],
+      "localAvatar": "avatars/LynearID.jpg"
+    },
+    {
+      "id": "2086395283303510038",
+      "username": "@daisyne_ofc",
+      "displayName": "DAISYNE",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2078448313804947456/tAz1p0bi_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Selamat sore Tomodeci🌼👋\n\nHuhuu hari ini MinDes mendapatkan undangan dari teman-teman \n@wargavirtual48\n  untuk perayaan kelulusan dek \n@maura_jkt48v\n 🥹💐\n\nMari tomodeci kita ramaikan projectnya🫶\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/daisyne_ofc/status/2086395283303510038",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T10:12:53.000Z",
+      "timestampLabel": "1h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPRdcu-bUAIwZgZ?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 5,
+        "bookmarks": 0,
+        "views": 240
+      },
+      "localImages": [
+        "images/2086395283303510038_1.jpg"
+      ],
+      "localAvatar": "avatars/daisyne_ofc.jpg"
+    },
+    {
+      "id": "2086394803248640343",
+      "username": "@Humainiora_ID",
+      "displayName": "Humainiora_ID #MairaNoAjiSagashi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2006427421013323782/695CPaXE_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Yow yow #MaiFriend✨\n\nHari ini minhum diundang oleh kakak \n@wargavirtual48\n dalam rangka Graduation Stream nya \n@maura_jkt48v\n \n\nSemoga lancar stream nya dan sukses di perjalanan berikutnya yaa Maura💖\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/Humainiora_ID/status/2086394803248640343",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T10:10:59.000Z",
+      "timestampLabel": "1h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPRdAnzboAE6Y0E?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 6,
+        "bookmarks": 0,
+        "views": 276
+      },
+      "localImages": [
+        "images/2086394803248640343_1.jpg"
+      ],
+      "localAvatar": "avatars/Humainiora_ID.jpg"
+    },
+    {
+      "id": "2086392693845115323",
+      "username": "@jkt48v_official",
+      "displayName": "JKT48 Virtual",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1917457092585373696/TAgNZ5nN_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Terima kasih telah menemani perjalanan Maura Nilambari dan JKT48 Virtual selama ini. Mari hadir bersama dan berikan dukungan tulus di momen perpisahan ini. #makeitMemaurable\n\n🗓️ Minggu, 9 Agustus 2026\n🕖 19.19 WIB / 07.19 PM (GMT+7)\n🔗 https://youtube.com/watch?v=2QxfnXY6OoA",
+      "tweetUrl": "https://x.com/jkt48v_official/status/2086392693845115323",
+      "links": [
+        "https://t.co/CTWHNFY5Kn"
+      ],
+      "timestamp": "2026-08-09T10:02:36.000Z",
+      "timestampLabel": "1h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPRa_p2acAAqmw5?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 12,
+        "retweets": 188,
+        "likes": 799,
+        "bookmarks": 0,
+        "views": 9000
+      },
+      "localImages": [
+        "images/2086392693845115323_1.jpg"
+      ],
+      "localAvatar": "avatars/jkt48v_official.jpg"
+    },
+    {
+      "id": "2086390980241170498",
+      "username": "@Cariserra_",
+      "displayName": "Carissera #CelestialSouls",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2022801459340034048/FQHex2j5_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Sore carissmates!! \nKita dapet undangan nih dari kakak-kakak \n@wargavirtual48\n untuk menghadiri graduation stream dari kak \n@maura_jkt48v\n 🥹🤍\n\nYuk kita ramaikan streamnya nanti malam melalui link :\n🔗https://youtube.com/watch?v=2QxfnXY6OoA\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/Cariserra_/status/2086390980241170498",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v",
+        "https://t.co/RE5j7sBi1i"
+      ],
+      "timestamp": "2026-08-09T09:55:47.000Z",
+      "timestampLabel": "1h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPRY3wFbMAASG50?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 5,
+        "bookmarks": 0,
+        "views": 220
+      },
+      "localImages": [
+        "images/2086390980241170498_1.jpg"
+      ],
+      "localAvatar": "avatars/Cariserra_.jpg"
+    },
+    {
+      "id": "2086388023852175628",
+      "username": "@xshirahalicex",
+      "displayName": "Shirahashi Halice 白橋はりす",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086194678047834112/smZ3b-eW_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "This is not the end we wanted and this is not our fault but God is always with those who are wronged #WuvMaura #makeitMeMaurable 🌌🙏🏻",
+      "tweetUrl": "https://x.com/xshirahalicex/status/2086388023852175628",
+      "links": [],
+      "timestamp": "2026-08-09T09:44:02.000Z",
+      "timestampLabel": "1h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPRW1GfaYAAK-Tv?format=jpg&name=360x360",
+          "https://pbs.twimg.com/media/HPRW1vGakAAAvXE?format=jpg&name=360x360"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 4,
+        "bookmarks": 0,
+        "views": 68
+      },
+      "localImages": [
+        "images/2086388023852175628_1.jpg",
+        "images/2086388023852175628_2.jpg"
+      ],
+      "localAvatar": "avatars/xshirahalicex.jpg"
+    },
+    {
+      "id": "2086385073771954537",
+      "username": "@Hillaryours_ID",
+      "displayName": "⊹₊˚‧୨Lilylicious୧‧˚₊⊹",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2066473962675318784/-EbYDnHD_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Selamat sore, lof!\n\nMinary mendapat undangan dari kakak-kakak \n@wargavirtual48\n untuk menghadiri graduation kak \n@maura_jkt48v\n 🥹🎓💙\n \nYuk ikut meramaikan live streaming terakhir kak Maura melalui link berikut:\nhttps://youtube.com/watch?v=2QxfnXY6OoA\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/Hillaryours_ID/status/2086385073771954537",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v",
+        "https://t.co/1qU4xLJ9X9"
+      ],
+      "timestamp": "2026-08-09T09:32:19.000Z",
+      "timestampLabel": "2h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPRUKhybAAAkEWG?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 22,
+        "bookmarks": 0,
+        "views": 1300
+      },
+      "localImages": [
+        "images/2086385073771954537_1.jpg"
+      ],
+      "localAvatar": "avatars/Hillaryours_ID.jpg"
+    },
+    {
+      "id": "2086385072610107590",
+      "username": "@_aranika",
+      "displayName": "aranika.",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2085037493800603649/XzvPnHUx_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "SORE OLL 🙌🏻\n\nMinara dapet undangan nih dari kakak-kakak \n@wargavirtual48\n untuk menghadiri Graduation Stream nya \n@maura_jkt48v\n pada malam hari ini 💐\n\nStreaming dapat diakses melalui Youtube Channel Maura Nilambari - JKT48V. See you semuanyaa 👋🏻\n\n#makeitMemaurable",
+      "tweetUrl": "https://x.com/_aranika/status/2086385072610107590",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T09:32:19.000Z",
+      "timestampLabel": "2h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPRUKXVbwAAJZQZ?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 21,
+        "bookmarks": 0,
+        "views": 969
+      },
+      "localImages": [
+        "images/2086385072610107590_1.jpg"
+      ],
+      "localAvatar": "avatars/_aranika.jpg"
+    },
+    {
+      "id": "2086383103875129851",
+      "username": "@HIRAKIRA_ID",
+      "displayName": "HIRAKIRA #HIRABERSINAR",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2024860479836090369/zYnm43-a_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Hallooo sore Kiranians 🤍🫶🏼\n\nHari ini MinHira dapet undangan niehhhh dari kakak' \n@wargavirtual48\n untuk menghadiri dan meramaikan acara Graduation nya kak \n@maura_jkt48v\n huhuhu😭😚🫰🏼\n\nHappy graduation kak🫶🏼🫰🏼\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/HIRAKIRA_ID/status/2086383103875129851",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T09:24:29.000Z",
+      "timestampLabel": "2h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPRSXh_bcAEN9BN?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 10,
+        "bookmarks": 0,
+        "views": 308
+      },
+      "localImages": [
+        "images/2086383103875129851_1.jpg"
+      ],
+      "localAvatar": "avatars/HIRAKIRA_ID.jpg"
+    },
+    {
+      "id": "2086381646312349873",
+      "username": "@CellineyoursOfc",
+      "displayName": "⋆｡‧˚ʚ C𝑒𝑙𝑙𝑖𝑛𝑒𝑦𝑜𝑢𝑟𝑠 ɞ˚‧｡⋆",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2046254502530138112/yLsUJF2f_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Huhuhu, sama-sama teman-teman wargavi. See u di live chat~~ 🥺\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/CellineyoursOfc/status/2086381646312349873",
+      "links": [],
+      "timestamp": "2026-08-09T09:18:42.000Z",
+      "timestampLabel": "2h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 70
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/CellineyoursOfc.jpg"
+    },
+    {
+      "id": "2086378882832203805",
+      "username": "@wargavirtual48",
+      "displayName": "WARGAVI48 #makeitMemaurable",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086097139722305536/dKyRGGlJ_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Huhuhu, terima kasih banyaaak. See u di livechatt~ 🥺\n\nhttps://youtube.com/watch?v=2QxfnXY6OoA\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/wargavirtual48/status/2086378882832203805",
+      "links": [
+        "https://t.co/zCrpvKZSE4"
+      ],
+      "timestamp": "2026-08-09T09:07:43.000Z",
+      "timestampLabel": "2h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 37
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/wargavirtual48.jpg"
+    },
+    {
+      "id": "2086377303395951068",
+      "username": "@rin_matcha",
+      "displayName": "mairuru",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086111525526515713/VfCReRYD_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "sedikit kata2 untuk \n@maura_jkt48v\n\n\n #WuvMaura\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/rin_matcha/status/2086377303395951068",
+      "links": [
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T09:01:26.000Z",
+      "timestampLabel": "2h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPRNGD9a8AA2t-L?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 2,
+        "bookmarks": 0,
+        "views": 44
+      },
+      "localImages": [
+        "images/2086377303395951068_1.jpg"
+      ],
+      "localAvatar": "avatars/rin_matcha.jpg"
+    },
+    {
+      "id": "2086376025701888123",
+      "username": "@Rizuka_Miku",
+      "displayName": "Rizuka Miku|| Cover FAJAR SANG IDOLA",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086095175924023296/OKwYTfqn_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Aku gak jago bikin kata2, tapi semoga perasaanku tersampaikan ya 🥰💖✨ #WuvMaura\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/Rizuka_Miku/status/2086376025701888123",
+      "links": [],
+      "timestamp": "2026-08-09T08:56:22.000Z",
+      "timestampLabel": "2h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPRL6rdaAAATQbV?format=jpg&name=orig",
+          "https://pbs.twimg.com/media/HPRL7s4akAA7wpV?format=jpg&name=360x360"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 7,
+        "likes": 60,
+        "bookmarks": 0,
+        "views": 507
+      },
+      "localImages": [
+        "images/2086376025701888123_1.jpg",
+        "images/2086376025701888123_2.jpg"
+      ],
+      "localAvatar": "avatars/Rizuka_Miku.jpg"
+    },
+    {
+      "id": "2086362452623560749",
+      "username": "@BlueLightPjk",
+      "displayName": "Blue Light Project",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2081344769398276096/Ip6TLz0P_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "From a land of endless snow,\nwe found flowers blooming in the cold.\nThank you for coloring our days\nwith memories that will never fade.\n\n#WuvMaura #makeitMemaurable #TerimaKasihJKT48V #MauLukis",
+      "tweetUrl": "https://x.com/BlueLightPjk/status/2086362452623560749",
+      "links": [],
+      "timestamp": "2026-08-09T08:02:26.000Z",
+      "timestampLabel": "3h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPQ_lr6b0AA_cBZ?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 22,
+        "likes": 57,
+        "bookmarks": 0,
+        "views": 1400
+      },
+      "localImages": [
+        "images/2086362452623560749_1.jpg"
+      ],
+      "localAvatar": "avatars/BlueLightPjk.jpg"
+    },
+    {
+      "id": "2086357259299488160",
+      "username": "@Lanautica_OFC",
+      "displayName": "౨ৎ ˖ ࣪⊹LANAUTICA𐙚˚.ᡣ𐭩",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2083242004285411329/XAD01qO9_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Siang Guys!!!  \n\nMimin dapat undangan dari kakak-kakak \n@wargavirtual48\n untuk meramaikan Graduation Stream Kak \n@maura_jkt48v\n 🥺🥺\n\nYuk kita ramaikan dan memeriahkan live terakhir Kak Maura hari ini\nhttps://youtube.com/watch?v=2QxfnXY6OoA\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/Lanautica_OFC/status/2086357259299488160",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v",
+        "https://t.co/eg39Tbfx9C"
+      ],
+      "timestamp": "2026-08-09T07:41:47.000Z",
+      "timestampLabel": "3h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPQ6A5JaIAEQMih?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 2,
+        "likes": 12,
+        "bookmarks": 0,
+        "views": 802
+      },
+      "localImages": [
+        "images/2086357259299488160_1.jpg"
+      ],
+      "localAvatar": "avatars/Lanautica_OFC.jpg"
+    },
+    {
+      "id": "2086353484367151385",
+      "username": "@Maxineiu_",
+      "displayName": "Maxineiu",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2052178797630517248/gTcvNbjJ_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Selamat siangg guisyy🫶🏻\n\nAda kabar spesial nih! Hari ini MinMax menerima undangan dari kakak-kakak \n@wargavirtual48\n untuk ikut meramaikan momen kelulusan Kak \n@maura_jkt48v\n 🤍✨\n\nYuk, sama-sama hadir dan kasih dukungan di momen spesial ini! 🫶🏻\n\n#makeitMemaurable",
+      "tweetUrl": "https://x.com/Maxineiu_/status/2086353484367151385",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T07:26:47.000Z",
+      "timestampLabel": "4h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPQ3bw0bkAAbskg?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 10,
+        "bookmarks": 0,
+        "views": 241
+      },
+      "localImages": [
+        "images/2086353484367151385_1.jpg"
+      ],
+      "localAvatar": "avatars/Maxineiu_.jpg"
+    },
+    {
+      "id": "2086352798606610440",
+      "username": "@DenalizeID",
+      "displayName": "DENALIZE",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2082496130064187392/87uGAsQ8_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Sore gais!\n\nMalam ini kita diundang teman-teman \n@wargavirtual48\n untuk ikut hadir dan meramaikan prosesi kelulusan \n@maura_jkt48v\n\n\nYuk kita berkumpul dan mengantar perjalanan terakhir Maura dengan memori-memori baik di dalamnya 🥹\n\n#makeitMemaurable\n#TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/DenalizeID/status/2086352798606610440",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T07:24:04.000Z",
+      "timestampLabel": "4h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPQ2zxtboAABuv5?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 8,
+        "bookmarks": 0,
+        "views": 323
+      },
+      "localImages": [
+        "images/2086352798606610440_1.jpg"
+      ],
+      "localAvatar": "avatars/DenalizeID.jpg"
+    },
+    {
+      "id": "2086352301850247442",
+      "username": "@xyph31",
+      "displayName": "π",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086236645150642176/D2eXbnyQ_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "JKT48 - Cinta di Garis Horizon (xyph31 Remix)\n\ncongraduation 😔🤍\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/xyph31/status/2086352301850247442",
+      "links": [],
+      "timestamp": "2026-08-09T07:22:05.000Z",
+      "timestampLabel": "4h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 1,
+        "bookmarks": 0,
+        "views": 140
+      },
+      "localVideo": "videos/2086352301850247442.mp4",
+      "localAvatar": "avatars/xyph31.jpg"
+    },
+    {
+      "id": "2086347882198876438",
+      "username": "@FritzyForce",
+      "displayName": "⋆. 𐙚 ˚ 𝐹𝑟𝑖𝑡𝑧𝑦 𝐹𝑜𝑟𝑐𝑒 ⋆. 𐙚 ˚",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2081781266706534401/hcL5jf8g_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Happy Sunday ges 🙌 💜\nHari ini minpors dapat undangan dari kakak-kakak \n@wargavirtual48\n untuk menghadiri graduation stream dari kak \n@maura_jkt48v\n 🥹\n\nYuk, kita buat memori dan kesan terindah di perjalanan terakhir kak Maura 🫶 \n\n🔗https://youtube.com/live/2QxfnXY6OoA?si=-jktPX85HyNo6AI4\n\n#makeitMemaurable",
+      "tweetUrl": "https://x.com/FritzyForce/status/2086347882198876438",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v",
+        "https://t.co/NopLd9FqIf"
+      ],
+      "timestamp": "2026-08-09T07:04:32.000Z",
+      "timestampLabel": "4h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPQyVtpb0AAdxfC?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 19,
+        "bookmarks": 0,
+        "views": 1000
+      },
+      "localImages": [
+        "images/2086347882198876438_1.jpg"
+      ],
+      "localAvatar": "avatars/FritzyForce.jpg"
+    },
+    {
+      "id": "2086345368183435348",
+      "username": "@CinemikaID",
+      "displayName": "CINEMIKA",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2061753541560238080/GXkZx4vK_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Kaelamat siang geyzz\n\nHari ini minka dapat undangan nich dari kakak-kakak \n@wargavirtual48\n, Jangan lupa nonton streamingnya & ayo ciptakan kenangan indah untuk Maura Nilambari \n@maura_jkt48v\n !  HUHUHU 😭😭\n\n#makeitMemaurable \n#TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/CinemikaID/status/2086345368183435348",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T06:54:32.000Z",
+      "timestampLabel": "4h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPQvz6GbQAEVVuo?format=png&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 10,
+        "bookmarks": 0,
+        "views": 536
+      },
+      "localImages": [
+        "images/2086345368183435348_1.jpg"
+      ],
+      "localAvatar": "avatars/CinemikaID.jpg"
+    },
+    {
+      "id": "2086343509641216035",
+      "username": "@kong__kung",
+      "displayName": "KiNG KaNG #makeitMemaurable",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086283550819848192/u4gc-AxU_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Teruntuk \n@maura_jkt48v\n 🙈🙏\n\n#WuvMaura #makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/kong__kung/status/2086343509641216035",
+      "links": [
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T06:47:09.000Z",
+      "timestampLabel": "4h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPQuDZnbYAAZg5h?format=png&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 9,
+        "bookmarks": 0,
+        "views": 103
+      },
+      "localImages": [
+        "images/2086343509641216035_1.jpg"
+      ],
+      "localAvatar": "avatars/kong__kung.jpg"
+    },
+    {
+      "id": "2086342108995297507",
+      "username": "@terpesonaofc",
+      "displayName": "TerpeSona",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2037018096943415296/0uKXtJma_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Siang #SonShine🌟\n\nHari ini MinSon dapat undangan dari \n@wargavirtual48\n\nuntuk menghadiri graduation streamnya \n@maura_jkt48v\n 🥹\n\nYuk guys malam ini kita ramaikan live terakhir di channel youtube Maura Nilambari JKT48V!\n\n#makeitMemaurable\n#TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/terpesonaofc/status/2086342108995297507",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T06:41:35.000Z",
+      "timestampLabel": "4h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPQtFuga4AA6qMM?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 8,
+        "bookmarks": 0,
+        "views": 358
+      },
+      "localImages": [
+        "images/2086342108995297507_1.jpg"
+      ],
+      "localAvatar": "avatars/terpesonaofc.jpg"
+    },
+    {
+      "id": "2086340151853400343",
+      "username": "@AprilliVelsID",
+      "displayName": "Aprillivels",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2062557492631232512/cphl8dR__normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Siangg frenlyy!!!\n\nHari ini MinVels mendapatkan undangan dari \n@wargavirtual48\n untuk menghadiri graduation stream kak \n@maura_jkt48v\n nih.\n\nYuk guys kita ramaikan livestreaming terakhir-nya di channel Maura Nilambari JKT48V 🤗 \n\n#makeitMemaurable\n#TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/AprilliVelsID/status/2086340151853400343",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T06:33:49.000Z",
+      "timestampLabel": "5h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPQrTpEb0AAhCDh?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 2,
+        "likes": 6,
+        "bookmarks": 0,
+        "views": 242
+      },
+      "localImages": [
+        "images/2086340151853400343_1.jpg"
+      ],
+      "localAvatar": "avatars/AprilliVelsID.jpg"
+    },
+    {
+      "id": "2086337555600175586",
+      "username": "@onielity_ofc",
+      "displayName": "ONYILITY | rêveur",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2081017016752988160/cNpw7liJ_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Selamat siang, Nieltizen!\nHari ini Minty dapat undangan dari \n@wargavirtual48\n\nuntuk menghadiri graduation streamnya \n@maura_jkt48v\n \n\nYuk, malam ini ramaikan live terakhir di channel youtube Maura Nilambari JKT48V!\n#makeitMemaurable\n#TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/onielity_ofc/status/2086337555600175586",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T06:23:30.000Z",
+      "timestampLabel": "5h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPQo8j5boAAQL4B?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 27,
+        "bookmarks": 0,
+        "views": 1300
+      },
+      "localImages": [
+        "images/2086337555600175586_1.jpg"
+      ],
+      "localAvatar": "avatars/onielity_ofc.jpg"
+    },
+    {
+      "id": "2086336492453159261",
+      "username": "@AhmadHusainii1",
+      "displayName": "hibernasi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2068887350445588480/Os-lrPVd_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "haloo \n@maura_jkt48v\n Terimakasih untuk semuanya\n#makeitMemaurable #TerimaKasihJKT48V #WuvMaura",
+      "tweetUrl": "https://x.com/AhmadHusainii1/status/2086336492453159261",
+      "links": [
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T06:19:16.000Z",
+      "timestampLabel": "5h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPQn1R9acAA_5xR?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 4,
+        "bookmarks": 0,
+        "views": 36
+      },
+      "localImages": [
+        "images/2086336492453159261_1.jpg"
+      ],
+      "localAvatar": "avatars/AhmadHusainii1.jpg"
+    },
+    {
+      "id": "2086318860408672333",
+      "username": "@JazLune",
+      "displayName": "JazLune #GraceInJaz",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2025905250771828736/a10MlDQy_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Moshi Moshi!✨\n\nSiang guys, hari ini MinJaz dapet undangan dari Kaka Kaka \n@wargavirtual48\n untuk menghadiri stream graduation nya ka \n@maura_jkt48v\n\n\nYuk, Ramaikan Last stream kak \n@maura_jkt48v\n di channel YouTube MauraNilambari-JKT48V 🩵\n\n#makeitMemaurable\n#TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/JazLune/status/2086318860408672333",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T05:09:12.000Z",
+      "timestampLabel": "6h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPQX8Ina0AA0dbk?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 2,
+        "likes": 7,
+        "bookmarks": 0,
+        "views": 228
+      },
+      "localImages": [
+        "images/2086318860408672333_1.jpg"
+      ],
+      "localAvatar": "avatars/JazLune.jpg"
+    },
+    {
+      "id": "2086314682206536094",
+      "username": "@abyyolla",
+      "displayName": "abyyolla",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2022581216604798976/Eyoh2fse_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "warmest snow girl ❄️ thank youu ~ 💙\n                                                                                                                               \n#makeitMemaurable #MauLukis",
+      "tweetUrl": "https://x.com/abyyolla/status/2086314682206536094",
+      "links": [],
+      "timestamp": "2026-08-09T04:52:36.000Z",
+      "timestampLabel": "6h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPQUI_rbAAAhUqo?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 2,
+        "retweets": 14,
+        "likes": 46,
+        "bookmarks": 0,
+        "views": 1100
+      },
+      "localImages": [
+        "images/2086314682206536094_1.jpg"
+      ],
+      "localAvatar": "avatars/abyyolla.jpg"
+    },
+    {
+      "id": "2086289633592131642",
+      "username": "@Astralux_ID",
+      "displayName": "Astralux #Aeternum",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2084989791490232320/B8nbalvM_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "MornVir👋🏻\n\nhari ini minlux diundang \n@wargavirtual48\n buat meramaikan Graduation Stream dari kakak \n@maura_jkt48v\n 🥺🩵\n\nYuk ikut ramaikan last stream dari Maura di Youtube yaps ✨✨✨\n\n🔗 http://youtube.com/watch?v=2QxfnX…\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/Astralux_ID/status/2086289633592131642",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v",
+        "https://t.co/0o8wqhSypm"
+      ],
+      "timestamp": "2026-08-09T03:13:04.000Z",
+      "timestampLabel": "8h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPP9XNGWUAAvsOs?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 2,
+        "likes": 16,
+        "bookmarks": 0,
+        "views": 457
+      },
+      "localImages": [
+        "images/2086289633592131642_1.jpg"
+      ],
+      "localAvatar": "avatars/Astralux_ID.jpg"
+    },
+    {
+      "id": "2086285395097157909",
+      "username": "@Jogobonita_",
+      "displayName": "Jogo Bonita",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2079026794251100161/4xBne0jo_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Oii #ReBell 🤙\n\nHari ini kita dapat undangan dari kakak-kakak \n@wargavirtual48\n buat meramaikan Graduation Stream dari \n@maura_jkt48v\n\n\nJangan lupa untuk ikut ramaikan last stream dari kak Maura di Youtube. Huhuhuhu\n\n🔗 http://youtube.com/watch?v=2QxfnX…\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/Jogobonita_/status/2086285395097157909",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v",
+        "https://t.co/u2BQAhfyK9"
+      ],
+      "timestamp": "2026-08-09T02:56:14.000Z",
+      "timestampLabel": "8h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPP5gdraMAE1NTR?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 1,
+        "likes": 6,
+        "bookmarks": 0,
+        "views": 358
+      },
+      "localImages": [
+        "images/2086285395097157909_1.jpg"
+      ],
+      "localAvatar": "avatars/Jogobonita_.jpg"
+    },
+    {
+      "id": "2086282783186694626",
+      "username": "@VoidAshxora",
+      "displayName": "Xoraaa",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086282594216493056/rhFeuIw__normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Pesan untuk Wuv \n@maura_jkt48v\n \n\n#makeitMemaurable #TerimaKasihJKT48V #WuvMaura",
+      "tweetUrl": "https://x.com/VoidAshxora/status/2086282783186694626",
+      "links": [
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T02:45:51.000Z",
+      "timestampLabel": "8h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPP3Ie1bMAAeAMY?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 4,
+        "bookmarks": 0,
+        "views": 85
+      },
+      "localImages": [
+        "images/2086282783186694626_1.jpg"
+      ],
+      "localAvatar": "avatars/VoidAshxora.jpg"
+    },
+    {
+      "id": "2086280343087390802",
+      "username": "@MuffinOfficial_",
+      "displayName": "MUFFIN.",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2084199533664423936/J-B1ziBe_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Selamat pagi manies\n\nMUFFIN mendapatkan undangan dari teman-teman \n@wargavirtual48\n untuk menghadiri graduation stream dari \n@maura_jkt48v\n 🥹🫂\n\nMari sama-sama kita ramaikan last stream dari Maura di channel Youtube Maura Nilambari - JKT48V pukul 19.19 guys ✨\n\n#makeitMemaurable",
+      "tweetUrl": "https://x.com/MuffinOfficial_/status/2086280343087390802",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-09T02:36:09.000Z",
+      "timestampLabel": "9h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPP06ZjbcAAu8uL?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 8,
+        "bookmarks": 0,
+        "views": 1000
+      },
+      "localImages": [
+        "images/2086280343087390802_1.jpg"
+      ],
+      "localAvatar": "avatars/MuffinOfficial_.jpg"
+    },
+    {
+      "id": "2086277612272583151",
+      "username": "@Nafila__",
+      "displayName": "pilaaa",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2082714246325092352/n_mssNBS_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Maura, terima kasih banyak ₊˚ʚ 💙 ₊˚✧ﾟ\n\n#WuvMaura\n#makeitMemaurable",
+      "tweetUrl": "https://x.com/Nafila__/status/2086277612272583151",
+      "links": [],
+      "timestamp": "2026-08-09T02:25:18.000Z",
+      "timestampLabel": "9h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPPyL42a8AA6yfi?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 4,
+        "bookmarks": 0,
+        "views": 88
+      },
+      "localImages": [
+        "images/2086277612272583151_1.jpg"
+      ],
+      "localAvatar": "avatars/Nafila__.jpg"
+    },
+    {
+      "id": "2086275195527114754",
+      "username": "@olinara_",
+      "displayName": "Olinara #Alethra",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2006607232369307650/xfvqZcmX_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Selamat pagi teman-teman! 💫\n\nHuhuhu hari ini Minara diundang \n@wargavirtual48\n buat meramaikan Graduation Stream dari \n@maura_jkt48v\n 🥺🩵\n\nJangan lupa untuk ikut ramaikan last stream dari Maura di Youtube yaps ✨\n\n🔗 https://youtube.com/watch?v=2QxfnXY6OoA\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/olinara_/status/2086275195527114754",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v",
+        "https://t.co/LU17xq9KWh"
+      ],
+      "timestamp": "2026-08-09T02:15:42.000Z",
+      "timestampLabel": "9h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPPwOxFakAApcDJ?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 2,
+        "likes": 20,
+        "bookmarks": 0,
+        "views": 641
+      },
+      "localImages": [
+        "images/2086275195527114754_1.jpg"
+      ],
+      "localAvatar": "avatars/olinara_.jpg"
+    },
+    {
+      "id": "2086275163956678984",
+      "username": "@olinara_",
+      "displayName": "Olinara #Alethra",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2006607232369307650/xfvqZcmX_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Selamat pagi teman-teman! 💫\n\nHuhuhu hari ini Minara diundang \n@wargavirtual48\n buat meramaikan Graduation Stream dari \n@maura_jkt48v\n 🥺🩵\n\nJangan lupa untuk ikut ramaikan last stream dari Maura di Youtube yaps ✨\n\n🔗 https://youtube.com/watch?v=2QxfnXY6OoA\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/olinara_/status/2086275163956678984",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v",
+        "https://t.co/LU17xq9KWh"
+      ],
+      "timestamp": "2026-08-09T02:15:34.000Z",
+      "timestampLabel": "9h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPPwM3obwAAmMTo?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 3,
+        "likes": 24,
+        "bookmarks": 0,
+        "views": 1500
+      },
+      "localImages": [
+        "images/2086275163956678984_1.jpg"
+      ],
+      "localAvatar": "avatars/olinara_.jpg"
+    },
+    {
+      "id": "2086273392995655813",
+      "username": "@wargavirtual48",
+      "displayName": "WARGAVI48 #makeitMemaurable",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086097139722305536/dKyRGGlJ_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Huhuhu, terima kasih banyakk Kakk. See u di livechatt ya 🥲🥲\n\nhttps://youtube.com/watch?v=2QxfnXY6OoA\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/wargavirtual48/status/2086273392995655813",
+      "links": [
+        "https://t.co/zCrpvL0qtC"
+      ],
+      "timestamp": "2026-08-09T02:08:32.000Z",
+      "timestampLabel": "9h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 2,
+        "bookmarks": 0,
+        "views": 107
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/wargavirtual48.jpg"
+    },
+    {
+      "id": "2086273115177594914",
+      "username": "@wargavirtual48",
+      "displayName": "WARGAVI48 #makeitMemaurable",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086097139722305536/dKyRGGlJ_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Huhuhu, stream terakhirr🥲\n\nhttps://youtube.com/watch?v=2QxfnXY6OoA\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/wargavirtual48/status/2086273115177594914",
+      "links": [
+        "https://t.co/zCrpvL0qtC"
+      ],
+      "timestamp": "2026-08-09T02:07:26.000Z",
+      "timestampLabel": "9h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 2,
+        "bookmarks": 0,
+        "views": 88
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/wargavirtual48.jpg"
+    },
+    {
+      "id": "2086272722729115749",
+      "username": "@wargavirtual48",
+      "displayName": "WARGAVI48 #makeitMemaurable",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086097139722305536/dKyRGGlJ_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Huhuhu, terima kasih banyaaak Kakk. Sampai bertemu di livechat🥲\n\nhttps://youtube.com/watch?v=2QxfnXY6OoA\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/wargavirtual48/status/2086272722729115749",
+      "links": [
+        "https://t.co/zCrpvL0qtC"
+      ],
+      "timestamp": "2026-08-09T02:05:52.000Z",
+      "timestampLabel": "9h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 78
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/wargavirtual48.jpg"
+    },
+    {
+      "id": "2086272077724782769",
+      "username": "@wargavirtual48",
+      "displayName": "WARGAVI48 #makeitMemaurable",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086097139722305536/dKyRGGlJ_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Huhuhu, terima kasih banyaaak. See u di livechatt~\n\nhttps://youtube.com/watch?v=2QxfnXY6OoA\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/wargavirtual48/status/2086272077724782769",
+      "links": [
+        "https://t.co/zCrpvL0qtC"
+      ],
+      "timestamp": "2026-08-09T02:03:19.000Z",
+      "timestampLabel": "9h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 85
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/wargavirtual48.jpg"
+    },
+    {
+      "id": "2086271948779311121",
+      "username": "@wargavirtual48",
+      "displayName": "WARGAVI48 #makeitMemaurable",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086097139722305536/dKyRGGlJ_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Live terakhirr 🥲🥲\nTerima kasih banyak yaaaa, sampai bertemuu\n\nhttps://youtube.com/watch?v=2QxfnXY6OoA\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/wargavirtual48/status/2086271948779311121",
+      "links": [
+        "https://t.co/zCrpvL0qtC"
+      ],
+      "timestamp": "2026-08-09T02:02:48.000Z",
+      "timestampLabel": "9h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 1,
+        "likes": 4,
+        "bookmarks": 0,
+        "views": 115
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/wargavirtual48.jpg"
+    },
+    {
+      "id": "2086267145592410280",
+      "username": "@Degrees_OFC",
+      "displayName": "DEGREES #TernakUlet",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2037474999918067713/r0ja62PX_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "huhuhu hari ini MinGrees diundang \n@wargavirtual48\n buat meramaikan Graduation Stream \n@maura_jkt48v\n 🥹🩵\n\nYuu Greez temani perjalanan terakhir Maura Nilambari di JKT48V bersama-sama dan ramaikan live chatnya yaa~\n\n🔗https://youtube.com/live/2QxfnXY6OoA?si=2BWH7tVa0dwFN6mw\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/Degrees_OFC/status/2086267145592410280",
+      "links": [
+        "https://x.com/wargavirtual48",
+        "https://x.com/maura_jkt48v",
+        "https://t.co/fZeVoDsEFy"
+      ],
+      "timestamp": "2026-08-09T01:43:43.000Z",
+      "timestampLabel": "9h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPPo6HCawAAbEIp?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 4,
+        "likes": 25,
+        "bookmarks": 0,
+        "views": 1200
+      },
+      "localImages": [
+        "images/2086267145592410280_1.jpg"
+      ],
+      "localAvatar": "avatars/Degrees_OFC.jpg"
+    },
+    {
+      "id": "2086264134526779505",
+      "username": "@marshaoshi_",
+      "displayName": "MarshaOshi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2079899621309206528/ob9pAgCS_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Pagi WargaMaru semuaaaa\n\nHari ini, \n@maura_jkt48v\n akan lulus dari JKT48 Virtual huhuhuhuhu 😭🫶\nJangan lupa untuk ikut ramaikan di Youtube yaaa.. Semangat Wargavi \n@wargavirtual48\n 🫂\n\nhttps://youtube.com/watch?v=2QxfnXY6OoA\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/marshaoshi_/status/2086264134526779505",
+      "links": [
+        "https://x.com/maura_jkt48v",
+        "https://x.com/wargavirtual48",
+        "https://t.co/5EERoH14L9"
+      ],
+      "timestamp": "2026-08-09T01:31:45.000Z",
+      "timestampLabel": "10h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPPmK_-bsAAcc4g?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 2,
+        "likes": 17,
+        "bookmarks": 0,
+        "views": 2200
+      },
+      "localImages": [
+        "images/2086264134526779505_1.jpg"
+      ],
+      "localAvatar": "avatars/marshaoshi_.jpg"
+    },
+    {
+      "id": "2086261119908519959",
+      "username": "@tact_id",
+      "displayName": "⋆｡˚꒰ঌ TACT ໒꒱˚｡⋆",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2066888673011085312/hPUCYptS_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Selamat pagi! \nHari ini mintact diundang untuk meramaikan graduation live streaming kak \n@maura_jkt48v\n oleh \n@wargavirtual48\n 💙🥹\n\nJangan lupa ramaikan live streaming sesuai jadwal yang tertera ya! \nTerima kasih🙏\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/tact_id/status/2086261119908519959",
+      "links": [
+        "https://x.com/maura_jkt48v",
+        "https://x.com/wargavirtual48"
+      ],
+      "timestamp": "2026-08-09T01:19:46.000Z",
+      "timestampLabel": "10h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPPjbbUasAAh3Ez?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 2,
+        "likes": 15,
+        "bookmarks": 0,
+        "views": 959
+      },
+      "localImages": [
+        "images/2086261119908519959_1.jpg"
+      ],
+      "localAvatar": "avatars/tact_id.jpg"
+    },
+    {
+      "id": "2086215099904299069",
+      "username": "@krab_dzulfikar",
+      "displayName": "{Krab} R.Dzulfikar K.F #CiaoNara",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086170225167540224/BXS7pX6w_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Haallloo \n@maura_jkt48v\n ini ada sesuatu lagi buat kamu bisa dibaca selagi sempat aja alias sebisanya kamu aja, semoga kamu suka yaa❤️💖💗💞🥰🤗\n\n#WuvMaura #makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/krab_dzulfikar/status/2086215099904299069",
+      "links": [
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-08T22:16:54.000Z",
+      "timestampLabel": "13h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPO47IcbYAAuSmM?format=jpg&name=orig",
+          "https://pbs.twimg.com/media/HPO5DWQasAADQPB?format=jpg&name=orig",
+          "https://pbs.twimg.com/media/HPO5JjfboAAsFzZ?format=jpg&name=orig",
+          "https://pbs.twimg.com/media/HPO5RY1agAAjF-U?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 3,
+        "bookmarks": 0,
+        "views": 86
+      },
+      "localImages": [
+        "images/2086215099904299069_1.jpg",
+        "images/2086215099904299069_2.jpg",
+        "images/2086215099904299069_3.jpg",
+        "images/2086215099904299069_4.jpg"
+      ],
+      "localAvatar": "avatars/krab_dzulfikar.jpg"
+    },
+    {
+      "id": "2086207791195414530",
+      "username": "@gilangaji147",
+      "displayName": "LangLang",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086267910524481536/31ES10uX_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Happy graduation Mau!\nSukses selalu dan jangan lupa buat bahagia ya nanti kedepannya😊\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/gilangaji147/status/2086207791195414530",
+      "links": [],
+      "timestamp": "2026-08-08T21:47:51.000Z",
+      "timestampLabel": "13h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 96
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/gilangaji147.jpg"
+    },
+    {
+      "id": "2086206217391853978",
+      "username": "@gilangaji147",
+      "displayName": "LangLang",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086267910524481536/31ES10uX_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Sedih wak🥲\n#makeitMemaurable #TerimaKasihJKT48V\n#WuvMaura",
+      "tweetUrl": "https://x.com/gilangaji147/status/2086206217391853978",
+      "links": [],
+      "timestamp": "2026-08-08T21:41:36.000Z",
+      "timestampLabel": "13h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPOxf78aUAAu7uX?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 29,
+        "bookmarks": 0,
+        "views": 413
+      },
+      "localImages": [
+        "images/2086206217391853978_1.jpg"
+      ],
+      "localAvatar": "avatars/gilangaji147.jpg"
+    },
+    {
+      "id": "2086196523277455449",
+      "username": "@ZainRizuka14",
+      "displayName": "Zain Rizuka",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086094309493985282/uAwOnGEL_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Terima kasih Maura atas segalanya, semoga kamu sukses selalu 🤍❄️🥀\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/ZainRizuka14/status/2086196523277455449",
+      "links": [],
+      "timestamp": "2026-08-08T21:03:05.000Z",
+      "timestampLabel": "14h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 1,
+        "bookmarks": 0,
+        "views": 39
+      },
+      "localAvatar": "avatars/ZainRizuka14.jpg"
+    },
+    {
+      "id": "2086188270485131619",
+      "username": "@meirritory",
+      "displayName": "✮⋆˙ Mei ✮⋆˙",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1971940286923526147/sReq9XV__normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "thank you, really...🤍🥀\n\n#WuvMaura #makeitMemaurable #TerimaKasihJKT48V #MauLukis",
+      "tweetUrl": "https://x.com/meirritory/status/2086188270485131619",
+      "links": [],
+      "timestamp": "2026-08-08T20:30:17.000Z",
+      "timestampLabel": "15h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPOgy6ebgAAsvR9?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 106,
+        "likes": 399,
+        "bookmarks": 0,
+        "views": 6300
+      },
+      "localImages": [
+        "images/2086188270485131619_1.jpg"
+      ],
+      "localAvatar": "avatars/meirritory.jpg"
+    },
+    {
+      "id": "2086185600638743025",
+      "username": "@nakohayou",
+      "displayName": "Jii",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086100111084621824/dQl-WRGj_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Sorry kalo gak kebaca, barusan banget selesai nulisnya😀\n\n#WuvMaura\n#makeitMemaurable",
+      "tweetUrl": "https://x.com/nakohayou/status/2086185600638743025",
+      "links": [],
+      "timestamp": "2026-08-08T20:19:41.000Z",
+      "timestampLabel": "15h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPOevlzbAAAbYKj?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 27,
+        "bookmarks": 0,
+        "views": 274
+      },
+      "localImages": [
+        "images/2086185600638743025_1.jpg"
+      ],
+      "localAvatar": "avatars/nakohayou.jpg"
+    },
+    {
+      "id": "2086146104421396762",
+      "username": "@kong__kung",
+      "displayName": "KiNG KaNG #makeitMemaurable",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086283550819848192/u4gc-AxU_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Sukses selalu maura diluar sana!!! \n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/kong__kung/status/2086146104421396762",
+      "links": [],
+      "timestamp": "2026-08-08T17:42:44.000Z",
+      "timestampLabel": "17h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 94
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/kong__kung.jpg"
+    },
+    {
+      "id": "2086113677430981111",
+      "username": "@Risqi_Vodoo_",
+      "displayName": "Risqi Vodoo ◢͟￨⁴⁶ |",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086113885095104512/p05NwLrw_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Maura😭\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/Risqi_Vodoo_/status/2086113677430981111",
+      "links": [],
+      "timestamp": "2026-08-08T15:33:53.000Z",
+      "timestampLabel": "20h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 72
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/Risqi_Vodoo_.jpg"
+    },
+    {
+      "id": "2086106406172967269",
+      "username": "@snowyelsx",
+      "displayName": "hann",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086105350139506689/EZ0svL8f_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "makasih untuk segalanya, maura 🥀💙❄️ #makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/snowyelsx/status/2086106406172967269",
+      "links": [],
+      "timestamp": "2026-08-08T15:04:59.000Z",
+      "timestampLabel": "20h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 120
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/snowyelsx.jpg"
+    },
+    {
+      "id": "2086103996717253045",
+      "username": "@ooc_jkt48v",
+      "displayName": "Out of Context Jeketivi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2080687711607005184/RI397I8T_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "😔\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/ooc_jkt48v/status/2086103996717253045",
+      "links": [],
+      "timestamp": "2026-08-08T14:55:25.000Z",
+      "timestampLabel": "20h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 1,
+        "bookmarks": 0,
+        "views": 166
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/ooc_jkt48v.jpg"
+    },
+    {
+      "id": "2086102823893438712",
+      "username": "@rdngrha",
+      "displayName": "RD",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086099839864221696/nEoafPdr_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "😭😭🥀🤍❄️ #makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/rdngrha/status/2086102823893438712",
+      "links": [],
+      "timestamp": "2026-08-08T14:50:45.000Z",
+      "timestampLabel": "20h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPNTdcTbIAAP7BC?format=jpg&name=orig",
+          "https://pbs.twimg.com/media/HPNKRaoawAIqx5x?format=jpg&name=240x240"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 3,
+        "bookmarks": 0,
+        "views": 117
+      },
+      "localImages": [
+        "images/2086102823893438712_1.jpg",
+        "images/2086102823893438712_2.jpg"
+      ],
+      "localAvatar": "avatars/rdngrha.jpg"
+    },
+    {
+      "id": "2086100352294944946",
+      "username": "@nakohayou",
+      "displayName": "Jii",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086100111084621824/dQl-WRGj_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Mau lebih lama lagi \n@maura_jkt48v\n 💙\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/nakohayou/status/2086100352294944946",
+      "links": [
+        "https://x.com/maura_jkt48v",
+        "https://x.com/maura_jkt48v",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2026-08-08T14:40:56.000Z",
+      "timestampLabel": "20h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 189
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/nakohayou.jpg"
+    },
+    {
+      "id": "2086100181259534499",
+      "username": "@koosanali",
+      "displayName": "Nito✧ || Open Commission (0/5) - @ after DM",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2054949983661817856/v1CZxHWN_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Thank you so much Mauraa, swmoga sukses selalu ( ˊᵕˋ )♡❄️\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/koosanali/status/2086100181259534499",
+      "links": [],
+      "timestamp": "2026-08-08T14:40:15.000Z",
+      "timestampLabel": "20h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 167
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/koosanali.jpg"
+    },
+    {
+      "id": "2086098447682425002",
+      "username": "@Koko_Jon13",
+      "displayName": "Koko Jon | JKT48 Kobo QWER Miku",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086098665954033664/E8vLPiz__normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "TERBANGLAH MAURAAAAA\n\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/Koko_Jon13/status/2086098447682425002",
+      "links": [],
+      "timestamp": "2026-08-08T14:33:22.000Z",
+      "timestampLabel": "21h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 172
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/Koko_Jon13.jpg"
+    },
+    {
+      "id": "2086097110932586613",
+      "username": "@_f_x",
+      "displayName": "Eg",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086097424737861632/mvGAoMIg_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Suksesss terussss Maura\n#makeitMemaurable #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/_f_x/status/2086097110932586613",
+      "links": [],
+      "timestamp": "2026-08-08T14:28:03.000Z",
+      "timestampLabel": "21h",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 157
+      },
+      "thread": [],
+      "isThreadReply": false,
+      "localAvatar": "avatars/_f_x.jpg"
+    },
+    {
+      "id": "2086403540151615763",
+      "username": "@Akhsa_Akhsara",
+      "displayName": "Pena Akhsara",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2080513833601515520/eT5cQOoX_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "A final tribute for Maura Nilambari : The 2010 Nissan Micra/March Bolero by Autech, a.k.a Nilam 2.0.\n\nSince MINI got removed in some Roblox games including CDID due to copyright issue, I must find a replacement for that car.\n\nFirstly I had tried it with Honda Civic Shuttle...",
+      "tweetUrl": "https://x.com/Akhsa_Akhsara/status/2086403540151615763",
+      "links": [],
+      "timestamp": "2026-08-09T10:45:42.000Z",
+      "timestampLabel": "54m",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPRk885bsAAXYRC?format=jpg&name=orig",
+          "https://pbs.twimg.com/media/HPRk9WrboAAHDZ1?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 32
+      },
+      "thread": [
+        {
+          "id": "2086403544710869049",
+          "username": "@Akhsa_Akhsara",
+          "displayName": "Pena Akhsara",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2080513833601515520/eT5cQOoX_normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "But, since CDID released weekly update that includes Nissan March Bolero, and that car essentially had a similar design with MINI, so why not.\n\n#CarDrivingIndonesia #makeitMemaurable",
+          "tweetUrl": "https://x.com/Akhsa_Akhsara/status/2086403544710869049",
+          "links": [],
+          "timestamp": "2026-08-09T10:45:43.000Z",
+          "timestampLabel": "5:45 PM · Aug 9, 2026",
+          "media": {
+            "images": [],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 0,
+            "retweets": 0,
+            "likes": 0,
+            "bookmarks": 0,
+            "views": 0
+          },
+          "isThreadReply": true,
+          "localAvatar": "avatars/Akhsa_Akhsara.jpg"
+        }
+      ],
+      "isThreadReply": false,
+      "localImages": [
+        "images/2086403540151615763_1.jpg",
+        "images/2086403540151615763_2.jpg"
+      ],
+      "localAvatar": "avatars/Akhsa_Akhsara.jpg"
+    },
+    {
+      "id": "2086351077117714743",
+      "username": "@vanzuee",
+      "displayName": "VanZuee(ヴァンズエ)",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1659376108918415361/zhqxFrWl_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Berawal dri seorang anak kecil dengan keingintahuan nya yg besar akan smua hal hingga menjadi seorang putri yang bisa menghibur dengan tawa nya yg ahihi itu..\nHingga tibalah waktu perpisahan kita di hari ini..\nKini aku siap untuk melihat mu pergi menuju kisah baru mu -",
+      "tweetUrl": "https://x.com/vanzuee/status/2086351077117714743",
+      "links": [],
+      "timestamp": "2026-08-09T07:17:13.000Z",
+      "timestampLabel": "4h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPQ1PIVa4AAYHsw?format=jpg&name=orig",
+          "https://pbs.twimg.com/media/HPQ1PkAaEAArTw5?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 0,
+        "likes": 1,
+        "bookmarks": 0,
+        "views": 22
+      },
+      "thread": [
+        {
+          "id": "2086351080557011130",
+          "username": "@vanzuee",
+          "displayName": "VanZuee(ヴァンズエ)",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1659376108918415361/zhqxFrWl_normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "Dan ku harap bisa melepas mu dengan senyuman yg akn selalu kmu ingat... \nSoo yah ... \nHappy Graduation wahai tuan putri Maura Nilambari ❄️\nOtsumauraaa 😁😁😁\n🤍🥀\n#makeitMemaurable #TerimaKasihJKT48V",
+          "tweetUrl": "https://x.com/vanzuee/status/2086351080557011130",
+          "links": [],
+          "timestamp": "2026-08-09T07:17:14.000Z",
+          "timestampLabel": "2:17 PM · Aug 9, 2026",
+          "media": {
+            "images": [],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 0,
+            "retweets": 0,
+            "likes": 0,
+            "bookmarks": 0,
+            "views": 0
+          },
+          "isThreadReply": true,
+          "localAvatar": "avatars/vanzuee.jpg"
+        }
+      ],
+      "isThreadReply": false,
+      "localImages": [
+        "images/2086351077117714743_1.jpg",
+        "images/2086351077117714743_2.jpg"
+      ],
+      "localAvatar": "avatars/vanzuee.jpg"
+    },
+    {
+      "id": "2086148586824450304",
+      "username": "@Akbar_Bst",
+      "displayName": "SadaoMaou",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086112589155889152/TMXMRMi8_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": null,
+      "tweetUrl": "https://x.com/Akbar_Bst/status/2086148586824450304",
+      "links": [],
+      "timestamp": "2026-08-08T17:52:36.000Z",
+      "timestampLabel": "17h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPN9FL_agAAvQqL?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 0,
+        "likes": 2,
+        "bookmarks": 0,
+        "views": 26
+      },
+      "thread": [
+        {
+          "id": "2086148597264072705",
+          "username": "@Akbar_Bst",
+          "displayName": "SadaoMaou",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2086112589155889152/TMXMRMi8_normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": null,
+          "tweetUrl": "https://x.com/Akbar_Bst/status/2086148597264072705",
+          "links": [],
+          "timestamp": "2026-08-08T17:52:39.000Z",
+          "timestampLabel": "17h",
+          "media": {
+            "images": [
+              "https://pbs.twimg.com/media/HPN9FwXa4AApLlP?format=jpg&name=orig"
+            ],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 1,
+            "retweets": 0,
+            "likes": 2,
+            "bookmarks": 0,
+            "views": 19
+          },
+          "isThreadReply": true,
+          "localImages": [
+            "images/2086148597264072705_1.jpg"
+          ],
+          "localAvatar": "avatars/Akbar_Bst.jpg"
+        },
+        {
+          "id": "2086148600825041231",
+          "username": "@Akbar_Bst",
+          "displayName": "SadaoMaou",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2086112589155889152/TMXMRMi8_normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "Pertemuan dan perpisahan adalah keniscayaan yang seharusnya begitu lumrah di hidup kita, namun, ia tetap membawa perasaan berat di dada. Pertemuan yang masih aku kenang di CF 21 dengan teriakkan chantku yang begitu sember—hehe—dan sekarang perpisahan tepat di hari Graduation ini.",
+          "tweetUrl": "https://x.com/Akbar_Bst/status/2086148600825041231",
+          "links": [],
+          "timestamp": "2026-08-08T17:52:39.000Z",
+          "timestampLabel": "17h",
+          "media": {
+            "images": [],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 1,
+            "retweets": 0,
+            "likes": 1,
+            "bookmarks": 0,
+            "views": 19
+          },
+          "isThreadReply": true,
+          "localAvatar": "avatars/Akbar_Bst.jpg"
+        },
+        {
+          "id": "2086148604264333409",
+          "username": "@Akbar_Bst",
+          "displayName": "SadaoMaou",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2086112589155889152/TMXMRMi8_normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "Untuk semua kenangan yang begitu menyenangkan di antara dua ujung ini, aku ucapkan terima kasih.",
+          "tweetUrl": "https://x.com/Akbar_Bst/status/2086148604264333409",
+          "links": [],
+          "timestamp": "2026-08-08T17:52:40.000Z",
+          "timestampLabel": "17h",
+          "media": {
+            "images": [],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 1,
+            "retweets": 0,
+            "likes": 1,
+            "bookmarks": 0,
+            "views": 18
+          },
+          "isThreadReply": true,
+          "localAvatar": "avatars/Akbar_Bst.jpg"
+        },
+        {
+          "id": "2086148608051880063",
+          "username": "@Akbar_Bst",
+          "displayName": "SadaoMaou",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2086112589155889152/TMXMRMi8_normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "Apapun keputusanmu nanti setelah graduation, ketahuilah aku akan selalu mendukungmu. Kupastikan kamu mengetahui ini jaga-jaga kalau kamu memang mau istirahat dulu dari semua dunia pervtuberan ini.",
+          "tweetUrl": "https://x.com/Akbar_Bst/status/2086148608051880063",
+          "links": [],
+          "timestamp": "2026-08-08T17:52:41.000Z",
+          "timestampLabel": "17h",
+          "media": {
+            "images": [],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 1,
+            "retweets": 0,
+            "likes": 1,
+            "bookmarks": 0,
+            "views": 18
+          },
+          "isThreadReply": true,
+          "localAvatar": "avatars/Akbar_Bst.jpg"
+        },
+        {
+          "id": "2086148611461771491",
+          "username": "@Akbar_Bst",
+          "displayName": "SadaoMaou",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2086112589155889152/TMXMRMi8_normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "Aku harap apapun jalan yang kamu ambil, ia adalah jalan untuk menemukan kebahagiaan yang meluap-luap. Jikalau kita tak berpapasan lagi di persimpangan jalan, ketahuilah bahwa apa yang hilang dari kita akan kembali dalam bentuk yang lain.",
+          "tweetUrl": "https://x.com/Akbar_Bst/status/2086148611461771491",
+          "links": [],
+          "timestamp": "2026-08-08T17:52:42.000Z",
+          "timestampLabel": "17h",
+          "media": {
+            "images": [],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 1,
+            "retweets": 0,
+            "likes": 1,
+            "bookmarks": 0,
+            "views": 18
+          },
+          "isThreadReply": true,
+          "localAvatar": "avatars/Akbar_Bst.jpg"
+        },
+        {
+          "id": "2086148614909460579",
+          "username": "@Akbar_Bst",
+          "displayName": "SadaoMaou",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2086112589155889152/TMXMRMi8_normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "Dukungan dari kami juga akan kembali kepadamu dalam bentuk yang lain. Aku percaya itu.",
+          "tweetUrl": "https://x.com/Akbar_Bst/status/2086148614909460579",
+          "links": [],
+          "timestamp": "2026-08-08T17:52:43.000Z",
+          "timestampLabel": "17h",
+          "media": {
+            "images": [],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 1,
+            "retweets": 0,
+            "likes": 1,
+            "bookmarks": 0,
+            "views": 18
+          },
+          "isThreadReply": true,
+          "localAvatar": "avatars/Akbar_Bst.jpg"
+        },
+        {
+          "id": "2086148618365681817",
+          "username": "@Akbar_Bst",
+          "displayName": "SadaoMaou",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2086112589155889152/TMXMRMi8_normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "Terima kasih atas penghiburan yang kamu tunjukkan di setiap interaksinya. Usaha kamu yang mungkin kamu anggap singkat akan selalu membekas dalam waktu yang sangat lama. Jangan pernah merasa kurang karena singkatnya waktu ini.",
+          "tweetUrl": "https://x.com/Akbar_Bst/status/2086148618365681817",
+          "links": [],
+          "timestamp": "2026-08-08T17:52:44.000Z",
+          "timestampLabel": "17h",
+          "media": {
+            "images": [],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 1,
+            "retweets": 0,
+            "likes": 1,
+            "bookmarks": 0,
+            "views": 19
+          },
+          "isThreadReply": true,
+          "localAvatar": "avatars/Akbar_Bst.jpg"
+        },
+        {
+          "id": "2086148621905592427",
+          "username": "@Akbar_Bst",
+          "displayName": "SadaoMaou",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2086112589155889152/TMXMRMi8_normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "Ketahuilah, kamu telah berhasil, kamu telah sukses, kamu telah menang. Sebab berapa banyak dari kami yang penuh hidupnya karena kehadiranmu, maka rayakanlah, Maura Nilambari.",
+          "tweetUrl": "https://x.com/Akbar_Bst/status/2086148621905592427",
+          "links": [],
+          "timestamp": "2026-08-08T17:52:44.000Z",
+          "timestampLabel": "17h",
+          "media": {
+            "images": [],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 1,
+            "retweets": 0,
+            "likes": 1,
+            "bookmarks": 0,
+            "views": 18
+          },
+          "isThreadReply": true,
+          "localAvatar": "avatars/Akbar_Bst.jpg"
+        },
+        {
+          "id": "2086148625386869160",
+          "username": "@Akbar_Bst",
+          "displayName": "SadaoMaou",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2086112589155889152/TMXMRMi8_normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "Aku sangat bersyukur atas persimpangan jalan ini, dan ke manapun jalan membawa, semoga ia membawa kita kepada diri yang lebih baik. Terima kasih sekali lagi, Maura Nilambari. Terima kasih.\n\nHappy graduation and see you around!",
+          "tweetUrl": "https://x.com/Akbar_Bst/status/2086148625386869160",
+          "links": [],
+          "timestamp": "2026-08-08T17:52:45.000Z",
+          "timestampLabel": "17h",
+          "media": {
+            "images": [],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 1,
+            "retweets": 0,
+            "likes": 1,
+            "bookmarks": 0,
+            "views": 26
+          },
+          "isThreadReply": true,
+          "localAvatar": "avatars/Akbar_Bst.jpg"
+        },
+        {
+          "id": "2086225060529098860",
+          "username": "@Akbar_Bst",
+          "displayName": "SadaoMaou",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2086112589155889152/TMXMRMi8_normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "#makeitMemaurable #TerimaKasihJKT48V",
+          "tweetUrl": "https://x.com/Akbar_Bst/status/2086225060529098860",
+          "links": [],
+          "timestamp": "2026-08-08T22:56:29.000Z",
+          "timestampLabel": "5:56 AM · Aug 9, 2026",
+          "media": {
+            "images": [],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 0,
+            "retweets": 0,
+            "likes": 0,
+            "bookmarks": 0,
+            "views": 0
+          },
+          "isThreadReply": true,
+          "localAvatar": "avatars/Akbar_Bst.jpg"
+        }
+      ],
+      "isThreadReply": false,
+      "localImages": [
+        "images/2086148586824450304_1.jpg"
+      ],
+      "localAvatar": "avatars/Akbar_Bst.jpg"
+    },
+    {
+      "id": "2086093213207531661",
+      "username": "@wargavirtual48",
+      "displayName": "WARGAVI48 #makeitMemaurable",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086097139722305536/dKyRGGlJ_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "🌸❄️Graduation Project: Maura Nilambari❄️🌸\n\nAda ribuan kata yg ingin terucap, namun rasanya tak ada yang cukup pantas untuk merangkum betapa berharganya kehadiranmu. Pertemuan kita memang singkat, namun cukup untuk meninggalkan kesan begitu dalam dan indah yang layak untuk",
+      "tweetUrl": "https://x.com/wargavirtual48/status/2086093213207531661",
+      "links": [],
+      "timestamp": "2026-08-08T14:12:34.000Z",
+      "timestampLabel": "21h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPNKRaoawAIqx5x?format=jpg&name=orig"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 13,
+        "retweets": 178,
+        "likes": 416,
+        "bookmarks": 0,
+        "views": 8100
+      },
+      "thread": [
+        {
+          "id": "2086093218152866253",
+          "username": "@wargavirtual48",
+          "displayName": "WARGAVI48 #makeitMemaurable",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2086097139722305536/dKyRGGlJ_normal.jpg",
+          "isVerified": true,
+          "verifiedType": "blue",
+          "text": "🌸❄️Ava & Banner❄️🌸\n\nLet’s #makeitMemaurable with this ava & banner as a little piece of an unforgettable memory we’ll cherish forever.\n\n#makeitMemaurable #TerimaKasihJKT48V",
+          "tweetUrl": "https://x.com/wargavirtual48/status/2086093218152866253",
+          "links": [],
+          "timestamp": "2026-08-08T14:12:35.000Z",
+          "timestampLabel": "21h",
+          "media": {
+            "images": [
+              "https://pbs.twimg.com/media/HPNKPj9aUAIdCL7?format=jpg&name=360x360",
+              "https://pbs.twimg.com/media/HPNKPj2bsAEkNSC?format=jpg&name=900x900"
+            ],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 1,
+            "retweets": 27,
+            "likes": 52,
+            "bookmarks": 0,
+            "views": 867
+          },
+          "isThreadReply": true,
+          "localImages": [
+            "images/2086093218152866253_1.jpg",
+            "images/2086093218152866253_2.jpg"
+          ],
+          "localAvatar": "avatars/wargavirtual48.jpg"
+        },
+        {
+          "id": "2086093221437055304",
+          "username": "@wargavirtual48",
+          "displayName": "WARGAVI48 #makeitMemaurable",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2086097139722305536/dKyRGGlJ_normal.jpg",
+          "isVerified": true,
+          "verifiedType": "blue",
+          "text": "🌸❄️Graduation Fan Letter❄️🌸\n\nJangan lupa untuk menuliskan kesan dan pesan yang ingin disampaikan terakhir kali untuk Maura Nilambari menggunakan hashtag #WuvMaura yaa\n\n#makeitMemaurable #TerimaKasihJKT48V",
+          "tweetUrl": "https://x.com/wargavirtual48/status/2086093221437055304",
+          "links": [],
+          "timestamp": "2026-08-08T14:12:36.000Z",
+          "timestampLabel": "21h",
+          "media": {
+            "images": [],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 1,
+            "retweets": 20,
+            "likes": 33,
+            "bookmarks": 0,
+            "views": 784
+          },
+          "isThreadReply": true,
+          "localAvatar": "avatars/wargavirtual48.jpg"
+        },
+        {
+          "id": "2086093225258111078",
+          "username": "@wargavirtual48",
+          "displayName": "WARGAVI48 #makeitMemaurable",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2086097139722305536/dKyRGGlJ_normal.jpg",
+          "isVerified": true,
+          "verifiedType": "blue",
+          "text": "🌸❄️Fan Video❄️🌸\n\nDi musim dingin ada salju,\nDi hatiku ada kamu,\nHai \n@maura_jkt48v\n kesayanganku,\nIni ada pantun buat kamu\n\n#makeitMemaurable #TerimaKasihJKT48V",
+          "tweetUrl": "https://x.com/wargavirtual48/status/2086093225258111078",
+          "links": [
+            "https://x.com/maura_jkt48v"
+          ],
+          "timestamp": "2026-08-08T14:12:37.000Z",
+          "timestampLabel": "9:12 PM · Aug 8, 2026",
+          "media": {
+            "images": [],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 1,
+            "retweets": 41,
+            "likes": 57,
+            "bookmarks": 2,
+            "views": 0
+          },
+          "isThreadReply": true,
+          "localVideo": "videos/2086093225258111078.mp4",
+          "localAvatar": "avatars/wargavirtual48.jpg"
+        },
+        {
+          "id": "2086093228676444344",
+          "username": "@wargavirtual48",
+          "displayName": "WARGAVI48 #makeitMemaurable",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2086097139722305536/dKyRGGlJ_normal.jpg",
+          "isVerified": true,
+          "verifiedType": "blue",
+          "text": "🌸❄️Credits❄️🌸\n\nMain Artists:\n\n@shinkaaz\n\n\nArt Designer:\n\n@sunymz\n \n\nLogo:\n\n@sunymz\n\n\nDesigner:\n\n@barry_ptr\n\n\n@whteeeeeee\n\n\n@sunymz\n \n\nWeb Developer:\n\n@fiveft7\n\n\n@sunymz\n \n\nVideo Editor:\n\n@DragonM91347709\n \n\nVideo Submission Manager:\n\n@_f_x\n\n\n@hm_achn\n\n\nCopywriter:\n\n@nakohayou\n\n\n@oikawa_yui89",
+          "tweetUrl": "https://x.com/wargavirtual48/status/2086093228676444344",
+          "links": [
+            "https://x.com/shinkaaz",
+            "https://x.com/sunymz",
+            "https://x.com/sunymz",
+            "https://x.com/barry_ptr",
+            "https://x.com/whteeeeeee",
+            "https://x.com/sunymz",
+            "https://x.com/fiveft7",
+            "https://x.com/sunymz",
+            "https://x.com/DragonM91347709",
+            "https://x.com/_f_x",
+            "https://x.com/hm_achn",
+            "https://x.com/nakohayou",
+            "https://x.com/oikawa_yui89"
+          ],
+          "timestamp": "2026-08-08T14:12:38.000Z",
+          "timestampLabel": "21h",
+          "media": {
+            "images": [],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 1,
+            "retweets": 11,
+            "likes": 28,
+            "bookmarks": 0,
+            "views": 532
+          },
+          "isThreadReply": true,
+          "localAvatar": "avatars/wargavirtual48.jpg"
+        },
+        {
+          "id": "2086093231490842990",
+          "username": "@wargavirtual48",
+          "displayName": "WARGAVI48 #makeitMemaurable",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2086097139722305536/dKyRGGlJ_normal.jpg",
+          "isVerified": true,
+          "verifiedType": "blue",
+          "text": "Wargavi48 Website (https://wargavi48.github.io)\nDiscord (https://wargavi48.github.io/discord)\nTikTok (https://tiktok.com/@wargavi48)\nTrakteer (https://teer.id/wargavi48)\nTokopedia (https://tokopedia.com/wargavi48)\nJKT48V Fanmade Visual Novel Game by Wargavi48 (https://store.steampowered.com/app/3037900/WGV_Dreamcatcher)",
+          "tweetUrl": "https://x.com/wargavirtual48/status/2086093231490842990",
+          "links": [
+            "https://t.co/fvbQ6xfnHY",
+            "https://t.co/AVUCq0UX4w",
+            "https://t.co/clh41rVxiT",
+            "https://t.co/EpbV2NeuIi",
+            "https://t.co/PTyuljlRv9",
+            "https://t.co/dTREA1JC76"
+          ],
+          "timestamp": "2026-08-08T14:12:38.000Z",
+          "timestampLabel": "21h",
+          "media": {
+            "images": [],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 0,
+            "retweets": 9,
+            "likes": 22,
+            "bookmarks": 0,
+            "views": 401
+          },
+          "isThreadReply": true,
+          "localAvatar": "avatars/wargavirtual48.jpg"
+        }
+      ],
+      "isThreadReply": false,
+      "localImages": [
+        "images/2086093213207531661_1.jpg"
+      ],
+      "localAvatar": "avatars/wargavirtual48.jpg"
+    }
+  ]
+}
