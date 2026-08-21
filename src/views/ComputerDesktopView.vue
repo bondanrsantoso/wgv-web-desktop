@@ -220,6 +220,7 @@ const menubarContents = computed(() => [
         onClick() {
           runningApps.length = 0
           isLoggedIn.value = false
+          selectedProfile.value = "kanaia"
         },
       },
       {
