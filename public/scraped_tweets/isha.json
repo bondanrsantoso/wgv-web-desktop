@@ -1,604 +1,789 @@
 {
   "metadata": {
-    "hashtag": null,
-    "scraped_at": "2026-08-21T08:35:41.869Z",
-    "total_tweets": 59,
-    "source_url": "https://x.com/search?q=(%23Hinds19ht%20OR%20%23NotThatIMissYou)&src=typed_query&f=live",
-    "scraper_version": "1.0.0-console",
-    "tab": "latest"
+    "hashtag": "#NotThatIMissYou",
+    "scraped_at": "2026-08-21T11:08:31.741Z",
+    "total_items": 46,
+    "source_url": "https://x.com/hashtag/NotThatIMissYou",
+    "session_name": "NotThatIMissYou_2026-08-21T18-04-47",
+    "scraper_version": "1.2.0",
+    "chrome_port": 9222,
+    "scroll_delay_ms": 2000,
+    "images_downloaded": 62,
+    "videos_downloaded": 2,
+    "avatars_downloaded": 44,
+    "images_dir": "images",
+    "videos_dir": "videos",
+    "avatars_dir": "avatars"
   },
   "tweets": [
     {
-      "id": "2090717995178017043",
-      "username": "@SetsunaYuuta",
-      "displayName": "Setsuna",
-      "text": "Sedikit kalimat untuk mu 👉🏻👈🏻\n#NotThatIMissYou",
-      "timestamp": "2026-08-21T08:29:48.000Z",
-      "timestampLabel": "4m",
-      "tweetUrl": "https://x.com/SetsunaYuuta/status/2090717995178017043",
+      "id": "2090755303113728326",
+      "username": "@alekhinesgunn",
+      "displayName": "Rei ♕",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2045838160203227136/J2Mxkqri_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "b-bukan berarti a-aku..><\n#NotThatIMissYou👉👈",
+      "tweetUrl": "https://x.com/alekhinesgunn/status/2090755303113728326",
       "links": [],
+      "timestamp": "2026-08-21T10:58:03.000Z",
+      "timestampLabel": "6m",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQO47zIbgAAWZSD?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQPa3NcbEAAgTkv?format=jpg&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 0,
         "likes": 0,
-        "bookmarks": 0
+        "bookmarks": 0,
+        "views": 6
       },
+      "localImages": [
+        "images/2090755303113728326_1.jpg"
+      ],
+      "localAvatar": "avatars/alekhinesgunn.jpg"
+    },
+    {
+      "id": "2090749381939167725",
+      "username": "@ShikaToilet17",
+      "displayName": "ShikaToilet",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2061654871682732032/0Yte-E3Q_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Huehuehue😖\n\n#NotThatIMissYou👉👈 #Isha4K",
+      "tweetUrl": "https://x.com/ShikaToilet17/status/2090749381939167725",
+      "links": [],
+      "timestamp": "2026-08-21T10:34:31.000Z",
+      "timestampLabel": "30m",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HQPVek5aUAAJqke?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
       "isRetweet": false,
       "retweetedBy": null,
-      "quoted": null
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 12
+      },
+      "localImages": [
+        "images/2090749381939167725_1.jpg"
+      ],
+      "localAvatar": "avatars/ShikaToilet17.jpg"
+    },
+    {
+      "id": "2090748986722541803",
+      "username": "@The_Syatria",
+      "displayName": "AV48-Syatria Yoga",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090503823727144960/z9oDnNmc_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "👉👈\n#NotThatIMissYou #Hinds19ht #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/The_Syatria/status/2090748986722541803",
+      "links": [],
+      "timestamp": "2026-08-21T10:32:57.000Z",
+      "timestampLabel": "31m",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HQPVHsgbMAA936d?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 17
+      },
+      "localImages": [
+        "images/2090748986722541803_1.jpg"
+      ],
+      "localAvatar": "avatars/The_Syatria.jpg"
+    },
+    {
+      "id": "2090734040131436825",
+      "username": "@BlueLightPjk",
+      "displayName": "Blue Light Project",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2081344769398276096/Ip6TLz0P_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "From a field of blooming flowers,\nwe found a little cat hiding among the petals acting like it doesn’t care,\nbut secretly keeping every precious memory close\nThankyou for coloring our days with memories that will never fade\n\n#NotThatIMissYou #Hinds19ht\n#TerimaKasihJKT48V #Isha4K",
+      "tweetUrl": "https://x.com/BlueLightPjk/status/2090734040131436825",
+      "links": [],
+      "timestamp": "2026-08-21T09:33:33.000Z",
+      "timestampLabel": "1h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HQPHhdCaYAAA-8n?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 8,
+        "likes": 21,
+        "bookmarks": 0,
+        "views": 154
+      },
+      "localImages": [
+        "images/2090734040131436825_1.jpg"
+      ],
+      "localAvatar": "avatars/BlueLightPjk.jpg"
+    },
+    {
+      "id": "2090731372159840377",
+      "username": "@ktsr_45",
+      "displayName": "AS",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090730846294802432/iVLSJa0F_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Dari AS untuk \n@isha_jkt48v\n\n#NotThatIMissYou #Hinds19ht #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/ktsr_45/status/2090731372159840377",
+      "links": [
+        "https://x.com/isha_jkt48v"
+      ],
+      "timestamp": "2026-08-21T09:22:57.000Z",
+      "timestampLabel": "1h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HQPFFzTa8AABcgM?format=jpg&name=360x360",
+          "https://pbs.twimg.com/media/HQPFGV1a8AAQK9O?format=jpg&name=360x360"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 2,
+        "likes": 13,
+        "bookmarks": 0,
+        "views": 147
+      },
+      "localImages": [
+        "images/2090731372159840377_1.jpg",
+        "images/2090731372159840377_2.jpg"
+      ],
+      "localAvatar": "avatars/ktsr_45.jpg"
+    },
+    {
+      "id": "2090725648931439022",
+      "username": "@Fian_iian",
+      "displayName": "PiaraanKoko",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090440279115681792/pN1gxA5b_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Happy graduation Isha Kirana\n\n#NotThatIMissYou #Hinds19ht\n#Isha4K #TerimaKasihJKT48V",
+      "tweetUrl": "https://x.com/Fian_iian/status/2090725648931439022",
+      "links": [],
+      "timestamp": "2026-08-21T09:00:13.000Z",
+      "timestampLabel": "2h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HQO_4nVbAAEG6EU?format=jpg&name=360x360",
+          "https://pbs.twimg.com/media/HQO_5FkaEAASZma?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 6,
+        "likes": 35,
+        "bookmarks": 0,
+        "views": 282
+      },
+      "localImages": [
+        "images/2090725648931439022_1.jpg",
+        "images/2090725648931439022_2.jpg"
+      ],
+      "localAvatar": "avatars/Fian_iian.jpg"
+    },
+    {
+      "id": "2090720739171479783",
+      "username": "@diskoelisium",
+      "displayName": "Reece",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2087419286788927488/pAuiAzwj_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#NotThatIMissYou 👉👈\n#TerimaKasihJKT48V\n#Isha4K",
+      "tweetUrl": "https://x.com/diskoelisium/status/2090720739171479783",
+      "links": [],
+      "timestamp": "2026-08-21T08:40:42.000Z",
+      "timestampLabel": "2h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HQO7aambMAAAaIh?format=jpg&name=small",
+          "https://pbs.twimg.com/media/HQO7aakagAERK0_?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 2,
+        "likes": 11,
+        "bookmarks": 0,
+        "views": 90
+      },
+      "localImages": [
+        "images/2090720739171479783_1.jpg",
+        "images/2090720739171479783_2.jpg"
+      ],
+      "localAvatar": "avatars/diskoelisium.jpg"
+    },
+    {
+      "id": "2090717995178017043",
+      "username": "@SetsunaYuuta",
+      "displayName": "Setsuna",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090440515582074880/1X5JshnC_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Sedikit kalimat untuk mu 👉🏻👈🏻\n#NotThatIMissYou",
+      "tweetUrl": "https://x.com/SetsunaYuuta/status/2090717995178017043",
+      "links": [],
+      "timestamp": "2026-08-21T08:29:48.000Z",
+      "timestampLabel": "2h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HQO47zIbgAAWZSD?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 1,
+        "likes": 5,
+        "bookmarks": 0,
+        "views": 64
+      },
+      "localImages": [
+        "images/2090717995178017043_1.jpg"
+      ],
+      "localAvatar": "avatars/SetsunaYuuta.jpg"
     },
     {
       "id": "2090715053062516856",
       "username": "@Chrisnanda45149",
       "displayName": "chrisnandayanes",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2066921029755441152/7rvu3o0H_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "Happy Graduation Isha Kucing Tsundere 👉👈\n#NotThatIMissYou",
-      "timestamp": "2026-08-21T08:18:06.000Z",
-      "timestampLabel": "16m",
       "tweetUrl": "https://x.com/Chrisnanda45149/status/2090715053062516856",
       "links": [],
+      "timestamp": "2026-08-21T08:18:06.000Z",
+      "timestampLabel": "2h",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQO2QMhbYAA4DGL?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQO2QMhbYAA4DGL?format=jpg&name=small"
         ],
         "videos": []
       },
-      "engagement": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 1,
-        "bookmarks": 0
-      },
+      "quote": null,
       "isRetweet": false,
       "retweetedBy": null,
-      "quoted": null
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 1,
+        "likes": 6,
+        "bookmarks": 0,
+        "views": 48
+      },
+      "localImages": [
+        "images/2090715053062516856_1.jpg"
+      ],
+      "localAvatar": "avatars/Chrisnanda45149.jpg"
     },
     {
       "id": "2090713764891124011",
       "username": "@shanaxsan_",
-      "displayName": "shana 🧡💜",
+      "displayName": "shana",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090497433751138304/QJ42GQ1Q_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "#NotThatIMissYou",
-      "timestamp": "2026-08-21T08:12:59.000Z",
-      "timestampLabel": "21m",
       "tweetUrl": "https://x.com/shanaxsan_/status/2090713764891124011",
       "links": [],
-      "media": {
-        "images": [],
-        "videos": []
-      },
-      "engagement": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": {
-        "id": "2090711196030972242",
-        "username": "@shanaxsan_",
-        "displayName": "shana 🧡💜",
-        "text": "Happy graduation, @isha_jkt48v\nsi kucing tsundere yg suaranya bening dan indah seperti bintang di malam hari 🌠\nTerima kasih atas kerja keras & kenangannya. Semoga seterusnya hari-harimu selalu menyenangkan dan membahagiakan. Very proud of you 🤗🤍\n#Hinds19ht #TerimaKasihJKT48V",
-        "timestamp": "2026-08-21T08:02:47.000Z",
-        "timestampLabel": "31m",
-        "tweetUrl": "https://x.com/shanaxsan_/status/2090711196030972242/photo/1",
-        "links": [],
-        "media": {
-          "images": [
-            "https://pbs.twimg.com/media/HQOywABbkAAAQtF?format=webp&name=large"
-          ],
-          "videos": []
-        }
-      }
-    },
-    {
-      "id": "2090711196030972242",
-      "username": "@shanaxsan_",
-      "displayName": "shana 🧡💜",
-      "text": "Happy graduation, @isha_jkt48v\nsi kucing tsundere yg suaranya bening dan indah seperti bintang di malam hari 🌠\nTerima kasih atas kerja keras & kenangannya. Semoga seterusnya hari-harimu selalu menyenangkan dan membahagiakan. Very proud of you 🤗🤍\n#Hinds19ht #TerimaKasihJKT48V",
-      "timestamp": "2026-08-21T08:02:47.000Z",
-      "timestampLabel": "31m",
-      "tweetUrl": "https://x.com/shanaxsan_/status/2090711196030972242",
-      "links": [
-        "https://x.com/isha_jkt48v"
-      ],
+      "timestamp": "2026-08-21T08:12:59.000Z",
+      "timestampLabel": "2h",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQOywABbkAAAQtF?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQOywABbkAAAQtF?format=jpg&name=small"
         ],
         "videos": []
       },
-      "engagement": {
-        "replies": 1,
-        "retweets": 1,
-        "likes": 1,
-        "bookmarks": 0
-      },
+      "quote": null,
       "isRetweet": false,
       "retweetedBy": null,
-      "quoted": null
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 1,
+        "likes": 4,
+        "bookmarks": 0,
+        "views": 97
+      },
+      "localImages": [
+        "images/2090713764891124011_1.jpg"
+      ],
+      "localAvatar": "avatars/shanaxsan_.jpg"
     },
     {
       "id": "2090704455788277944",
       "username": "@FarunaJivananta",
       "displayName": "(♆) ƒα૨ ɦε*ωαɳ ყαɳɠ ɓ☆เҡ #NonAktif",
-      "text": "Happy Graduation Isha! ฅ^>⩊<^ฅ\n\nAku bakal kangen gaya tsundere-mu itu @isha_jkt48v :)\n\n#NotThatIMissYou #Isha4K  #TerimakasihJKT48V",
-      "timestamp": "2026-08-21T07:36:00.000Z",
-      "timestampLabel": "58m",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2073754838727524352/FooV8tsm_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Happy Graduation Isha! ฅ^>⩊<^ฅ\n\nAku bakal kangen gaya tsundere-mu itu \n@isha_jkt48v\n :)\n\n#NotThatIMissYou #Isha4K  #TerimakasihJKT48V",
       "tweetUrl": "https://x.com/FarunaJivananta/status/2090704455788277944",
       "links": [
         "https://x.com/isha_jkt48v"
       ],
+      "timestamp": "2026-08-21T07:36:00.000Z",
+      "timestampLabel": "3h",
       "media": {
         "images": [
           "https://pbs.twimg.com/media/HQOsnEYbUAAm2UX?format=jpg&name=360x360",
-          "https://pbs.twimg.com/media/HQOsnj_acAAFDBd?format=jpg&name=360x360"
+          "https://pbs.twimg.com/media/HQOsnj_acAAFDBd?format=jpg&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 1,
         "retweets": 4,
-        "likes": 8,
-        "bookmarks": 0
+        "likes": 18,
+        "bookmarks": 0,
+        "views": 302
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
-    },
-    {
-      "id": "2090694686377963752",
-      "username": "@abyyolla",
-      "displayName": "abyyolla",
-      "text": "kucing yang lewat entah dari mana 🐈‍⬛\nthe moment this cat introduced herself and sang hikoukigumo, i just knew there was something about her that made me want to keep waiting for her ~ thank you for choosing this path 🌙 I'm very grateful ☘️\n\n#Isha4K #Hinds19ht",
-      "timestamp": "2026-08-21T06:57:11.000Z",
-      "timestampLabel": "1h",
-      "tweetUrl": "https://x.com/abyyolla/status/2090694686377963752",
-      "links": [],
-      "media": {
-        "images": [
-          "https://pbs.twimg.com/media/HQOju_Ib0AAJEAe?format=webp&name=large"
-        ],
-        "videos": []
-      },
-      "engagement": {
-        "replies": 1,
-        "retweets": 12,
-        "likes": 32,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
-    },
-    {
-      "id": "2090694182105219286",
-      "username": "@abyyolla",
-      "displayName": "abyyolla",
-      "text": "kucing yang lewat entah dari mana 🐈‍⬛ \nthe moment this cat introduced herself and sang hikoukigumo, i just knew there was something about her that made me want to keep waiting for her ~ ☘️ thank you for choosing this path and maki\n\n#Isha4K #Hinds19ht",
-      "timestamp": "2026-08-21T06:55:10.000Z",
-      "timestampLabel": "1h",
-      "tweetUrl": "https://x.com/abyyolla/status/2090694182105219286",
-      "links": [],
-      "media": {
-        "images": [],
-        "videos": []
-      },
-      "engagement": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localImages": [
+        "images/2090704455788277944_1.jpg",
+        "images/2090704455788277944_2.jpg"
+      ],
+      "localAvatar": "avatars/FarunaJivananta.jpg"
     },
     {
       "id": "2090693938944544992",
       "username": "@kong__kung",
       "displayName": "KiNG KaNG",
-      "text": "Permisiii, pakeeet\nAda paket nih buat kaka @isha_jkt48v 👉👈\n🏃‍♀️🏃‍♀️🏃‍♀️\n\n#NotThatIMissYou #Hinds19ht #TerimaKasihJKT48V",
-      "timestamp": "2026-08-21T06:54:12.000Z",
-      "timestampLabel": "1h",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090683970673627136/oZJJJwtv_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Permisiii, pakeeet\nAda paket nih buat kaka \n@isha_jkt48v\n 👉👈\n🏃‍♀️🏃‍♀️🏃‍♀️\n\n#NotThatIMissYou #Hinds19ht #TerimaKasihJKT48V",
       "tweetUrl": "https://x.com/kong__kung/status/2090693938944544992",
       "links": [
         "https://x.com/isha_jkt48v"
       ],
+      "timestamp": "2026-08-21T06:54:12.000Z",
+      "timestampLabel": "4h",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQOjDPwbQAAnFE7?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQOjDPwbQAAnFE7?format=jpg&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 3,
-        "likes": 7,
-        "bookmarks": 0
+        "likes": 11,
+        "bookmarks": 0,
+        "views": 117
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localImages": [
+        "images/2090693938944544992_1.jpg"
+      ],
+      "localAvatar": "avatars/kong__kung.jpg"
     },
     {
       "id": "2090693777379991722",
       "username": "@AhmadHusainii1",
       "displayName": "hibernasi",
-      "text": "meow meow 🥹🤍 @isha_jkt48v \n#NotThatIMissYou",
-      "timestamp": "2026-08-21T06:53:34.000Z",
-      "timestampLabel": "1h",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2068887350445588480/Os-lrPVd_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "meow meow 🥹🤍 \n@isha_jkt48v\n \n#NotThatIMissYou",
       "tweetUrl": "https://x.com/AhmadHusainii1/status/2090693777379991722",
       "links": [
         "https://x.com/isha_jkt48v"
       ],
+      "timestamp": "2026-08-21T06:53:34.000Z",
+      "timestampLabel": "4h",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQOi556bQAAhR3E?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQOi556bQAAhR3E?format=jpg&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 1,
-        "likes": 4,
-        "bookmarks": 0
+        "likes": 7,
+        "bookmarks": 0,
+        "views": 59
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
-    },
-    {
-      "id": "2090687217761149182",
-      "username": "@krab_dzulfikar",
-      "displayName": "{Krab} R.Dzulfikar K.F🇳🇱🏴󠁧󠁢󠁥󠁮󠁧󠁿 #CiaoNara",
-      "text": "Jalanan tidak pernah lupa, POV dihukum/disetrap Bu Guru @isha_jkt48v (waktu sebelum Isha tergila gila sama Valo (sepertinya))😁🥹🥺😭\n\n#Isha4K #Hinds19ht #TerimaKasihJKT48V",
-      "timestamp": "2026-08-21T06:27:30.000Z",
-      "timestampLabel": "2h",
-      "tweetUrl": "https://x.com/krab_dzulfikar/status/2090687217761149182",
-      "links": [
-        "https://x.com/isha_jkt48v"
+      "localImages": [
+        "images/2090693777379991722_1.jpg"
       ],
-      "media": {
-        "images": [],
-        "videos": [
-          "blob:https://x.com/ffcf40c7-fb64-4b38-8ebb-5b1e6bbf5bda",
-          "blob:https://x.com/ffcf40c7-fb64-4b38-8ebb-5b1e6bbf5bda"
-        ]
-      },
-      "engagement": {
-        "replies": 0,
-        "retweets": 2,
-        "likes": 4,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": {
-        "id": null,
-        "username": "@isha_jkt48v",
-        "displayName": "Isha Kirana",
-        "text": "Kita baca beberapa bersama di stream graduation nanti yaa. Buat yang pengen bikin fanart/clip juga bisa pake hashtag inii #Isha4K",
-        "timestamp": "2026-08-18T07:04:42.000Z",
-        "timestampLabel": "Aug 18",
-        "tweetUrl": null,
-        "links": [],
-        "media": {
-          "images": [],
-          "videos": []
-        }
-      }
-    },
-    {
-      "id": "2090686980233523249",
-      "username": "@krab_dzulfikar",
-      "displayName": "{Krab} R.Dzulfikar K.F🇳🇱🏴󠁧󠁢󠁥󠁮󠁧󠁿 #CiaoNara",
-      "text": "#NotThatIMissYou👉👈",
-      "timestamp": "2026-08-21T06:26:33.000Z",
-      "timestampLabel": "2h",
-      "tweetUrl": "https://x.com/krab_dzulfikar/status/2090686980233523249",
-      "links": [],
-      "media": {
-        "images": [],
-        "videos": []
-      },
-      "engagement": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
-    },
-    {
-      "id": "2090680324300980417",
-      "username": "@Nafila__",
-      "displayName": "pilaaa🐣",
-      "text": "Meow, Isha ^. .^₎Ⳋ. ݁₊ ⊹ . ݁ \n\n#Isha4k\n#Hinds19ht",
-      "timestamp": "2026-08-21T06:00:06.000Z",
-      "timestampLabel": "2h",
-      "tweetUrl": "https://x.com/Nafila__/status/2090680324300980417",
-      "links": [],
-      "media": {
-        "images": [
-          "https://pbs.twimg.com/media/HQOWqw4akAEIpMS?format=webp&name=large"
-        ],
-        "videos": []
-      },
-      "engagement": {
-        "replies": 0,
-        "retweets": 1,
-        "likes": 4,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
-    },
-    {
-      "id": "2090678698802639166",
-      "username": "@rdngrha",
-      "displayName": "RD",
-      "text": "Sha btw aku ngirim cukup banyak reels koceng hitam loh di dm IG kamu @isha_jkt48v 🤣 #NotThatIMissYou 👉👈",
-      "timestamp": "2026-08-21T05:53:39.000Z",
-      "timestampLabel": "2h",
-      "tweetUrl": "https://x.com/rdngrha/status/2090678698802639166",
-      "links": [
-        "https://x.com/isha_jkt48v"
-      ],
-      "media": {
-        "images": [],
-        "videos": [
-          "https://video.twimg.com/tweet_video/HQOVMIZakAE4ncz.mp4"
-        ]
-      },
-      "engagement": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localAvatar": "avatars/AhmadHusainii1.jpg"
     },
     {
       "id": "2090678578904265093",
       "username": "@rdngrha",
       "displayName": "RD",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090677114504978432/V9l4M9l-_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
       "text": "🤍🤍 #Hinds19ht #NotThatIMissYou #TerimaKasihJKT48V",
-      "timestamp": "2026-08-21T05:53:10.000Z",
-      "timestampLabel": "2h",
       "tweetUrl": "https://x.com/rdngrha/status/2090678578904265093",
       "links": [],
+      "timestamp": "2026-08-21T05:53:10.000Z",
+      "timestampLabel": "5h",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQOVFInbMAAq0hq?format=webp&name=large",
-          "https://pbs.twimg.com/media/HQOVFgBbAAAwu3u?format=jpg&name=360x360"
+          "https://pbs.twimg.com/media/HQOVFInbMAAq0hq?format=jpg&name=small",
+          "https://pbs.twimg.com/media/HQOVFgBbAAAwu3u?format=jpg&name=360x360",
+          "https://pbs.twimg.com/media/HQK6BL3bUAAHGEe?format=jpg&name=240x240"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 1,
         "retweets": 2,
-        "likes": 8,
-        "bookmarks": 0
+        "likes": 9,
+        "bookmarks": 0,
+        "views": 232
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": {
-        "id": "2090438711918137699",
-        "username": "@wargavirtual48",
-        "displayName": "WARGAVI48 #Hinds19ht",
-        "text": "🌸🌙Graduation Project: Isha Kirana🌙🌸\n\nBack then, we simply found one another. Sharing little pieces of our lives without ever knowing that these fleeting moments would one day become memories we would treasure so deeply. There were nights we lost ourselves in endless",
-        "timestamp": "2026-08-20T14:00:02.000Z",
-        "timestampLabel": "18h",
-        "tweetUrl": "https://x.com/wargavirtual48/status/2090438711918137699/photo/1",
-        "links": [],
-        "media": {
-          "images": [
-            "https://pbs.twimg.com/media/HQK6BL3bUAAHGEe?format=jpg&name=240x240"
+      "thread": [
+        {
+          "id": "2090678698802639166",
+          "username": "@rdngrha",
+          "displayName": "RD",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2090677114504978432/V9l4M9l-_normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "Sha btw aku ngirim cukup banyak reels koceng hitam loh di dm IG kamu \n@isha_jkt48v\n 🤣 #NotThatIMissYou 👉👈",
+          "tweetUrl": "https://x.com/rdngrha/status/2090678698802639166",
+          "links": [
+            "https://x.com/isha_jkt48v"
           ],
-          "videos": []
+          "timestamp": "2026-08-21T05:53:39.000Z",
+          "timestampLabel": "12:53 PM · Aug 21, 2026",
+          "media": {
+            "images": [],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 0,
+            "retweets": 0,
+            "likes": 0,
+            "bookmarks": 0,
+            "views": 0
+          },
+          "isThreadReply": true,
+          "localVideo": "videos/2090678698802639166.mp4",
+          "localAvatar": "avatars/rdngrha.jpg"
         }
-      }
+      ],
+      "isThreadReply": false,
+      "localImages": [
+        "images/2090678578904265093_1.jpg",
+        "images/2090678578904265093_2.jpg",
+        "images/2090678578904265093_3.jpg"
+      ],
+      "localAvatar": "avatars/rdngrha.jpg"
     },
     {
       "id": "2090655179838505047",
       "username": "@UDiiNN12_",
       "displayName": "UDiiNN",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090655755263467520/1fdt0_Fm_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "Akan ku lepaskan kepergian kamu dengan senyuman,senyum karena merasa bangga bisa melihat kamu sekeren ini🖤\n\n\"Perpisahan dengan air mata tidak akan cocok dengan kita, karena pasti akan malu ketika kita bertemu lagi\"\n- Himmel\n\n#NotThatIMissYou👉👈",
-      "timestamp": "2026-08-21T04:20:12.000Z",
-      "timestampLabel": "4h",
       "tweetUrl": "https://x.com/UDiiNN12_/status/2090655179838505047",
       "links": [],
+      "timestamp": "2026-08-21T04:20:12.000Z",
+      "timestampLabel": "6h",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQN_zc8bQAAZ1R8?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQN_zc8bQAAZ1R8?format=jpg&name=small"
         ],
         "videos": []
       },
-      "engagement": {
-        "replies": 0,
-        "retweets": 2,
-        "likes": 16,
-        "bookmarks": 0
-      },
+      "quote": null,
       "isRetweet": false,
       "retweetedBy": null,
-      "quoted": null
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 3,
+        "likes": 16,
+        "bookmarks": 0,
+        "views": 180
+      },
+      "localImages": [
+        "images/2090655179838505047_1.jpg"
+      ],
+      "localAvatar": "avatars/UDiiNN12_.jpg"
     },
     {
       "id": "2090648327193018425",
       "username": "@rin_matcha",
       "displayName": "mairuru",
-      "text": "meow meow 🥹🤍 @isha_jkt48v \n#NotThatIMissYou 👉🏻👈🏻",
-      "timestamp": "2026-08-21T03:52:58.000Z",
-      "timestampLabel": "4h",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090441123290611712/YWA62Osi_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "meow meow 🥹🤍 \n@isha_jkt48v\n \n#NotThatIMissYou 👉🏻👈🏻",
       "tweetUrl": "https://x.com/rin_matcha/status/2090648327193018425",
       "links": [
         "https://x.com/isha_jkt48v"
       ],
+      "timestamp": "2026-08-21T03:52:58.000Z",
+      "timestampLabel": "7h",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQN5kYwbAAAsj0y?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQN5kYwbAAAsj0y?format=jpg&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 0,
-        "likes": 9,
-        "bookmarks": 0
+        "likes": 10,
+        "bookmarks": 0,
+        "views": 199
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localImages": [
+        "images/2090648327193018425_1.jpg"
+      ],
+      "localAvatar": "avatars/rin_matcha.jpg"
     },
     {
       "id": "2090640007048671647",
       "username": "@hasbilh_",
       "displayName": "Hasbi LH",
-      "text": "#NotThatIMissYou👉👈 #Isha4K #TerimaKasihJKT48V\n\nHello, @isha_jkt48v, my fav kitten >,<\nHappy graduation!\n\nAkhirnya, telah tiba waktu di mana daily post/mention ini memasuki episode terakhirnya. Terima kasih karena kamu selalu menyempatkan waktu untuk membacanya, meskipun itu",
-      "timestamp": "2026-08-21T03:19:54.000Z",
-      "timestampLabel": "5h",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2079991238410010624/igg_SBM1_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "#NotThatIMissYou👉👈 #Isha4K #TerimaKasihJKT48V\n\nHello, \n@isha_jkt48v\n, my fav kitten >,<\nHappy graduation!\n\nAkhirnya, telah tiba waktu di mana daily post/mention ini memasuki episode terakhirnya. Terima kasih karena kamu selalu menyempatkan waktu untuk membacanya, meskipun itu",
       "tweetUrl": "https://x.com/hasbilh_/status/2090640007048671647",
       "links": [
         "https://x.com/isha_jkt48v"
       ],
+      "timestamp": "2026-08-21T03:19:54.000Z",
+      "timestampLabel": "7h",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQNvY9UaQAAI-mW?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQNvY9UaQAAI-mW?format=jpg&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 2,
-        "likes": 18,
-        "bookmarks": 0
+        "likes": 25,
+        "bookmarks": 0,
+        "views": 245
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localImages": [
+        "images/2090640007048671647_1.jpg"
+      ],
+      "localAvatar": "avatars/hasbilh_.jpg"
     },
     {
       "id": "2090624196162597191",
       "username": "@RioCvn",
       "displayName": "Bandrex",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090473392050999296/dPejkZ7t_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "Happy Graduation Isha\nAku suka sama artworkmu, nyanyianmu, pembawaanmu yang menyenangkan, dan tentu gameplay palomu, aku nyaris ikutan download.\nTerima kasih atas kerja kerasnya Isha, semoga kedepannya semua jalan yang kamu lalui selalu dipenuhi kebahagiaan. #NotThatIMissYou",
-      "timestamp": "2026-08-21T02:17:04.000Z",
-      "timestampLabel": "6h",
       "tweetUrl": "https://x.com/RioCvn/status/2090624196162597191",
       "links": [],
+      "timestamp": "2026-08-21T02:17:04.000Z",
+      "timestampLabel": "8h",
       "media": {
         "images": [],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 0,
-        "likes": 6,
-        "bookmarks": 0
+        "likes": 8,
+        "bookmarks": 0,
+        "views": 86
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
-    },
-    {
-      "id": "2090624056936841726",
-      "username": "@xyph31",
-      "displayName": "pii",
-      "text": "JKT48 - Jejak Awan Pesawat (Hikoukigumo) [xyph31 Remix]\n\ncongraduation isha! maap cuma bisa ngasih lagu bagus ini. sakses terus kedepannya. meow~\n#Hinds19ht #TerimaKasihJKT48V",
-      "timestamp": "2026-08-21T02:16:31.000Z",
-      "timestampLabel": "6h",
-      "tweetUrl": "https://x.com/xyph31/status/2090624056936841726",
-      "links": [],
-      "media": {
-        "images": [
-          "https://pbs.twimg.com/amplify_video_thumb/2090624032425254912/img/vn73LNrRUONHGJuN.jpg"
-        ],
-        "videos": [
-          "blob:https://x.com/c7547990-43c4-414a-961c-fa040a8a7947",
-          "blob:https://x.com/c7547990-43c4-414a-961c-fa040a8a7947"
-        ]
-      },
-      "engagement": {
-        "replies": 1,
-        "retweets": 3,
-        "likes": 5,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localAvatar": "avatars/RioCvn.jpg"
     },
     {
       "id": "2090613811518828631",
       "username": "@Akbar_Bst",
       "displayName": "SadaoMaou",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090449140165849088/GyFM_v0g_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "Hi Isha, a special letter for you..\n\n#NotThatIMissYou 👈👉",
-      "timestamp": "2026-08-21T01:35:49.000Z",
-      "timestampLabel": "6h",
       "tweetUrl": "https://x.com/Akbar_Bst/status/2090613811518828631",
       "links": [],
+      "timestamp": "2026-08-21T01:35:49.000Z",
+      "timestampLabel": "9h",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQNaLaVbIAExFQV?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQNaLaVbIAExFQV?format=jpg&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 1,
         "retweets": 1,
-        "likes": 7,
-        "bookmarks": 0
+        "likes": 9,
+        "bookmarks": 0,
+        "views": 148
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localImages": [
+        "images/2090613811518828631_1.jpg"
+      ],
+      "localAvatar": "avatars/Akbar_Bst.jpg"
     },
     {
       "id": "2090608412484878747",
       "username": "@AchmadRafieD",
       "displayName": "Achmad Rafie Diankusuma",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2083790910882766849/B1iA9pqD_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "JKT48V’s end of an era (Part 3): Isha Kirana.\n\n#NotThatIMissYou #Hinds19ht #TerimaKasihJKT48V #piajkt48v #piallete #ishajkt48v #isha4k",
-      "timestamp": "2026-08-21T01:14:21.000Z",
-      "timestampLabel": "7h",
       "tweetUrl": "https://x.com/AchmadRafieD/status/2090608412484878747",
       "links": [],
+      "timestamp": "2026-08-21T01:14:21.000Z",
+      "timestampLabel": "9h",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQNVRJNaMAAw4Zl?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQNVRJNaMAAw4Zl?format=jpg&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 2,
-        "likes": 9,
-        "bookmarks": 0
+        "likes": 10,
+        "bookmarks": 0,
+        "views": 128
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localImages": [
+        "images/2090608412484878747_1.jpg"
+      ],
+      "localAvatar": "avatars/AchmadRafieD.jpg"
     },
     {
       "id": "2090596206477213894",
       "username": "@Rebungbange",
-      "displayName": "Rebung🎍",
+      "displayName": "Rebung",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2037707748708876288/HKTUKWJe_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "Terima kasih kk isha😼, pesan ini akan kucamkan baik2 dalam sanubariku\n#Isha4K #NotThatIMissYou👉",
-      "timestamp": "2026-08-21T00:25:51.000Z",
-      "timestampLabel": "8h",
       "tweetUrl": "https://x.com/Rebungbange/status/2090596206477213894",
       "links": [],
+      "timestamp": "2026-08-21T00:25:51.000Z",
+      "timestampLabel": "10h",
       "media": {
         "images": [
           "https://pbs.twimg.com/media/HQNKKoPa4AA1iRe?format=jpg&name=360x360",
@@ -606,644 +791,389 @@
         ],
         "videos": []
       },
-      "engagement": {
-        "replies": 3,
-        "retweets": 10,
-        "likes": 81,
-        "bookmarks": 0
-      },
+      "quote": null,
       "isRetweet": false,
       "retweetedBy": null,
-      "quoted": null
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 3,
+        "retweets": 15,
+        "likes": 97,
+        "bookmarks": 0,
+        "views": 1900
+      },
+      "localImages": [
+        "images/2090596206477213894_1.jpg",
+        "images/2090596206477213894_2.jpg"
+      ],
+      "localAvatar": "avatars/Rebungbange.jpg"
     },
     {
       "id": "2090594991932621162",
       "username": "@Copolatooos",
       "displayName": "Copolatozzzz",
-      "text": "The stars in the sky are so many\nBut sun is the only one\nVtubers in youtube are so many\nBut in my heart you're the only one @isha_jkt48v #NotThatIMissYou #TerimaKasihJKT48V #Hinds19ht",
-      "timestamp": "2026-08-21T00:21:02.000Z",
-      "timestampLabel": "8h",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090490206910926848/sLYalKY7_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "The stars in the sky are so many\nBut sun is the only one\nVtubers in youtube are so many\nBut in my heart you're the only one \n@isha_jkt48v\n #NotThatIMissYou #TerimaKasihJKT48V #Hinds19ht",
       "tweetUrl": "https://x.com/Copolatooos/status/2090594991932621162",
       "links": [
         "https://x.com/isha_jkt48v"
       ],
+      "timestamp": "2026-08-21T00:21:02.000Z",
+      "timestampLabel": "10h",
       "media": {
         "images": [],
         "videos": []
       },
-      "engagement": {
-        "replies": 0,
-        "retweets": 1,
-        "likes": 6,
-        "bookmarks": 0
-      },
+      "quote": null,
       "isRetweet": false,
       "retweetedBy": null,
-      "quoted": null
-    },
-    {
-      "id": "2090590514794111350",
-      "username": "@doodlyz_",
-      "displayName": "Doodlyz",
-      "text": "Semangat buat graduation stream nya nanti shaa\n\n#Hinds19ht #TerimaKasihJKT48V",
-      "timestamp": "2026-08-21T00:03:14.000Z",
-      "timestampLabel": "8h",
-      "tweetUrl": "https://x.com/doodlyz_/status/2090590514794111350",
-      "links": [],
-      "media": {
-        "images": [],
-        "videos": []
-      },
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
-        "retweets": 0,
-        "likes": 0,
-        "bookmarks": 0
+        "retweets": 2,
+        "likes": 7,
+        "bookmarks": 0,
+        "views": 167
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
-    },
-    {
-      "id": "2090576373362684337",
-      "username": "@astrowibx",
-      "displayName": "Halice🌲🌌",
-      "text": "I will never forget you and our future dreams in the late summer, in 10 years,we shall meet again in the month of August, such a wonderful memory in its best\n\nZone - Secret Base\n\n#Hinds19ht 😿",
-      "timestamp": "2026-08-20T23:07:03.000Z",
-      "timestampLabel": "9h",
-      "tweetUrl": "https://x.com/astrowibx/status/2090576373362684337",
-      "links": [],
-      "media": {
-        "images": [
-          "https://pbs.twimg.com/media/HQM4IHgbsAER2Jl?format=webp&name=large"
-        ],
-        "videos": []
-      },
-      "engagement": {
-        "replies": 0,
-        "retweets": 1,
-        "likes": 2,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localAvatar": "avatars/Copolatooos.jpg"
     },
     {
       "id": "2090563724692385992",
       "username": "@AlvinM88",
       "displayName": "Hypupu",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090443669266690048/UpKbJydb_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "As the final curtain falls, may the echoes of our shared silence remain timeless in the spaces we leave behind.🐈‍⬛🌌✨\n\nHappy Graduation Isha Kirana\n#NotThatIMissYou",
-      "timestamp": "2026-08-20T22:16:47.000Z",
-      "timestampLabel": "10h",
       "tweetUrl": "https://x.com/AlvinM88/status/2090563724692385992",
       "links": [],
+      "timestamp": "2026-08-20T22:16:47.000Z",
+      "timestampLabel": "12h",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQMlZh8bMAA3YlA?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQMlZh8bMAA3YlA?format=png&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 1,
-        "likes": 6,
-        "bookmarks": 0
+        "likes": 7,
+        "bookmarks": 0,
+        "views": 87
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
-    },
-    {
-      "id": "2090559191220150579",
-      "username": "@Koko_Jon13",
-      "displayName": "Koko Jon | JKT48 Kobo QWER Miku",
-      "text": "Meow @isha_jkt48v \n\n#Hinds19ht #TerimaKasihJKT48V",
-      "timestamp": "2026-08-20T21:58:46.000Z",
-      "timestampLabel": "10h",
-      "tweetUrl": "https://x.com/Koko_Jon13/status/2090559191220150579",
-      "links": [
-        "https://x.com/isha_jkt48v"
+      "localImages": [
+        "images/2090563724692385992_1.jpg"
       ],
-      "media": {
-        "images": [],
-        "videos": [
-          "blob:https://x.com/a243a067-de22-43ad-9d51-d39f9f01e544",
-          "blob:https://x.com/a243a067-de22-43ad-9d51-d39f9f01e544"
-        ]
-      },
-      "engagement": {
-        "replies": 3,
-        "retweets": 37,
-        "likes": 199,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localAvatar": "avatars/AlvinM88.jpg"
     },
     {
       "id": "2090555220661321934",
       "username": "@krab_dzulfikar",
-      "displayName": "{Krab} R.Dzulfikar K.F🇳🇱🏴󠁧󠁢󠁥󠁮󠁧󠁿 #CiaoNara",
-      "text": "Haallloo @isha_jkt48v ini ada sesuatu buat kamu bisa dibaca selagi sempat aja alias sebisanya kamu aja, semoga kamu suka yaa❤️💖💗💞🥰🤗\n\n#NotThatIMissYou #Hinds19ht #TerimaKasihJKT48V",
-      "timestamp": "2026-08-20T21:42:59.000Z",
-      "timestampLabel": "10h",
+      "displayName": "{Krab} R.Dzulfikar K.F #CiaoNara",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090551703078850560/tD0EyaMR_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Haallloo \n@isha_jkt48v\n ini ada sesuatu buat kamu bisa dibaca selagi sempat aja alias sebisanya kamu aja, semoga kamu suka yaa❤️💖💗💞🥰🤗\n\n#NotThatIMissYou #Hinds19ht #TerimaKasihJKT48V",
       "tweetUrl": "https://x.com/krab_dzulfikar/status/2090555220661321934",
       "links": [
         "https://x.com/isha_jkt48v"
       ],
+      "timestamp": "2026-08-20T21:42:59.000Z",
+      "timestampLabel": "13h",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQMkbfNbkAAt6WE?format=webp&name=large",
-          "https://pbs.twimg.com/media/HQMkfb5bIAAsCzD?format=webp&name=large",
-          "https://pbs.twimg.com/media/HQMkjN3bcAAt-jr?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQMkbfNbkAAt6WE?format=jpg&name=small",
+          "https://pbs.twimg.com/media/HQMkfb5bIAAsCzD?format=jpg&name=small",
+          "https://pbs.twimg.com/media/HQMkjN3bcAAt-jr?format=jpg&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 1,
         "retweets": 1,
         "likes": 6,
-        "bookmarks": 0
+        "bookmarks": 0,
+        "views": 162
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "thread": [
+        {
+          "id": "2090686980233523249",
+          "username": "@krab_dzulfikar",
+          "displayName": "{Krab} R.Dzulfikar K.F #CiaoNara",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2090551703078850560/tD0EyaMR_normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "#NotThatIMissYou👉👈",
+          "tweetUrl": "https://x.com/krab_dzulfikar/status/2090686980233523249",
+          "links": [],
+          "timestamp": "2026-08-21T06:26:33.000Z",
+          "timestampLabel": "1:26 PM · Aug 21, 2026",
+          "media": {
+            "images": [],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 0,
+            "retweets": 0,
+            "likes": 0,
+            "bookmarks": 0,
+            "views": 0
+          },
+          "isThreadReply": true,
+          "localAvatar": "avatars/krab_dzulfikar.jpg"
+        }
+      ],
+      "isThreadReply": false,
+      "localImages": [
+        "images/2090555220661321934_1.jpg",
+        "images/2090555220661321934_2.jpg",
+        "images/2090555220661321934_3.jpg"
+      ],
+      "localAvatar": "avatars/krab_dzulfikar.jpg"
     },
     {
       "id": "2090549399709798766",
       "username": "@nakohayou",
-      "displayName": "Jii🤬🅿️❄️🌙",
+      "displayName": "Jii",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090439510828167168/838Pq_GG_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "#NotThatIMissYou👉👈 but i’ll leave this here. So, maybe you can read it again whenever you think about “Isha Kirana” & “Kiranight”…",
-      "timestamp": "2026-08-20T21:19:52.000Z",
-      "timestampLabel": "11h",
       "tweetUrl": "https://x.com/nakohayou/status/2090549399709798766",
       "links": [],
+      "timestamp": "2026-08-20T21:19:52.000Z",
+      "timestampLabel": "13h",
       "media": {
         "images": [
           "https://pbs.twimg.com/media/HQMfmImbkAAdy9x?format=jpg&name=360x360",
-          "https://pbs.twimg.com/media/HQMfmInaQAACUXO?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQMfmInaQAACUXO?format=jpg&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 1,
         "retweets": 1,
-        "likes": 8,
-        "bookmarks": 0
+        "likes": 11,
+        "bookmarks": 0,
+        "views": 196
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localImages": [
+        "images/2090549399709798766_1.jpg",
+        "images/2090549399709798766_2.jpg"
+      ],
+      "localAvatar": "avatars/nakohayou.jpg"
     },
     {
       "id": "2090513663677649090",
       "username": "@_f_x",
       "displayName": "Eg",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2088642794957279233/fLvN6_Hy_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "Thanks God for Isha Kirana\n\nFor every star we watched together, for every moon she shared, and for every night she was there.\n\nWhen I first found her, I never knew how much she’d mean to me, but somewhere along the way she became nights I’ll always remember.\n\n#NotThatIMissYou👉👈",
-      "timestamp": "2026-08-20T18:57:51.000Z",
-      "timestampLabel": "13h",
       "tweetUrl": "https://x.com/_f_x/status/2090513663677649090",
       "links": [],
+      "timestamp": "2026-08-20T18:57:51.000Z",
+      "timestampLabel": "16h",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQL_GKub0AA_fut?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQL_GKub0AA_fut?format=jpg&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 1,
-        "retweets": 5,
-        "likes": 25,
-        "bookmarks": 0
+        "retweets": 6,
+        "likes": 27,
+        "bookmarks": 0,
+        "views": 342
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
-    },
-    {
-      "id": "2090496554327265766",
-      "username": "@Assamaranji_",
-      "displayName": "Ran",
-      "text": "Halo @isha_jkt48v , nanti kalau kamu ada waktu, dibaca yah 😺\nSekali lagi, terima kasih, dan sampai jumpa...\n#NotThatIMissYou #TerimaKasihJKT48V",
-      "timestamp": "2026-08-20T17:49:52.000Z",
-      "timestampLabel": "14h",
-      "tweetUrl": "https://x.com/Assamaranji_/status/2090496554327265766",
-      "links": [
-        "https://x.com/isha_jkt48v"
+      "localImages": [
+        "images/2090513663677649090_1.jpg"
       ],
-      "media": {
-        "images": [
-          "https://pbs.twimg.com/media/HQLvh3KbwAAxE4X?format=webp&name=large",
-          "https://pbs.twimg.com/media/HQLviRyaIAAIPBc?format=jpg&name=360x360"
-        ],
-        "videos": []
-      },
-      "engagement": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 6,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localAvatar": "avatars/_f_x.jpg"
     },
     {
       "id": "2090488353615708384",
       "username": "@Koko_Jon13",
       "displayName": "Koko Jon | JKT48 Kobo QWER Miku",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090440209204928512/GHa3-2Ka_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
       "text": "#NotThatIMissYou #TerimaKasihJKT48V\n\nHappy graduation, Isha. Gadis rapuh yang membangun dinding dingin ini sekarang mulai membuka hatinya dan membagikan kehangatan kepada banyak orang. Aku nggak akan bosan bilang that I'm proud of you. \n\nThank you atas semua kenangan yang telah",
-      "timestamp": "2026-08-20T17:17:17.000Z",
-      "timestampLabel": "15h",
       "tweetUrl": "https://x.com/Koko_Jon13/status/2090488353615708384",
       "links": [],
+      "timestamp": "2026-08-20T17:17:17.000Z",
+      "timestampLabel": "17h",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQLjad0bsAA67LC?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQLjad0bsAA67LC?format=jpg&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 1,
-        "retweets": 28,
-        "likes": 131,
-        "bookmarks": 0
+        "retweets": 30,
+        "likes": 138,
+        "bookmarks": 0,
+        "views": 1200
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
-    },
-    {
-      "id": "2090467779673796976",
-      "username": "@nakohayou",
-      "displayName": "Jii🤬🅿️❄️🌙",
-      "text": "Semangat buat besok sha🤙\n\n#Hinds19ht #TerimaKasihJKT48V",
-      "timestamp": "2026-08-20T15:55:32.000Z",
-      "timestampLabel": "16h",
-      "tweetUrl": "https://x.com/nakohayou/status/2090467779673796976",
-      "links": [],
-      "media": {
-        "images": [],
-        "videos": []
-      },
-      "engagement": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
-    },
-    {
-      "id": "2090467706579661143",
-      "username": "@nakohayou",
-      "displayName": "Jii🤬🅿️❄️🌙",
-      "text": "Stop typo Minvi 😭\n\n#Hinds19ht #TerimaKasihJKT48V",
-      "timestamp": "2026-08-20T15:55:14.000Z",
-      "timestampLabel": "16h",
-      "tweetUrl": "https://x.com/nakohayou/status/2090467706579661143",
-      "links": [],
-      "media": {
-        "images": [],
-        "videos": []
-      },
-      "engagement": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 2,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": {
-        "id": "2090438711918137699",
-        "username": "@wargavirtual48",
-        "displayName": "WARGAVI48 #Hinds19ht",
-        "text": "🌸🌙Graduation Project: Isha Kirana🌙🌸\n\nBack then, we simply found one another. Sharing little pieces of our lives without ever knowing that these fleeting moments would one day become memories we would treasure so deeply. There were nights we lost ourselves in endless",
-        "timestamp": "2026-08-20T14:00:02.000Z",
-        "timestampLabel": "18h",
-        "tweetUrl": "https://x.com/wargavirtual48/status/2090438711918137699/photo/1",
-        "links": [],
-        "media": {
-          "images": [
-            "https://pbs.twimg.com/media/HQK6BL3bUAAHGEe?format=webp&name=large"
-          ],
-          "videos": []
-        }
-      }
-    },
-    {
-      "id": "2090456157932679550",
-      "username": "@astrowibx",
-      "displayName": "Halice🌲🌌",
-      "text": "#Hinds19ht 😿",
-      "timestamp": "2026-08-20T15:09:21.000Z",
-      "timestampLabel": "17h",
-      "tweetUrl": "https://x.com/astrowibx/status/2090456157932679550",
-      "links": [],
-      "media": {
-        "images": [
-          "https://pbs.twimg.com/media/HQLKwuwa8AAwRB8?format=jpg&name=360x360",
-          "https://pbs.twimg.com/media/HQLKxSgaQAAdMFx?format=jpg&name=360x360",
-          "https://pbs.twimg.com/media/HQLKx4vaQAAxTLB?format=jpg&name=360x360",
-          "https://pbs.twimg.com/media/HQLKyqkbwAAhE3o?format=jpg&name=360x360"
-        ],
-        "videos": []
-      },
-      "engagement": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 2,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
-    },
-    {
-      "id": "2090446190009864524",
-      "username": "@TheoVirdinant",
-      "displayName": "Setengah Manusia",
-      "text": "Semangat Isha...\n\n#Hinds19ht #TerimaKasihJKT48V",
-      "timestamp": "2026-08-20T14:29:44.000Z",
-      "timestampLabel": "18h",
-      "tweetUrl": "https://x.com/TheoVirdinant/status/2090446190009864524",
-      "links": [],
-      "media": {
-        "images": [],
-        "videos": []
-      },
-      "engagement": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localImages": [
+        "images/2090488353615708384_1.jpg"
+      ],
+      "localAvatar": "avatars/Koko_Jon13.jpg"
     },
     {
       "id": "2090444978908807262",
       "username": "@Gdzila33",
       "displayName": "gdzila33",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1846236549714989056/M8sfAn7m_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "Hepi Gredu Ishaaaa\n#NotThatIMissYou",
-      "timestamp": "2026-08-20T14:24:56.000Z",
-      "timestampLabel": "18h",
       "tweetUrl": "https://x.com/Gdzila33/status/2090444978908807262",
       "links": [],
+      "timestamp": "2026-08-20T14:24:56.000Z",
+      "timestampLabel": "20h",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQLAn9va4AIt9IU?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQLAn9va4AIt9IU?format=jpg&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 1,
-        "likes": 7,
-        "bookmarks": 0
+        "likes": 8,
+        "bookmarks": 0,
+        "views": 124
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
-    },
-    {
-      "id": "2090441494717161736",
-      "username": "@Risqi_Vodoo_",
-      "displayName": "Risqi Vodoo ◢͟￨⁴⁶ |🛞🍀🦁🍦",
-      "text": "Happy Graduation @isha_jkt48v walaupun singkat tapi kamu sudah memperlihatkan perjuanganmu disini, terimakasih sudah bertahan dan sabar 🥺 semoga kedepannya dan dimanapun kamu berada smoga kamu memiliki jalan yang lebih bersinar lagi, amin\n\n#Hinds19ht #TerimaKasihJKT48V",
-      "timestamp": "2026-08-20T14:11:05.000Z",
-      "timestampLabel": "18h",
-      "tweetUrl": "https://x.com/Risqi_Vodoo_/status/2090441494717161736",
-      "links": [
-        "https://x.com/isha_jkt48v"
+      "localImages": [
+        "images/2090444978908807262_1.jpg"
       ],
-      "media": {
-        "images": [],
-        "videos": []
-      },
-      "engagement": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 5,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": {
-        "id": "2090438711918137699",
-        "username": "@wargavirtual48",
-        "displayName": "WARGAVI48 #Hinds19ht",
-        "text": "🌸🌙Graduation Project: Isha Kirana🌙🌸\n\nBack then, we simply found one another. Sharing little pieces of our lives without ever knowing that these fleeting moments would one day become memories we would treasure so deeply. There were nights we lost ourselves in endless",
-        "timestamp": "2026-08-20T14:00:02.000Z",
-        "timestampLabel": "18h",
-        "tweetUrl": "https://x.com/wargavirtual48/status/2090438711918137699/photo/1",
-        "links": [],
-        "media": {
-          "images": [
-            "https://pbs.twimg.com/media/HQK6BL3bUAAHGEe?format=webp&name=large"
-          ],
-          "videos": []
-        }
-      }
-    },
-    {
-      "id": "2090440663469011032",
-      "username": "@oikawa_yui89",
-      "displayName": "Yuwai",
-      "text": "Semangat buat besok shaa 🥹🫶\n\n#Hinds19ht #TerimaKasihJKT48V",
-      "timestamp": "2026-08-20T14:07:47.000Z",
-      "timestampLabel": "18h",
-      "tweetUrl": "https://x.com/oikawa_yui89/status/2090440663469011032",
-      "links": [],
-      "media": {
-        "images": [],
-        "videos": []
-      },
-      "engagement": {
-        "replies": 0,
-        "retweets": 0,
-        "likes": 0,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
-    },
-    {
-      "id": "2090438735494320622",
-      "username": "@wargavirtual48",
-      "displayName": "WARGAVI48 #Hinds19ht",
-      "text": "Wargavi48\n\nWebsite (https://wargavi48.github.io)\nDiscord (https://wargavi48.github.io/discord)\nTikTok (https://tiktok.com/@wargavi48)\nTrakteer (https://teer.id/wargavi48)\nTokopedia (https://tokopedia.com/wargavi48)\nJKT48V Fanmade Visual Novel Game by Wargavi48 (https://store.steampowered.com/app/3037900/WGV_Dreamcatcher…)\n\n#Hinds19ht",
-      "timestamp": "2026-08-20T14:00:07.000Z",
-      "timestampLabel": "18h",
-      "tweetUrl": "https://x.com/wargavirtual48/status/2090438735494320622",
-      "links": [
-        "https://t.co/InMqUwxshl",
-        "https://t.co/AVUCq0UX4w",
-        "https://t.co/clh41rVxiT",
-        "https://t.co/EpbV2NeuIi",
-        "https://t.co/PTyuljlRv9",
-        "https://t.co/dTREA1JC76"
-      ],
-      "media": {
-        "images": [],
-        "videos": []
-      },
-      "engagement": {
-        "replies": 0,
-        "retweets": 7,
-        "likes": 29,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
-    },
-    {
-      "id": "2090438728770892267",
-      "username": "@wargavirtual48",
-      "displayName": "WARGAVI48 #Hinds19ht",
-      "text": "🌸🌙Fan Video🌙🌸\n\nMeow meow~\n\nThere you go! A special video filled with love, support, and messages from Kiranights ♥\n\n#Hinds19ht #TerimaKasihJKT48V",
-      "timestamp": "2026-08-20T14:00:06.000Z",
-      "timestampLabel": "18h",
-      "tweetUrl": "https://x.com/wargavirtual48/status/2090438728770892267",
-      "links": [],
-      "media": {
-        "images": [],
-        "videos": [
-          "blob:https://x.com/48505d8c-d4cf-42fe-91e9-3575cd783040",
-          "blob:https://x.com/48505d8c-d4cf-42fe-91e9-3575cd783040"
-        ]
-      },
-      "engagement": {
-        "replies": 1,
-        "retweets": 60,
-        "likes": 135,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localAvatar": "avatars/Gdzila33.jpg"
     },
     {
       "id": "2090438721451762157",
       "username": "@wargavirtual48",
       "displayName": "WARGAVI48 #Hinds19ht",
-      "text": "🌸🌙 Graduation Fan Letter🌙🌸\n\nDon't forget to share your heartfelt words and use #NotThatIMissYou👉👈\n\nYour words may become a precious memory to look back on.\n\nhttps://x.com/isha_jkt48v/status/2089606015184687107…\n\n#Hinds19ht #TerimaKasihJKT48V",
-      "timestamp": "2026-08-20T14:00:04.000Z",
-      "timestampLabel": "18h",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090438913370595328/p_gkUoTP_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "🌸🌙 Graduation Fan Letter🌙🌸\n\nDon't forget to share your heartfelt words and use #NotThatIMissYou👉👈\n\nYour words may become a precious memory to look back on.\n\n\nhttps://\nx.com/isha_jkt48v/st\natus/2089606015184687107\n…\n\n#Hinds19ht #TerimaKasihJKT48V",
       "tweetUrl": "https://x.com/wargavirtual48/status/2090438721451762157",
       "links": [
         "https://x.com/isha_jkt48v/status/2089606015184687107"
       ],
+      "timestamp": "2026-08-20T14:00:04.000Z",
+      "timestampLabel": "21h",
       "media": {
         "images": [],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": true,
       "engagement": {
         "replies": 1,
         "retweets": 17,
         "likes": 36,
-        "bookmarks": 0
+        "bookmarks": 0,
+        "views": 644
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": {
-        "id": null,
-        "username": "@isha_jkt48v",
-        "displayName": "Isha Kirana",
-        "text": "As our time grows short, may these moments find a home in the hearts that remember them. 🫶\n\nUntuk kalian yang ingin meninggalkan surat, bisa pakai hashtag ini yaa 🤍 #NotThatIMissYou👉👈",
-        "timestamp": "2026-08-18T06:51:11.000Z",
-        "timestampLabel": "Aug 18",
-        "tweetUrl": null,
-        "links": [],
-        "media": {
-          "images": [],
-          "videos": []
-        }
-      }
-    },
-    {
-      "id": "2090438717219754265",
-      "username": "@wargavirtual48",
-      "displayName": "WARGAVI48 #Hinds19ht",
-      "text": "🌸🌙 Ava & Banner🌙🌸\n\nTo make this farewell even more meaningful, let's use this avatar and banner as we celebrate this final chapter together.\n\n#Hinds19ht #TerimaKasihJKT48V",
-      "timestamp": "2026-08-20T14:00:03.000Z",
-      "timestampLabel": "18h",
-      "tweetUrl": "https://x.com/wargavirtual48/status/2090438717219754265",
-      "links": [],
-      "media": {
-        "images": [
-          "https://pbs.twimg.com/media/HQK6LCpa0AA_oXm?format=jpg&name=360x360",
-          "https://pbs.twimg.com/media/HQK6LCiaYAE-7PS?format=jpg&name=medium"
-        ],
-        "videos": []
-      },
-      "engagement": {
-        "replies": 1,
-        "retweets": 23,
-        "likes": 46,
-        "bookmarks": 0
-      },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localAvatar": "avatars/wargavirtual48.jpg"
     },
     {
       "id": "2090392017692156209",
       "username": "@siennamoroll",
       "displayName": "⋆𐙚₊˚⊹",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2088838811526823936/Uz5fM4SK_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "but eventually, life goes on, right? 🐈‍⬛🤍 #NotThatIMissYou",
-      "timestamp": "2026-08-20T10:54:29.000Z",
-      "timestampLabel": "21h",
       "tweetUrl": "https://x.com/siennamoroll/status/2090392017692156209",
       "links": [],
+      "timestamp": "2026-08-20T10:54:29.000Z",
+      "timestampLabel": "Aug 20",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQKQdSVa8AAC4Jn?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQKQdSVa8AAC4Jn?format=jpg&name=small",
+          "https://pbs.twimg.com/media/HQIKiG3bQAA2aEv?format=jpg&name=120x120"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 0,
-        "likes": 6,
-        "bookmarks": 0
+        "likes": 7,
+        "bookmarks": 0,
+        "views": 142
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": {
-        "id": "2090244764717527389",
-        "username": "@siennamoroll",
-        "displayName": "⋆𐙚₊˚⊹",
-        "text": "selamat pagi aku belum nulis surat buat isha because i js can’t bring myself to",
-        "timestamp": "2026-08-20T01:09:21.000Z",
-        "timestampLabel": "Aug 20",
-        "tweetUrl": "https://x.com/siennamoroll/status/2090244764717527389/photo/1",
-        "links": [],
-        "media": {
-          "images": [
-            "https://pbs.twimg.com/media/HQIKiG3bQAA2aEv?format=jpg&name=120x120"
-          ],
-          "videos": []
-        }
-      }
+      "localImages": [
+        "images/2090392017692156209_1.jpg",
+        "images/2090392017692156209_2.jpg"
+      ],
+      "localAvatar": "avatars/siennamoroll.jpg"
     },
     {
       "id": "2090388665940025543",
       "username": "@KochengOrange31",
       "displayName": "srs",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090444854010814464/v4yzSsuX_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "meow moew 🥲\n\n#Isha4K #NotThatIMissYou👉👈",
-      "timestamp": "2026-08-20T10:41:10.000Z",
-      "timestampLabel": "21h",
       "tweetUrl": "https://x.com/KochengOrange31/status/2090388665940025543",
       "links": [],
+      "timestamp": "2026-08-20T10:41:10.000Z",
+      "timestampLabel": "Aug 20",
       "media": {
         "images": [
           "https://pbs.twimg.com/media/HQKM361aMAAwwWI?format=jpg&name=360x360",
@@ -1251,25 +1181,36 @@
         ],
         "videos": []
       },
-      "engagement": {
-        "replies": 1,
-        "retweets": 6,
-        "likes": 56,
-        "bookmarks": 0
-      },
+      "quote": null,
       "isRetweet": false,
       "retweetedBy": null,
-      "quoted": null
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 7,
+        "likes": 61,
+        "bookmarks": 0,
+        "views": 646
+      },
+      "localImages": [
+        "images/2090388665940025543_1.jpg",
+        "images/2090388665940025543_2.jpg"
+      ],
+      "localAvatar": "avatars/KochengOrange31.jpg"
     },
     {
       "id": "2090378826417319995",
       "username": "@ryuumihikaru",
       "displayName": "Hika",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2082467334179135488/1bKnwzjD_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "Hai kucing hitam tsundere😼🖤\n\nSudah waktunya it's time untuk mengucapkan sayonara ya...\n\nOh ya, inilah fanart yang dijanjikan itu. Hope you like it!\n\n#NotThatIMissYou👉👈 #Isha4K",
-      "timestamp": "2026-08-20T10:02:04.000Z",
-      "timestampLabel": "22h",
       "tweetUrl": "https://x.com/ryuumihikaru/status/2090378826417319995",
       "links": [],
+      "timestamp": "2026-08-20T10:02:04.000Z",
+      "timestampLabel": "Aug 20",
       "media": {
         "images": [
           "https://pbs.twimg.com/media/HQKEc4saEAA0osn?format=jpg&name=360x360",
@@ -1277,177 +1218,241 @@
         ],
         "videos": []
       },
-      "engagement": {
-        "replies": 0,
-        "retweets": 2,
-        "likes": 9,
-        "bookmarks": 0
-      },
+      "quote": null,
       "isRetweet": false,
       "retweetedBy": null,
-      "quoted": null
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 3,
+        "likes": 13,
+        "bookmarks": 0,
+        "views": 202
+      },
+      "localImages": [
+        "images/2090378826417319995_1.jpg",
+        "images/2090378826417319995_2.jpg"
+      ],
+      "localAvatar": "avatars/ryuumihikaru.jpg"
     },
     {
       "id": "2090359678706532496",
       "username": "@twasrey",
-      "displayName": "rey🏇",
-      "text": "glad to have you as my gen 2 oshi, hope your dream sails to where it belongs.\n\nso long, @isha_jkt48v!😹👋\n\n#NotThatIMissYou",
-      "timestamp": "2026-08-20T08:45:59.000Z",
-      "timestampLabel": "23h",
+      "displayName": "rey",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2066131465834999808/Pjs0yF8F_normal.png",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "glad to have you as my gen 2 oshi, hope your dream sails to where it belongs.\n\nso long, \n@isha_jkt48v\n!😹👋\n\n#NotThatIMissYou",
       "tweetUrl": "https://x.com/twasrey/status/2090359678706532496",
       "links": [
         "https://x.com/isha_jkt48v"
       ],
+      "timestamp": "2026-08-20T08:45:59.000Z",
+      "timestampLabel": "Aug 20",
       "media": {
         "images": [],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 1,
         "likes": 3,
-        "bookmarks": 0
+        "bookmarks": 0,
+        "views": 179
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localAvatar": "avatars/twasrey.png"
     },
     {
       "id": "2090337596786581843",
       "username": "@AergiaAjah",
       "displayName": "Aergia",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2042382788444504064/dmaRx7ex_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "hii sha im not good with word, i still remember do this for u i still happy that u use it till now, nanti janagn langsung di ganti ya hiks\n#NotThatIMissYou #Isha4K",
-      "timestamp": "2026-08-20T07:18:14.000Z",
-      "timestampLabel": "Aug 20",
       "tweetUrl": "https://x.com/AergiaAjah/status/2090337596786581843",
       "links": [],
+      "timestamp": "2026-08-20T07:18:14.000Z",
+      "timestampLabel": "Aug 20",
       "media": {
         "images": [],
-        "videos": [
-          "blob:https://x.com/8416b99e-3828-48a5-b576-63b804329be3",
-          "blob:https://x.com/8416b99e-3828-48a5-b576-63b804329be3"
-        ]
+        "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 11,
-        "likes": 70,
-        "bookmarks": 0
+        "likes": 75,
+        "bookmarks": 0,
+        "views": 836
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localVideo": "videos/2090337596786581843.mp4",
+      "localAvatar": "avatars/AergiaAjah.jpg"
     },
     {
       "id": "2090252063548838237",
       "username": "@gilangaji147",
       "displayName": "LangLang",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090680507361280000/aqk2OxcR_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "Kawan kucing hytamku💜\n#NotThatIMissYou👉👈",
-      "timestamp": "2026-08-20T01:38:21.000Z",
-      "timestampLabel": "Aug 20",
       "tweetUrl": "https://x.com/gilangaji147/status/2090252063548838237",
       "links": [],
+      "timestamp": "2026-08-20T01:38:21.000Z",
+      "timestampLabel": "Aug 20",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQIRKyyaEAAFBYl?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQIRKyyaEAAFBYl?format=jpg&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 2,
         "likes": 11,
-        "bookmarks": 0
+        "bookmarks": 0,
+        "views": 206
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localImages": [
+        "images/2090252063548838237_1.jpg"
+      ],
+      "localAvatar": "avatars/gilangaji147.jpg"
     },
     {
       "id": "2090236374360420533",
       "username": "@JDinamic",
       "displayName": "Xeran",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/378800000805348893/80590e5f3f6ac648098c91d99d200e5a_normal.jpeg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "Sudah waktunya ya?\nLike oshi like fans\n#NotThatIMissYou",
-      "timestamp": "2026-08-20T00:36:01.000Z",
-      "timestampLabel": "Aug 20",
       "tweetUrl": "https://x.com/JDinamic/status/2090236374360420533",
       "links": [],
+      "timestamp": "2026-08-20T00:36:01.000Z",
+      "timestampLabel": "Aug 20",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQIC5xaa0AA4zu5?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQIC5xaa0AA4zu5?format=jpg&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 1,
         "likes": 8,
-        "bookmarks": 0
+        "bookmarks": 0,
+        "views": 173
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localImages": [
+        "images/2090236374360420533_1.jpg"
+      ],
+      "localAvatar": "avatars/JDinamic.jpeg"
     },
     {
       "id": "2090220632785211599",
       "username": "@hm_achn",
       "displayName": "Helmi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2087151052521168896/AyEeDefI_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "Sha 😸\n#NotThatIMissYou",
-      "timestamp": "2026-08-19T23:33:27.000Z",
-      "timestampLabel": "Aug 20",
       "tweetUrl": "https://x.com/hm_achn/status/2090220632785211599",
       "links": [],
+      "timestamp": "2026-08-19T23:33:27.000Z",
+      "timestampLabel": "Aug 20",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQH0lela4AAz1nl?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQH0lela4AAz1nl?format=jpg&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 1,
         "likes": 9,
-        "bookmarks": 0
+        "bookmarks": 0,
+        "views": 279
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localImages": [
+        "images/2090220632785211599_1.jpg"
+      ],
+      "localAvatar": "avatars/hm_achn.jpg"
     },
     {
       "id": "2090176146696761758",
       "username": "@oikawa_yui89",
       "displayName": "Yuwai",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090440280218771458/_g8yvRSj_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "To. Kakak six seven\n\n#NotThatIMissYou👉👈",
-      "timestamp": "2026-08-19T20:36:41.000Z",
-      "timestampLabel": "Aug 20",
       "tweetUrl": "https://x.com/oikawa_yui89/status/2090176146696761758",
       "links": [],
+      "timestamp": "2026-08-19T20:36:41.000Z",
+      "timestampLabel": "Aug 20",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQHMG9LbAAA104G?format=jpg&name=360x360",
+          "https://pbs.twimg.com/media/HQHMG9LbAAA104G?format=jpg&name=small",
           "https://pbs.twimg.com/media/HQHMHiTacAAh0K_?format=jpg&name=360x360"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 1,
         "likes": 24,
-        "bookmarks": 0
+        "bookmarks": 0,
+        "views": 341
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localImages": [
+        "images/2090176146696761758_1.jpg",
+        "images/2090176146696761758_2.jpg"
+      ],
+      "localAvatar": "avatars/oikawa_yui89.jpg"
     },
     {
       "id": "2090051886116458880",
       "username": "@astrowibx",
-      "displayName": "Halice🌲🌌",
+      "displayName": "Halice",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090455823990525952/WOpNuG0H_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "あの日の君の笑顔は想い出に変わる\nI miss you\n\nThey always smile even though the bad things happen to both of them\n\nAs the summer gradually fins, they gone #NotThatIMissYou",
-      "timestamp": "2026-08-19T12:22:55.000Z",
-      "timestampLabel": "Aug 19",
       "tweetUrl": "https://x.com/astrowibx/status/2090051886116458880",
       "links": [],
+      "timestamp": "2026-08-19T12:22:55.000Z",
+      "timestampLabel": "Aug 19",
       "media": {
         "images": [
           "https://pbs.twimg.com/media/HQFbGj2aIAAy3sW?format=jpg&name=360x360",
@@ -1455,174 +1460,415 @@
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 1,
         "retweets": 3,
         "likes": 9,
-        "bookmarks": 0
+        "bookmarks": 0,
+        "views": 321
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localImages": [
+        "images/2090051886116458880_1.jpg",
+        "images/2090051886116458880_2.jpg"
+      ],
+      "localAvatar": "avatars/astrowibx.jpg"
     },
     {
       "id": "2090046791958024593",
       "username": "@vanzuee",
-      "displayName": "VanZuee(ヴァンズエ)🦇\\🩷🗡️\\🔮\\🍀",
+      "displayName": "VanZuee(ヴァンズエ)\\\\\\",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1659376108918415361/zhqxFrWl_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "Happy Graduation wahai kucing assasin yg Tsunderee \n#NotThatIMissYou",
-      "timestamp": "2026-08-19T12:02:41.000Z",
-      "timestampLabel": "Aug 19",
       "tweetUrl": "https://x.com/vanzuee/status/2090046791958024593",
       "links": [],
+      "timestamp": "2026-08-19T12:02:41.000Z",
+      "timestampLabel": "Aug 19",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQFWeiYaUAIwje7?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQFWeiYaUAIwje7?format=jpg&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 1,
         "likes": 9,
-        "bookmarks": 0
+        "bookmarks": 0,
+        "views": 196
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localImages": [
+        "images/2090046791958024593_1.jpg"
+      ],
+      "localAvatar": "avatars/vanzuee.jpg"
     },
     {
       "id": "2090025025168462258",
       "username": "@astrowibx",
-      "displayName": "Halice🌲🌌",
+      "displayName": "Halice",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090455823990525952/WOpNuG0H_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "今は猫居ないよ😿\n#NotThatIMissYou",
-      "timestamp": "2026-08-19T10:36:11.000Z",
-      "timestampLabel": "Aug 19",
       "tweetUrl": "https://x.com/astrowibx/status/2090025025168462258",
       "links": [],
+      "timestamp": "2026-08-19T10:36:11.000Z",
+      "timestampLabel": "Aug 19",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQFCrWQaMAABBJW?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQFCrWQaMAABBJW?format=jpg&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 1,
         "likes": 5,
-        "bookmarks": 0
+        "bookmarks": 0,
+        "views": 227
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localImages": [
+        "images/2090025025168462258_1.jpg"
+      ],
+      "localAvatar": "avatars/astrowibx.jpg"
     },
     {
       "id": "2090011898297090231",
       "username": "@wargavirtual48",
       "displayName": "WARGAVI48 #Hinds19ht",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090438913370595328/p_gkUoTP_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
       "text": "Yuhuuu~\n\nJangan lupa yaa temann, \nsampaikan pesan pesan indah kalian untuk menemani momen perpisahan kita bersama Isha dengan hastag #NotThatIMissYou👉👈",
-      "timestamp": "2026-08-19T09:44:01.000Z",
-      "timestampLabel": "Aug 19",
       "tweetUrl": "https://x.com/wargavirtual48/status/2090011898297090231",
       "links": [],
+      "timestamp": "2026-08-19T09:44:01.000Z",
+      "timestampLabel": "Aug 19",
       "media": {
         "images": [],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 7,
         "likes": 32,
-        "bookmarks": 0
+        "bookmarks": 0,
+        "views": 999
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": {
-        "id": null,
-        "username": "@isha_jkt48v",
-        "displayName": "Isha Kirana",
-        "text": "As our time grows short, may these moments find a home in the hearts that remember them. 🫶\n\nUntuk kalian yang ingin meninggalkan surat, bisa pakai hashtag ini yaa 🤍 #NotThatIMissYou👉👈",
-        "timestamp": "2026-08-18T06:51:11.000Z",
-        "timestampLabel": "Aug 18",
-        "tweetUrl": null,
-        "links": [],
-        "media": {
-          "images": [],
-          "videos": []
-        }
-      }
+      "localAvatar": "avatars/wargavirtual48.jpg"
     },
     {
       "id": "2090001412134711778",
       "username": "@aktararzael17",
       "displayName": "Poi ── .✦",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2071868981368029184/hbxSNDVl_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "My best wishes to you for your new chapter of life. Farewell Isha 🤍#NotThatIMissYou",
-      "timestamp": "2026-08-19T09:02:21.000Z",
-      "timestampLabel": "Aug 19",
       "tweetUrl": "https://x.com/aktararzael17/status/2090001412134711778",
       "links": [],
+      "timestamp": "2026-08-19T09:02:21.000Z",
+      "timestampLabel": "Aug 19",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQEtNFKbYAAwuVN?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQEtNFKbYAAwuVN?format=jpg&name=small"
         ],
         "videos": []
       },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
       "engagement": {
         "replies": 0,
         "retweets": 0,
-        "likes": 10,
-        "bookmarks": 0
+        "likes": 11,
+        "bookmarks": 0,
+        "views": 304
       },
-      "isRetweet": false,
-      "retweetedBy": null,
-      "quoted": null
+      "localImages": [
+        "images/2090001412134711778_1.jpg"
+      ],
+      "localAvatar": "avatars/aktararzael17.jpg"
     },
     {
       "id": "2089935965720842685",
       "username": "@koosanali",
       "displayName": "Nito✧ || Open Commission (0/5) - @ after DM",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2088281115253776384/MeCJSElz_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "Waktu berlalu begitu cepat.. Happy Graduation, Isha! 🤍\n\n#NotThatIMissYou",
-      "timestamp": "2026-08-19T04:42:18.000Z",
-      "timestampLabel": "Aug 19",
       "tweetUrl": "https://x.com/koosanali/status/2089935965720842685",
       "links": [],
+      "timestamp": "2026-08-19T04:42:18.000Z",
+      "timestampLabel": "Aug 19",
       "media": {
         "images": [
-          "https://pbs.twimg.com/media/HQDxrdbaEAAyB1D?format=webp&name=large"
+          "https://pbs.twimg.com/media/HQDxrdbaEAAyB1D?format=jpg&name=small"
         ],
         "videos": []
       },
-      "engagement": {
-        "replies": 0,
-        "retweets": 3,
-        "likes": 22,
-        "bookmarks": 0
-      },
+      "quote": null,
       "isRetweet": false,
       "retweetedBy": null,
-      "quoted": null
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 4,
+        "likes": 22,
+        "bookmarks": 0,
+        "views": 596
+      },
+      "localImages": [
+        "images/2089935965720842685_1.jpg"
+      ],
+      "localAvatar": "avatars/koosanali.jpg"
     },
     {
       "id": "2089606015184687107",
       "username": "@isha_jkt48v",
       "displayName": "Isha Kirana",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2089981287398526976/gKEeCD0X_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
       "text": "As our time grows short, may these moments find a home in the hearts that remember them. 🫶\n\nUntuk kalian yang ingin meninggalkan surat, bisa pakai hashtag ini yaa 🤍 #NotThatIMissYou👉👈",
-      "timestamp": "2026-08-18T06:51:11.000Z",
-      "timestampLabel": "Aug 18",
       "tweetUrl": "https://x.com/isha_jkt48v/status/2089606015184687107",
       "links": [],
+      "timestamp": "2026-08-18T06:51:11.000Z",
+      "timestampLabel": "Aug 18",
       "media": {
         "images": [],
         "videos": []
       },
-      "engagement": {
-        "replies": 28,
-        "retweets": 95,
-        "likes": 474,
-        "bookmarks": 0
-      },
+      "quote": null,
       "isRetweet": false,
       "retweetedBy": null,
-      "quoted": null
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 28,
+        "retweets": 98,
+        "likes": 484,
+        "bookmarks": 0,
+        "views": 10000
+      },
+      "localAvatar": "avatars/isha_jkt48v.jpg"
+    },
+    {
+      "id": "2090248170467127385",
+      "username": "@DannySasazaki",
+      "displayName": "Danny sasazaki",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2039868517319901184/e8bmLu1j_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "[CHAPTER 03]\nHal. 05\nTawa Solace menimbulkan aura merinding, membuat Maura hanya bisa terdiam menunjukkan ekspresi ketakutan.\n\"Maaf, aku terbawa suasana. Silahkan masuk!\"\nBayangan api Solace kemudian menghilang dan gerbang kastil terbuka lebar \n[See picture for complete naration]",
+      "tweetUrl": "https://x.com/DannySasazaki/status/2090248170467127385",
+      "links": [],
+      "timestamp": "2026-08-20T01:22:53.000Z",
+      "timestampLabel": "Aug 20",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HQINnaRboAEUUhD?format=jpg&name=360x360",
+          "https://pbs.twimg.com/media/HQINn2WaEAAJdqj?format=jpg&name=360x360"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 17
+      },
+      "thread": [
+        {
+          "id": "2090402133334204505",
+          "username": "@DannySasazaki",
+          "displayName": "Danny sasazaki",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2039868517319901184/e8bmLu1j_normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "[CHAPTER 03]\nHal. 06\nSingkat cerita, Maura dkk menjelajahi kastil. Mereka tidak ingin membuang banyak waktu karena waktu makin sedikit.\nDan mereka akhirnya tiba di lantai aman, tanpa percakapan, mereka langsung merebahkan diri dan tertidur\n[See picture for complete naration]",
+          "tweetUrl": "https://x.com/DannySasazaki/status/2090402133334204505",
+          "links": [],
+          "timestamp": "2026-08-20T11:34:41.000Z",
+          "timestampLabel": "23h",
+          "media": {
+            "images": [
+              "https://pbs.twimg.com/media/HQKZpWBa8AA1_JJ?format=jpg&name=360x360",
+              "https://pbs.twimg.com/media/HQKZpzFaAAA2_sn?format=jpg&name=360x360"
+            ],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 1,
+            "retweets": 0,
+            "likes": 0,
+            "bookmarks": 0,
+            "views": 17
+          },
+          "isThreadReply": true,
+          "localImages": [
+            "images/2090402133334204505_1.jpg",
+            "images/2090402133334204505_2.jpg"
+          ],
+          "localAvatar": "avatars/DannySasazaki.jpg"
+        },
+        {
+          "id": "2090527000230568423",
+          "username": "@DannySasazaki",
+          "displayName": "Danny sasazaki",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2039868517319901184/e8bmLu1j_normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "[CHAPTER 03]\nHal. 07\n\"Semangat mereka luar biasa, Kana, dalam waktu kurang dari 3 hari sudah menjelajahi 50 lantai sekaligus.\" Solace memandangi cerminnya dengan penuh kekaguman.\n\n\"A.. apa yg ingin kamu lakukan Sol?\" Kana bertanya balik.\n[See picture for complete naration]",
+          "tweetUrl": "https://x.com/DannySasazaki/status/2090527000230568423",
+          "links": [],
+          "timestamp": "2026-08-20T19:50:51.000Z",
+          "timestampLabel": "15h",
+          "media": {
+            "images": [
+              "https://pbs.twimg.com/media/HQMLNpgbEAA1O1F?format=jpg&name=360x360",
+              "https://pbs.twimg.com/media/HQMLOL2akAALywp?format=jpg&name=360x360"
+            ],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 0,
+            "retweets": 0,
+            "likes": 0,
+            "bookmarks": 0,
+            "views": 16
+          },
+          "isThreadReply": true,
+          "localImages": [
+            "images/2090527000230568423_1.jpg",
+            "images/2090527000230568423_2.jpg"
+          ],
+          "localAvatar": "avatars/DannySasazaki.jpg"
+        },
+        {
+          "id": "2090733349363241462",
+          "username": "@DannySasazaki",
+          "displayName": "Danny sasazaki",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2039868517319901184/e8bmLu1j_normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "[CHAPTER 03] -end-\nHal. 08\nSolace sibuk merapal mantra dari tangannya.\nAkibat Solace mulai mengutak-atik tatanan labirin pada kastilnya, waktu tempuh perjalanan Maura dan yang lainnya menjadi lebih lambat dari yang seharusnya mereka perkirakan.\n[See picture for complete naration]",
+          "tweetUrl": "https://x.com/DannySasazaki/status/2090733349363241462",
+          "links": [],
+          "timestamp": "2026-08-21T09:30:49.000Z",
+          "timestampLabel": "1h",
+          "media": {
+            "images": [
+              "https://pbs.twimg.com/media/HQPG5BCbwAAplfn?format=jpg&name=360x360",
+              "https://pbs.twimg.com/media/HQPG5c8agAAA-nj?format=jpg&name=360x360"
+            ],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 1,
+            "retweets": 0,
+            "likes": 0,
+            "bookmarks": 0,
+            "views": 22
+          },
+          "isThreadReply": true,
+          "localImages": [
+            "images/2090733349363241462_1.jpg",
+            "images/2090733349363241462_2.jpg"
+          ],
+          "localAvatar": "avatars/DannySasazaki.jpg"
+        },
+        {
+          "id": "2090737872710316130",
+          "username": "@DannySasazaki",
+          "displayName": "Danny sasazaki",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/2039868517319901184/e8bmLu1j_normal.jpg",
+          "isVerified": false,
+          "verifiedType": null,
+          "text": "#NotThatIMissYou👉👈 Mee.. mee ... miauww\n#Isha4K maiiww mauw miaww 🫂meow meoww🥲🥲 Mu mu mu nyaaann 8 monthnyaan 💔 meoww nyoww meong meongmaaw miaww meeooww, Isha meow!! Isha Nyaan🥰🥰 mimi miawmaeew mew meong meong😭😭 Happy Graduationyaan 🥳🥳\n#Hinds19ht #TerimaKasihJKT48V",
+          "tweetUrl": "https://x.com/DannySasazaki/status/2090737872710316130/photo/1",
+          "links": [],
+          "timestamp": "2026-08-21T09:48:47.000Z",
+          "timestampLabel": "4:48 PM · Aug 21, 2026",
+          "media": {
+            "images": [
+              "https://pbs.twimg.com/media/HQPLAZbasAAyVM4?format=jpg&name=small"
+            ],
+            "videos": []
+          },
+          "quote": null,
+          "isRetweet": false,
+          "retweetedBy": null,
+          "hasShowThread": false,
+          "isReply": false,
+          "engagement": {
+            "replies": 0,
+            "retweets": 0,
+            "likes": 2,
+            "bookmarks": 0,
+            "views": 0
+          },
+          "isThreadReply": true,
+          "localImages": [
+            "images/2090737872710316130_1.jpg"
+          ],
+          "localAvatar": "avatars/DannySasazaki.jpg"
+        }
+      ],
+      "isThreadReply": false,
+      "localImages": [
+        "images/2090248170467127385_1.jpg",
+        "images/2090248170467127385_2.jpg"
+      ],
+      "localAvatar": "avatars/DannySasazaki.jpg"
     }
   ]
 }
+
+     "avatarUr... (14 KB left)

@@ -1,0 +1,1685 @@
+{
+  "metadata": {
+    "hashtag": "#kiranacore",
+    "scraped_at": "2026-08-21T11:01:27.434Z",
+    "total_items": 48,
+    "source_url": "https://x.com/hashtag/kiranacore",
+    "session_name": "kiranacore_2026-08-21T17-56-50",
+    "scraper_version": "1.2.0",
+    "chrome_port": 9222,
+    "scroll_delay_ms": 2000,
+    "images_downloaded": 42,
+    "videos_downloaded": 18,
+    "avatars_downloaded": 19,
+    "images_dir": "images",
+    "videos_dir": "videos",
+    "avatars_dir": "avatars"
+  },
+  "tweets": [
+    {
+      "id": "2090696396789645689",
+      "username": "@barry_ptr",
+      "displayName": "Barry Putra",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2085533997938171904/uz0S0eZZ_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Telat tapi yaudah\n🙂😔\n\n#KiranaCore",
+      "tweetUrl": "https://x.com/barry_ptr/status/2090696396789645689",
+      "links": [],
+      "timestamp": "2026-08-21T07:03:58.000Z",
+      "timestampLabel": "3h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HQOlSeaa0AAiGev?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 5,
+        "likes": 23,
+        "bookmarks": 0,
+        "views": 264
+      },
+      "localImages": [
+        "images/2090696396789645689_1.jpg"
+      ],
+      "localAvatar": "avatars/barry_ptr.jpg"
+    },
+    {
+      "id": "2090435149091438967",
+      "username": "@Gdzila33",
+      "displayName": "gdzila33",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1846236549714989056/M8sfAn7m_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "The Cooler Me #KiranaCore",
+      "tweetUrl": "https://x.com/Gdzila33/status/2090435149091438967",
+      "links": [],
+      "timestamp": "2026-08-20T13:45:52.000Z",
+      "timestampLabel": "21h",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HQK3r04bAAA5ZA2?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 2,
+        "likes": 33,
+        "bookmarks": 0,
+        "views": 1500
+      },
+      "localImages": [
+        "images/2090435149091438967_1.jpg"
+      ],
+      "localAvatar": "avatars/Gdzila33.jpg"
+    },
+    {
+      "id": "2089987874930544657",
+      "username": "@ooc_jkt48v",
+      "displayName": "Out of Context Jeketivi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2080687711607005184/RI397I8T_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "shaaa \n@isha_jkt48v\n 😭😭😭\n\n#Isha4K #KiranaCore",
+      "tweetUrl": "https://x.com/ooc_jkt48v/status/2089987874930544657",
+      "links": [
+        "https://x.com/isha_jkt48v"
+      ],
+      "timestamp": "2026-08-19T08:08:34.000Z",
+      "timestampLabel": "Aug 19",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 39,
+        "likes": 135,
+        "bookmarks": 0,
+        "views": 3000
+      },
+      "localVideo": "videos/2089987874930544657.mp4",
+      "localAvatar": "avatars/ooc_jkt48v.jpg"
+    },
+    {
+      "id": "2088455289779712441",
+      "username": "@Kangen_Squad",
+      "displayName": "Ｋａｎｇｅｎ Ｐｏｓｔｉｎｇ",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1983755564720254977/A5MxYalM_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Wujud aseli \n@isha_jkt48v\n \n#KiranaCore",
+      "tweetUrl": "https://x.com/Kangen_Squad/status/2088455289779712441",
+      "links": [
+        "https://x.com/isha_jkt48v"
+      ],
+      "timestamp": "2026-08-15T02:38:37.000Z",
+      "timestampLabel": "Aug 15",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPuu9h9awAAy8Tv?format=jpg&name=small",
+          "https://pbs.twimg.com/media/HPr_G6bWYAAsEwM?format=jpg&name=120x120"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "views": 100
+      },
+      "localImages": [
+        "images/2088455289779712441_1.jpg",
+        "images/2088455289779712441_2.jpg"
+      ],
+      "localAvatar": "avatars/Kangen_Squad.jpg"
+    },
+    {
+      "id": "2087364313069862915",
+      "username": "@sunymz",
+      "displayName": "sunny",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086765653776834560/G1FU0lsO_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "bit bit \n@isha_jkt48v\n \n\n#KiranaCore",
+      "tweetUrl": "https://x.com/sunymz/status/2087364313069862915",
+      "links": [
+        "https://x.com/isha_jkt48v"
+      ],
+      "timestamp": "2026-08-12T02:23:28.000Z",
+      "timestampLabel": "Aug 12",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 4,
+        "retweets": 51,
+        "likes": 236,
+        "bookmarks": 0,
+        "views": 4500
+      },
+      "localVideo": "videos/2087364313069862915.mp4",
+      "localAvatar": "avatars/sunymz.jpg"
+    },
+    {
+      "id": "2087126440512979148",
+      "username": "@ooc_jkt48v",
+      "displayName": "Out of Context Jeketivi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2080687711607005184/RI397I8T_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#KiranaCore",
+      "tweetUrl": "https://x.com/ooc_jkt48v/status/2087126440512979148",
+      "links": [],
+      "timestamp": "2026-08-11T10:38:15.000Z",
+      "timestampLabel": "Aug 11",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HPb2b1QboAAVhK2?format=jpg&name=small",
+          "https://pbs.twimg.com/media/HPb0YZ4aAAEZ0Oo?format=jpg&name=240x240"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 16,
+        "likes": 244,
+        "bookmarks": 0,
+        "views": 4200
+      },
+      "localImages": [
+        "images/2087126440512979148_1.jpg",
+        "images/2087126440512979148_2.jpg"
+      ],
+      "localAvatar": "avatars/ooc_jkt48v.jpg"
+    },
+    {
+      "id": "2082832563446710780",
+      "username": "@sunymz",
+      "displayName": "sunny",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086765653776834560/G1FU0lsO_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "hhgghhh😭(2)\n\n#KiranaCore #Isha4K",
+      "tweetUrl": "https://x.com/sunymz/status/2082832563446710780",
+      "links": [],
+      "timestamp": "2026-07-30T14:15:54.000Z",
+      "timestampLabel": "Jul 30",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HOe0t20asAIRbkW?format=jpg&name=360x360",
+          "https://pbs.twimg.com/media/HOe0vQ7a4AAaz_W?format=png&name=360x360"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 8,
+        "likes": 79,
+        "bookmarks": 0,
+        "views": 2600
+      },
+      "localImages": [
+        "images/2082832563446710780_1.jpg",
+        "images/2082832563446710780_2.jpg"
+      ],
+      "localAvatar": "avatars/sunymz.jpg"
+    },
+    {
+      "id": "2082819474579923376",
+      "username": "@sunymz",
+      "displayName": "sunny",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086765653776834560/G1FU0lsO_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "hhgghhh😭\n\n#KiranaCore #Isha4K",
+      "tweetUrl": "https://x.com/sunymz/status/2082819474579923376",
+      "links": [],
+      "timestamp": "2026-07-30T13:23:54.000Z",
+      "timestampLabel": "Jul 30",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HOepM-GbUAAzrXO?format=jpg&name=small",
+          "https://pbs.twimg.com/media/HOepOZDaYAAHRkr?format=png&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 8,
+        "likes": 67,
+        "bookmarks": 0,
+        "views": 2800
+      },
+      "localImages": [
+        "images/2082819474579923376_1.jpg",
+        "images/2082819474579923376_2.jpg"
+      ],
+      "localAvatar": "avatars/sunymz.jpg"
+    },
+    {
+      "id": "2078571396842840223",
+      "username": "@ooc_jkt48v",
+      "displayName": "Out of Context Jeketivi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2080687711607005184/RI397I8T_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#KiranaCore",
+      "tweetUrl": "https://x.com/ooc_jkt48v/status/2078571396842840223",
+      "links": [],
+      "timestamp": "2026-07-18T20:03:33.000Z",
+      "timestampLabel": "Jul 19",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HNiRqtvbQAAG2l0?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 5,
+        "likes": 53,
+        "bookmarks": 0,
+        "views": 2500
+      },
+      "localImages": [
+        "images/2078571396842840223_1.jpg"
+      ],
+      "localAvatar": "avatars/ooc_jkt48v.jpg"
+    },
+    {
+      "id": "2078289407233126658",
+      "username": "@ooc_jkt48v",
+      "displayName": "Out of Context Jeketivi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2080687711607005184/RI397I8T_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Kucing hytam (\n@isha_jkt48v\n) ketika stream KEPO jam 22 be like\n> pesan sate Padang ah~\n> Nomnomnom 😋\n> Martabak enak kali yahh.. \n> Nomnomnom 😋\n> ...\n\n#Kiranacore \nhttps://\nx.com/shitpost_2077/\n/shitpost_2077/status/2078109971066265665\n…",
+      "tweetUrl": "https://x.com/ooc_jkt48v/status/2078289407233126658",
+      "links": [
+        "https://x.com/isha_jkt48v",
+        "https://x.com/shitpost_2077/status/2078109971066265665"
+      ],
+      "timestamp": "2026-07-18T01:23:02.000Z",
+      "timestampLabel": "Jul 18",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 10,
+        "bookmarks": 0,
+        "views": 632
+      },
+      "localAvatar": "avatars/ooc_jkt48v.jpg"
+    },
+    {
+      "id": "2077128954427941116",
+      "username": "@ooc_jkt48v",
+      "displayName": "Out of Context Jeketivi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2080687711607005184/RI397I8T_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#KiranaCore",
+      "tweetUrl": "https://x.com/ooc_jkt48v/status/2077128954427941116",
+      "links": [],
+      "timestamp": "2026-07-14T20:31:48.000Z",
+      "timestampLabel": "Jul 15",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 2,
+        "likes": 14,
+        "bookmarks": 0,
+        "views": 265
+      },
+      "localVideo": "videos/2077128954427941116.mp4",
+      "localAvatar": "avatars/ooc_jkt48v.jpg"
+    },
+    {
+      "id": "2075325735905214910",
+      "username": "@ooc_jkt48v",
+      "displayName": "Out of Context Jeketivi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2080687711607005184/RI397I8T_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#KiranaCore",
+      "tweetUrl": "https://x.com/ooc_jkt48v/status/2075325735905214910",
+      "links": [],
+      "timestamp": "2026-07-09T21:06:27.000Z",
+      "timestampLabel": "Jul 10",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 7,
+        "likes": 63,
+        "bookmarks": 0,
+        "views": 2200
+      },
+      "localVideo": "videos/2075325735905214910.mp4",
+      "localAvatar": "avatars/ooc_jkt48v.jpg"
+    },
+    {
+      "id": "2074587199107153984",
+      "username": "@ooc_jkt48v",
+      "displayName": "Out of Context Jeketivi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2080687711607005184/RI397I8T_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Isha tudei\n\n#KiranaCore",
+      "tweetUrl": "https://x.com/ooc_jkt48v/status/2074587199107153984",
+      "links": [],
+      "timestamp": "2026-07-07T20:11:46.000Z",
+      "timestampLabel": "Jul 8",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 5,
+        "likes": 57,
+        "bookmarks": 0,
+        "views": 3500
+      },
+      "localVideo": "videos/2074587199107153984.mp4",
+      "localAvatar": "avatars/ooc_jkt48v.jpg"
+    },
+    {
+      "id": "2074103886949032437",
+      "username": "@ooc_jkt48v",
+      "displayName": "Out of Context Jeketivi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2080687711607005184/RI397I8T_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#KiranaCore",
+      "tweetUrl": "https://x.com/ooc_jkt48v/status/2074103886949032437",
+      "links": [],
+      "timestamp": "2026-07-06T12:11:16.000Z",
+      "timestampLabel": "Jul 6",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HMiyfambIAAjG3y?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 4,
+        "likes": 53,
+        "bookmarks": 0,
+        "views": 2200
+      },
+      "localImages": [
+        "images/2074103886949032437_1.jpg"
+      ],
+      "localAvatar": "avatars/ooc_jkt48v.jpg"
+    },
+    {
+      "id": "2073848433690231237",
+      "username": "@ooc_jkt48v",
+      "displayName": "Out of Context Jeketivi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2080687711607005184/RI397I8T_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#KiranaCore",
+      "tweetUrl": "https://x.com/ooc_jkt48v/status/2073848433690231237",
+      "links": [],
+      "timestamp": "2026-07-05T19:16:11.000Z",
+      "timestampLabel": "Jul 6",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HMfKKBaagAAt11x?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 2,
+        "retweets": 3,
+        "likes": 55,
+        "bookmarks": 0,
+        "views": 3000
+      },
+      "localImages": [
+        "images/2073848433690231237_1.jpg"
+      ],
+      "localAvatar": "avatars/ooc_jkt48v.jpg"
+    },
+    {
+      "id": "2072876943431925994",
+      "username": "@whteeeeeee",
+      "displayName": "whte",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2062246668070993920/_xjA_Tfq_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "berdasarkan kisah nyata\n#KiranaCore",
+      "tweetUrl": "https://x.com/whteeeeeee/status/2072876943431925994",
+      "links": [],
+      "timestamp": "2026-07-03T02:55:50.000Z",
+      "timestampLabel": "Jul 3",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 3,
+        "likes": 8,
+        "bookmarks": 0,
+        "views": 189
+      },
+      "localVideo": "videos/2072876943431925994.mp4",
+      "localAvatar": "avatars/whteeeeeee.jpg"
+    },
+    {
+      "id": "2072724587452969398",
+      "username": "@Gdzila33",
+      "displayName": "gdzila33",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1846236549714989056/M8sfAn7m_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Isha ketika bertemu Ayam Penyet Sambel Ijo\n#KiranaCore",
+      "tweetUrl": "https://x.com/Gdzila33/status/2072724587452969398",
+      "links": [],
+      "timestamp": "2026-07-02T16:50:25.000Z",
+      "timestampLabel": "Jul 2",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HMPMBjBbMAA509s?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 4,
+        "likes": 52,
+        "bookmarks": 0,
+        "views": 2400
+      },
+      "localImages": [
+        "images/2072724587452969398_1.jpg"
+      ],
+      "localAvatar": "avatars/Gdzila33.jpg"
+    },
+    {
+      "id": "2072530398924636351",
+      "username": "@ktsr_45",
+      "displayName": "AS",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090730846294802432/iVLSJa0F_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Senang bisa berbisnis dengan anda \n@isha_jkt48v\n #KiranaCore",
+      "tweetUrl": "https://x.com/ktsr_45/status/2072530398924636351",
+      "links": [
+        "https://x.com/isha_jkt48v"
+      ],
+      "timestamp": "2026-07-02T03:58:47.000Z",
+      "timestampLabel": "Jul 2",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 3,
+        "retweets": 2,
+        "likes": 10,
+        "bookmarks": 0,
+        "views": 330
+      },
+      "localVideo": "videos/2072530398924636351.mp4",
+      "localAvatar": "avatars/ktsr_45.jpg"
+    },
+    {
+      "id": "2070824997820772664",
+      "username": "@ooc_jkt48v",
+      "displayName": "Out of Context Jeketivi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2080687711607005184/RI397I8T_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "sha..\n\n#KiranaCore",
+      "tweetUrl": "https://x.com/ooc_jkt48v/status/2070824997820772664",
+      "links": [],
+      "timestamp": "2026-06-27T11:02:08.000Z",
+      "timestampLabel": "Jun 27",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HL0MRFYaQAA52_r?format=png&name=360x360"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 4,
+        "bookmarks": 0,
+        "views": 189
+      },
+      "localImages": [
+        "images/2070824997820772664_1.jpg"
+      ],
+      "localVideo": "videos/2070824997820772664.mp4",
+      "localAvatar": "avatars/ooc_jkt48v.jpg"
+    },
+    {
+      "id": "2042222980105953524",
+      "username": "@wargavirtual48",
+      "displayName": "WARGAVI48 #Hinds19ht",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090438913370595328/p_gkUoTP_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "yahahaha 😇 #KiranaCore\nFrom this:                        to this:",
+      "tweetUrl": "https://x.com/wargavirtual48/status/2042222980105953524",
+      "links": [],
+      "timestamp": "2026-04-09T12:47:55.000Z",
+      "timestampLabel": "Apr 9",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HFduKvBbQAE6AnY?format=png&name=small",
+          "https://pbs.twimg.com/media/HFduivraoAANnhH?format=png&name=240x240",
+          "https://pbs.twimg.com/media/HFdfMaoa0AAsfdL?format=jpg&name=240x240"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 5,
+        "retweets": 0,
+        "likes": 20,
+        "bookmarks": 0,
+        "views": 586
+      },
+      "localImages": [
+        "images/2042222980105953524_1.jpg",
+        "images/2042222980105953524_2.jpg",
+        "images/2042222980105953524_3.jpg"
+      ],
+      "localAvatar": "avatars/wargavirtual48.jpg"
+    },
+    {
+      "id": "2023047705854087219",
+      "username": "@kong__kung",
+      "displayName": "KiNG KaNG",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090683970673627136/oZJJJwtv_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "LESGOOO!! VOTE MAURISHA!! ✊✊\n\n#KiranaCore #CandaMaura",
+      "tweetUrl": "https://x.com/kong__kung/status/2023047705854087219",
+      "links": [],
+      "timestamp": "2026-02-15T14:52:14.000Z",
+      "timestampLabel": "Feb 15",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/HBNOe2NbgAAr-ez?format=png&name=small",
+          "https://pbs.twimg.com/media/HBNFXs5aYAAq9uJ?format=jpg&name=240x240"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 2,
+        "bookmarks": 0,
+        "views": 132
+      },
+      "localImages": [
+        "images/2023047705854087219_1.jpg",
+        "images/2023047705854087219_2.jpg"
+      ],
+      "localAvatar": "avatars/kong__kung.jpg"
+    },
+    {
+      "id": "2008000811343941792",
+      "username": "@rihyyun",
+      "displayName": "rihyunn ‍",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2081975400704712704/3Gj0e1WA_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "temukan perbedaan antara dua gambar ini #KiranaCore",
+      "tweetUrl": "https://x.com/rihyyun/status/2008000811343941792",
+      "links": [],
+      "timestamp": "2026-01-05T02:21:14.000Z",
+      "timestampLabel": "Jan 5",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G93aF21aYAATRTi?format=jpg&name=small",
+          "https://pbs.twimg.com/media/G93aF2ka4AA9JZk?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 1,
+        "likes": 18,
+        "bookmarks": 0,
+        "views": 277
+      },
+      "localImages": [
+        "images/2008000811343941792_1.jpg",
+        "images/2008000811343941792_2.jpg"
+      ],
+      "localAvatar": "avatars/rihyyun.jpg"
+    },
+    {
+      "id": "2007850778762018924",
+      "username": "@nakohayou",
+      "displayName": "Jii",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090439510828167168/838Pq_GG_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Beliau sudah klarif gusy… Sekarang sudah clear ya kucing isha beneran 8. Makasih El Klarif 😹 \n@isha_jkt48v\n \n\n#Isha4K #KiranaCore",
+      "tweetUrl": "https://x.com/nakohayou/status/2007850778762018924",
+      "links": [
+        "https://x.com/isha_jkt48v"
+      ],
+      "timestamp": "2026-01-04T16:25:04.000Z",
+      "timestampLabel": "Jan 4",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 0,
+        "likes": 5,
+        "bookmarks": 0,
+        "views": 271
+      },
+      "localVideo": "videos/2007850778762018924.mp4",
+      "localAvatar": "avatars/nakohayou.jpg"
+    },
+    {
+      "id": "2007497559305302341",
+      "username": "@nakohayou",
+      "displayName": "Jii",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090439510828167168/838Pq_GG_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Tiap jam 00:00 koceng ini rusak \n@isha_jkt48v\n 😹\n\n#KiranaCore #Isha4K",
+      "tweetUrl": "https://x.com/nakohayou/status/2007497559305302341",
+      "links": [
+        "https://x.com/nakohayou/status/2007497559305302341?t=0",
+        "https://x.com/isha_jkt48v"
+      ],
+      "timestamp": "2026-01-03T17:01:30.000Z",
+      "timestampLabel": "Jan 4",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 0,
+        "likes": 6,
+        "bookmarks": 0,
+        "views": 245
+      },
+      "localVideo": "videos/2007497559305302341.mp4",
+      "localAvatar": "avatars/nakohayou.jpg"
+    },
+    {
+      "id": "2005551223580266535",
+      "username": "@nakohayou",
+      "displayName": "Jii",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090439510828167168/838Pq_GG_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Bentar Sha,, ini sampe ku tulis ulang tetep ada 8. Jadi, kucing tidak beruntung mana yg gak pernah kamu anggep Sha??? Poor Meng 😿\n\nTofu, Sunny, Nacho, Hanna/Princess, Ben, Jackson, Kumo, Yuma. Tuh 8 Sha 😹 \n@isha_jkt48v\n \n\n#Isha4K #KiranaCore #IshaJKT48V",
+      "tweetUrl": "https://x.com/nakohayou/status/2005551223580266535",
+      "links": [
+        "https://x.com/isha_jkt48v"
+      ],
+      "timestamp": "2025-12-29T08:07:27.000Z",
+      "timestampLabel": "Dec 29, 2025",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 3,
+        "likes": 8,
+        "bookmarks": 0,
+        "views": 598
+      },
+      "localVideo": "videos/2005551223580266535.mp4",
+      "localAvatar": "avatars/nakohayou.jpg"
+    },
+    {
+      "id": "2005202263917392134",
+      "username": "@rihyyun",
+      "displayName": "rihyunn ‍",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2081975400704712704/3Gj0e1WA_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#IshaJKT48V #KiranaLive #KiranaCore tonight!",
+      "tweetUrl": "https://x.com/rihyyun/status/2005202263917392134",
+      "links": [],
+      "timestamp": "2025-12-28T09:00:49.000Z",
+      "timestampLabel": "Dec 28, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G9Po1DLbcAADEfj?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 0,
+        "likes": 3,
+        "bookmarks": 0,
+        "views": 155
+      },
+      "localImages": [
+        "images/2005202263917392134_1.jpg"
+      ],
+      "localAvatar": "avatars/rihyyun.jpg"
+    },
+    {
+      "id": "2005137874082287843",
+      "username": "@isha_jkt48v",
+      "displayName": "Isha Kirana",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2089981287398526976/gKEeCD0X_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "aku menyerah dgn challenge makan sayur ini karena ternyata emg gasuka rasanya aja 😭✋✋✋ #Isha4K #KiranaCore",
+      "tweetUrl": "https://x.com/isha_jkt48v/status/2005137874082287843",
+      "links": [],
+      "timestamp": "2025-12-28T04:44:57.000Z",
+      "timestampLabel": "Dec 28, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G9OuQ_MboAAhUb_?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 27,
+        "retweets": 24,
+        "likes": 340,
+        "bookmarks": 0,
+        "views": 5300
+      },
+      "localImages": [
+        "images/2005137874082287843_1.jpg"
+      ],
+      "localAvatar": "avatars/isha_jkt48v.jpg"
+    },
+    {
+      "id": "2003389340165210610",
+      "username": "@ooc_jkt48v",
+      "displayName": "Out of Context Jeketivi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2080687711607005184/RI397I8T_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Perkara  h̶u̶s̶b̶a̶n̶d̶o̶ karakter absurd\n#IshaJKT48V #KiranaCore\n#MauraJKT48V #CandaMaura",
+      "tweetUrl": "https://x.com/ooc_jkt48v/status/2003389340165210610",
+      "links": [],
+      "timestamp": "2025-12-23T08:56:54.000Z",
+      "timestampLabel": "Dec 23, 2025",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 5,
+        "retweets": 14,
+        "likes": 78,
+        "bookmarks": 0,
+        "views": 2300
+      },
+      "localVideo": "videos/2003389340165210610.mp4",
+      "localAvatar": "avatars/ooc_jkt48v.jpg"
+    },
+    {
+      "id": "2001864158225273328",
+      "username": "@ooc_jkt48v",
+      "displayName": "Out of Context Jeketivi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2080687711607005184/RI397I8T_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "😗\n#IshaJKT48V #KiranaCore",
+      "tweetUrl": "https://x.com/ooc_jkt48v/status/2001864158225273328",
+      "links": [],
+      "timestamp": "2025-12-19T03:56:22.000Z",
+      "timestampLabel": "Dec 19, 2025",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 20,
+        "likes": 108,
+        "bookmarks": 0,
+        "views": 1500
+      },
+      "localVideo": "videos/2001864158225273328.mp4",
+      "localAvatar": "avatars/ooc_jkt48v.jpg"
+    },
+    {
+      "id": "2001316295258615935",
+      "username": "@ooc_jkt48v",
+      "displayName": "Out of Context Jeketivi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2080687711607005184/RI397I8T_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "((Best \n@isha_jkt48v\n \"quote\"))\nTenang pi \n@pia_jkt48v\n, ntar kita beliin balon yang banyak 🎈🎈🎈\n#KiranaCore #Piawak",
+      "tweetUrl": "https://x.com/ooc_jkt48v/status/2001316295258615935",
+      "links": [
+        "https://x.com/isha_jkt48v",
+        "https://x.com/pia_jkt48v"
+      ],
+      "timestamp": "2025-12-17T15:39:22.000Z",
+      "timestampLabel": "Dec 17, 2025",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 8,
+        "likes": 49,
+        "bookmarks": 0,
+        "views": 1300
+      },
+      "localVideo": "videos/2001316295258615935.mp4",
+      "localAvatar": "avatars/ooc_jkt48v.jpg"
+    },
+    {
+      "id": "1999360159848747036",
+      "username": "@rdngrha",
+      "displayName": "RD",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090677114504978432/V9l4M9l-_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Isha \n@isha_jkt48v\n kalo makan be like, cc \n@maura_jkt48v\n #KiranaCore\n\nSrc: benerankucing (IG)",
+      "tweetUrl": "https://x.com/rdngrha/status/1999360159848747036",
+      "links": [
+        "https://x.com/isha_jkt48v",
+        "https://x.com/maura_jkt48v"
+      ],
+      "timestamp": "2025-12-12T06:06:23.000Z",
+      "timestampLabel": "Dec 12, 2025",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 2,
+        "likes": 4,
+        "bookmarks": 0,
+        "views": 271
+      },
+      "localVideo": "videos/1999360159848747036.mp4",
+      "localAvatar": "avatars/rdngrha.jpg"
+    },
+    {
+      "id": "1999153569937887287",
+      "username": "@ooc_jkt48v",
+      "displayName": "Out of Context Jeketivi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2080687711607005184/RI397I8T_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Mau tidur malah keinget (2)\n#Piawak #CandaMaura #KiranaCore",
+      "tweetUrl": "https://x.com/ooc_jkt48v/status/1999153569937887287",
+      "links": [],
+      "timestamp": "2025-12-11T16:25:28.000Z",
+      "timestampLabel": "Dec 11, 2025",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 3,
+        "retweets": 24,
+        "likes": 57,
+        "bookmarks": 0,
+        "views": 1000
+      },
+      "localVideo": "videos/1999153569937887287.mp4",
+      "localAvatar": "avatars/ooc_jkt48v.jpg"
+    },
+    {
+      "id": "1998982781016400370",
+      "username": "@ktsr_45",
+      "displayName": "AS",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090730846294802432/iVLSJa0F_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Aduh iya iya 👉👈 \n@isha_jkt48v\n\n#KiranaCore",
+      "tweetUrl": "https://x.com/ktsr_45/status/1998982781016400370",
+      "links": [
+        "https://x.com/isha_jkt48v"
+      ],
+      "timestamp": "2025-12-11T05:06:48.000Z",
+      "timestampLabel": "Dec 11, 2025",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 3,
+        "retweets": 5,
+        "likes": 10,
+        "bookmarks": 0,
+        "views": 380
+      },
+      "localVideo": "videos/1998982781016400370.mp4",
+      "localAvatar": "avatars/ktsr_45.jpg"
+    },
+    {
+      "id": "1998313723795243253",
+      "username": "@ooc_jkt48v",
+      "displayName": "Out of Context Jeketivi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2080687711607005184/RI397I8T_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Isha be like 👉🏻👈🏻\n\n\n@isha_jkt48v\n #KiranaCore #KiranaLive  \nhttps://\nx.com/maura_jkt48v/s\n/maura_jkt48v/status/1998046737072808444\n…",
+      "tweetUrl": "https://x.com/ooc_jkt48v/status/1998313723795243253",
+      "links": [
+        "https://x.com/isha_jkt48v",
+        "https://x.com/maura_jkt48v/status/1998046737072808444"
+      ],
+      "timestamp": "2025-12-09T08:48:13.000Z",
+      "timestampLabel": "Dec 9, 2025",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 7,
+        "likes": 58,
+        "bookmarks": 0,
+        "views": 1200
+      },
+      "localVideo": "videos/1998313723795243253.mp4",
+      "localAvatar": "avatars/ooc_jkt48v.jpg"
+    },
+    {
+      "id": "1997670319432073221",
+      "username": "@rihyyun",
+      "displayName": "rihyunn ‍",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2081975400704712704/3Gj0e1WA_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#KiranaCore kucing tertekan",
+      "tweetUrl": "https://x.com/rihyyun/status/1997670319432073221",
+      "links": [],
+      "timestamp": "2025-12-07T14:11:33.000Z",
+      "timestampLabel": "Dec 7, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G7kmkKyaAAAyISh?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 2,
+        "likes": 27,
+        "bookmarks": 0,
+        "views": 1700
+      },
+      "localImages": [
+        "images/1997670319432073221_1.jpg"
+      ],
+      "localAvatar": "avatars/rihyyun.jpg"
+    },
+    {
+      "id": "1996895604438601990",
+      "username": "@rihyyun",
+      "displayName": "rihyunn ‍",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2081975400704712704/3Gj0e1WA_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#CandaMaura #KiranaCore shy shy cat",
+      "tweetUrl": "https://x.com/rihyyun/status/1996895604438601990",
+      "links": [],
+      "timestamp": "2025-12-05T10:53:07.000Z",
+      "timestampLabel": "Dec 5, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G7Zl921agAAn-eW?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 2,
+        "likes": 7,
+        "bookmarks": 0,
+        "views": 257
+      },
+      "localImages": [
+        "images/1996895604438601990_1.jpg"
+      ],
+      "localAvatar": "avatars/rihyyun.jpg"
+    },
+    {
+      "id": "1996451701684113574",
+      "username": "@ooc_jkt48v",
+      "displayName": "Out of Context Jeketivi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2080687711607005184/RI397I8T_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Momen ketika atmin #Kiranights memberi kasih sayang ke Aisha Kirana JKT48V (di short terbaru)\n#KiranaCore",
+      "tweetUrl": "https://x.com/ooc_jkt48v/status/1996451701684113574",
+      "links": [],
+      "timestamp": "2025-12-04T05:29:12.000Z",
+      "timestampLabel": "Dec 4, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G7TRzKmaUAAeEpW?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 14,
+        "bookmarks": 0,
+        "views": 614
+      },
+      "localImages": [
+        "images/1996451701684113574_1.jpg"
+      ],
+      "localAvatar": "avatars/ooc_jkt48v.jpg"
+    },
+    {
+      "id": "1996157325724516566",
+      "username": "@rihyyun",
+      "displayName": "rihyunn ‍",
+      "avatarUrl": null,
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#KiranaCore  ̶A̶̶s̶̶s̶̶a̶̶s̶̶s̶̶i̶̶n̶ maling ikan handal",
+      "tweetUrl": "https://x.com/rihyyun/status/1996157325724516566",
+      "links": [],
+      "timestamp": "2025-12-03T09:59:27.000Z",
+      "timestampLabel": "Dec 3, 2025",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 2,
+        "likes": 5,
+        "bookmarks": 0,
+        "views": 165
+      },
+      "localAvatar": "avatars/rihyyun.jpg"
+    },
+    {
+      "id": "1996078255779303551",
+      "username": "@rihyyun",
+      "displayName": "rihyunn ‍",
+      "avatarUrl": null,
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#KiranaCore sekarang gak cuma matanya kebuka tapi mulutnya juga",
+      "tweetUrl": "https://x.com/rihyyun/status/1996078255779303551",
+      "links": [],
+      "timestamp": "2025-12-03T04:45:16.000Z",
+      "timestampLabel": "Dec 3, 2025",
+      "media": {
+        "images": [],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 1,
+        "likes": 9,
+        "bookmarks": 0,
+        "views": 193
+      },
+      "localAvatar": "avatars/rihyyun.jpg"
+    },
+    {
+      "id": "1995813609016877488",
+      "username": "@ktsr_45",
+      "displayName": "AS",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090730846294802432/iVLSJa0F_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Gk tau mau isi apa kwwkwk\nYg penting lanjutin \n@Akbar_Bst\n (krn @ nya paling atas di gw 😆)\n#KiranaCore",
+      "tweetUrl": "https://x.com/ktsr_45/status/1995813609016877488",
+      "links": [
+        "https://x.com/Akbar_Bst"
+      ],
+      "timestamp": "2025-12-02T11:13:39.000Z",
+      "timestampLabel": "Dec 2, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G7KN5VQXMAAN5J6?format=jpg&name=small",
+          "https://pbs.twimg.com/media/G7KJAqhbgAAT1PW?format=jpg&name=120x120"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 1,
+        "likes": 3,
+        "bookmarks": 0,
+        "views": 349
+      },
+      "localImages": [
+        "images/1995813609016877488_1.jpg",
+        "images/1995813609016877488_2.jpg"
+      ],
+      "localAvatar": "avatars/ktsr_45.jpg"
+    },
+    {
+      "id": "1995795650173436313",
+      "username": "@AergiaAjah",
+      "displayName": "Aergia",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2042382788444504064/dmaRx7ex_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Sorry broo HYTAM yg menang \n@isha_jkt48v\n\n#KiranaCore",
+      "tweetUrl": "https://x.com/AergiaAjah/status/1995795650173436313",
+      "links": [
+        "https://x.com/isha_jkt48v"
+      ],
+      "timestamp": "2025-12-02T10:02:17.000Z",
+      "timestampLabel": "Dec 2, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G7J9kFRbgAA-OTm?format=jpg&name=small",
+          "https://pbs.twimg.com/media/G7J6UqMbgAIKNvu?format=jpg&name=120x120"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 1,
+        "likes": 3,
+        "bookmarks": 0,
+        "views": 408
+      },
+      "localImages": [
+        "images/1995795650173436313_1.jpg",
+        "images/1995795650173436313_2.jpg"
+      ],
+      "localAvatar": "avatars/AergiaAjah.jpg"
+    },
+    {
+      "id": "1995790871607033902",
+      "username": "@sunymz",
+      "displayName": "sunny",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2086765653776834560/G1FU0lsO_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "*disuruh \n@Koko_Jon13\n*\n#KiranaCore",
+      "tweetUrl": "https://x.com/sunymz/status/1995790871607033902",
+      "links": [
+        "https://x.com/Koko_Jon13"
+      ],
+      "timestamp": "2025-12-02T09:43:18.000Z",
+      "timestampLabel": "Dec 2, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G7J5FRLbgAEIUWy?format=jpg&name=small",
+          "https://pbs.twimg.com/media/G7JzHrLbwAAPRbh?format=jpg&name=120x120"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 1,
+        "likes": 4,
+        "bookmarks": 0,
+        "views": 405
+      },
+      "localImages": [
+        "images/1995790871607033902_1.jpg",
+        "images/1995790871607033902_2.jpg"
+      ],
+      "localAvatar": "avatars/sunymz.jpg"
+    },
+    {
+      "id": "1995784163258237117",
+      "username": "@UDiiNN12_",
+      "displayName": "UDiiNN",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090655755263467520/1fdt0_Fm_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Gas WKWKWKWK \n@Koko_Jon13\n \n#KiranaCore",
+      "tweetUrl": "https://x.com/UDiiNN12_/status/1995784163258237117",
+      "links": [
+        "https://x.com/Koko_Jon13"
+      ],
+      "timestamp": "2025-12-02T09:16:39.000Z",
+      "timestampLabel": "Dec 2, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G7JzHrLbwAAPRbh?format=jpg&name=small",
+          "https://pbs.twimg.com/media/G7Ju7mObMAACX9E?format=jpg&name=120x120"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 1,
+        "likes": 2,
+        "bookmarks": 0,
+        "views": 420
+      },
+      "localImages": [
+        "images/1995784163258237117_1.jpg",
+        "images/1995784163258237117_2.jpg"
+      ],
+      "localAvatar": "avatars/UDiiNN12_.jpg"
+    },
+    {
+      "id": "1995780142036050331",
+      "username": "@Koko_Jon13",
+      "displayName": "Koko Jon | JKT48 Kobo QWER Miku",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090440209204928512/GHa3-2Ka_normal.jpg",
+      "isVerified": true,
+      "verifiedType": "blue",
+      "text": "Tic Tac Toe \n@UDiiNN12_\n\n#KiranaCore",
+      "tweetUrl": "https://x.com/Koko_Jon13/status/1995780142036050331",
+      "links": [
+        "https://x.com/UDiiNN12_"
+      ],
+      "timestamp": "2025-12-02T09:00:40.000Z",
+      "timestampLabel": "Dec 2, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G7Ju7mObMAACX9E?format=jpg&name=small",
+          "https://pbs.twimg.com/media/G7IioQibgAAD8ge?format=jpg&name=120x120"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 3,
+        "likes": 14,
+        "bookmarks": 0,
+        "views": 631
+      },
+      "localImages": [
+        "images/1995780142036050331_1.jpg",
+        "images/1995780142036050331_2.jpg"
+      ],
+      "localAvatar": "avatars/Koko_Jon13.jpg"
+    },
+    {
+      "id": "1995695668216955147",
+      "username": "@bulusekai",
+      "displayName": "bluesky || comipara K-02",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2044041379589005312/8c1MTQNV_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "selamat pagi kucing botac #KiranaCore",
+      "tweetUrl": "https://x.com/bulusekai/status/1995695668216955147",
+      "links": [],
+      "timestamp": "2025-12-02T03:25:00.000Z",
+      "timestampLabel": "Dec 2, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G7IioQibgAAD8ge?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 6,
+        "retweets": 3,
+        "likes": 19,
+        "bookmarks": 0,
+        "views": 1200
+      },
+      "localImages": [
+        "images/1995695668216955147_1.jpg"
+      ],
+      "localAvatar": "avatars/bulusekai.jpg"
+    },
+    {
+      "id": "1995689160624214283",
+      "username": "@Anonym957",
+      "displayName": "Zeph",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1972954439444262912/-y3MZ3DJ_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "#KiranaCore",
+      "tweetUrl": "https://x.com/Anonym957/status/1995689160624214283",
+      "links": [],
+      "timestamp": "2025-12-02T02:59:08.000Z",
+      "timestampLabel": "Dec 2, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G7IctwfbgAQAUh_?format=jpg&name=small",
+          "https://pbs.twimg.com/media/G7HmtdTbMAAzTKp?format=jpg&name=240x240"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 0,
+        "retweets": 5,
+        "likes": 43,
+        "bookmarks": 0,
+        "views": 2600
+      },
+      "localImages": [
+        "images/1995689160624214283_1.jpg",
+        "images/1995689160624214283_2.jpg"
+      ],
+      "localAvatar": "avatars/Anonym957.jpg"
+    },
+    {
+      "id": "1995120870306554249",
+      "username": "@KucingpalaHitam",
+      "displayName": "黒頭猫-P(KuratamaNeko-P)",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2052921835927523328/qhzhN9UR_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "Setiap entitas berkuping binatang, akan tetap kupanggil musang.\n\n#YuuKusa #KiranaCore #everyzuka_meme #Chiyawikwok",
+      "tweetUrl": "https://x.com/KucingpalaHitam/status/1995120870306554249",
+      "links": [],
+      "timestamp": "2025-11-30T13:20:57.000Z",
+      "timestampLabel": "Nov 30, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G7AV6mCbQAADFgv?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 2,
+        "likes": 3,
+        "bookmarks": 0,
+        "views": 1300
+      },
+      "localImages": [
+        "images/1995120870306554249_1.jpg"
+      ],
+      "localAvatar": "avatars/KucingpalaHitam.jpg"
+    },
+    {
+      "id": "1994683917375606945",
+      "username": "@ktsr_45",
+      "displayName": "AS",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2090730846294802432/iVLSJa0F_normal.jpg",
+      "isVerified": false,
+      "verifiedType": null,
+      "text": "👉👈\n#KiranaCore",
+      "tweetUrl": "https://x.com/ktsr_45/status/1994683917375606945",
+      "links": [],
+      "timestamp": "2025-11-29T08:24:39.000Z",
+      "timestampLabel": "Nov 29, 2025",
+      "media": {
+        "images": [
+          "https://pbs.twimg.com/media/G66KctiWwAAdRMa?format=jpg&name=small"
+        ],
+        "videos": []
+      },
+      "quote": null,
+      "isRetweet": false,
+      "retweetedBy": null,
+      "hasShowThread": false,
+      "isReply": false,
+      "engagement": {
+        "replies": 1,
+        "retweets": 4,
+        "likes": 68,
+        "bookmarks": 0,
+        "views": 2600
+      },
+      "localImages": [
+        "images/1994683917375606945_1.jpg"
+      ],
+      "localAvatar": "avatars/ktsr_45.jpg"
+    }
+  ]
+}

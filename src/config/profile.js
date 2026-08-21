@@ -289,10 +289,12 @@ export const profiles = {
     theme: "isha",
     displayName: "Isha Kirana",
     photoAlbum: "isha4k",
-    featuredVideo: 'https://www.youtube.com/watch?v=tCNLREVv33I',
+    featuredVideo: 'https://www.youtube.com/watch?v=CUT4Xjvp1SA',
     featuredVideoTag: "#hinds19ht",
     tweets: [
       "/scraped_tweets/isha.json",
+      "/scraped_tweets/isha2.json",
+      "/scraped_tweets/kiranacore.json",
     ],
     playlist: [
       {
