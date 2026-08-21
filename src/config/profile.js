@@ -283,6 +283,43 @@ export const profiles = {
       },
     ]
   },
+  isha: {
+    photo: "/profiles/isha.jpg",
+    wallpaper: "/wallpapers/isha.jpg",
+    theme: "isha",
+    displayName: "Isha Kirana",
+    photoAlbum: "isha4k",
+    featuredVideo: 'https://www.youtube.com/watch?v=tCNLREVv33I',
+    featuredVideoTag: "#hinds19ht",
+    tweets: [
+      "/scraped_tweets/isha.json",
+    ],
+    playlist: [
+      {
+        title: 'Suatu Saat Bertemu (Dreamtale)',
+        artist: 'JKT48V Gen 2',
+        album: 'Suatu Saat Bertemu (Dreamtale)',
+        url: 'https://www.youtube.com/watch?v=NLQn3tm3tUc',
+      },
+      {
+        title: 'We Are',
+        artist: 'Isha Kirana & Maura Nilambari',
+        album: 'We Are (Cover)',
+        url: 'https://www.youtube.com/watch?v=nXAAiVBeZ_U',
+      },
+    ],
+    desktopItems: [
+      // {
+      //   icon: 'audiobook',
+      //   label: 'Nuansa-Karya-Kata_ByHelmi.pdf',
+      //   appletUrl: 'https://drive.google.com/file/d/1HSiNUtkStjfN0dKTNxe-KTRv6lYeEM81/preview',
+      //   windowSetting: {
+      //     minWidth: 500,
+      //     minHeight: 480,
+      //   },
+      // },
+    ]
+  },
 };
 
 export function resolveProfile(profileName) {

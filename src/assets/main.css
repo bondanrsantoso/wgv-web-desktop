@@ -30,6 +30,10 @@
   --color-primary: #445fac;
 }
 
+.theme-isha, .theme-isha * {
+  --color-primary: #c5008e;
+}
+
 html,
 body {
   font-size: 14px;
