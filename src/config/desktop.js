@@ -17,15 +17,15 @@ export const apps = [
       minHeight: 480,
     },
   },
-  {
-    icon: 'susers',
-    label: 'Video Call',
-    appletUrl: '/applet/video-call',
-    windowSetting: {
-      minWidth: 800,
-      minHeight: 600,
-    },
-  },
+  // {
+  //   icon: 'susers',
+  //   label: 'Video Call',
+  //   appletUrl: '/applet/video-call',
+  //   windowSetting: {
+  //     minWidth: 800,
+  //     minHeight: 600,
+  //   },
+  // },
   // {
   //   icon: 'telephone',
   //   label: 'Voicemail',
