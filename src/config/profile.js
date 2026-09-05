@@ -1,11 +1,11 @@
 export const profiles = {
   kanaia: {
-    photo: "/profiles/kanaia.jpg",
-    wallpaper: "/wallpapers/kanaia.jpeg",
-    theme: "kanaia",
-    displayName: "Kanaia Asa",
+    photo: '/profiles/kanaia.jpg',
+    wallpaper: '/wallpapers/kanaia.jpeg',
+    theme: 'kanaia',
+    displayName: 'Kanaia Asa',
     featuredVideo: 'https://www.youtube.com/watch?v=aI982MIbMCc',
-    featuredVideoTag: "#TerimaKasihKana",
+    featuredVideoTag: '#TerimaKasihKana',
     playlist: [
       {
         title: 'Punkish',
@@ -79,19 +79,17 @@ export const profiles = {
         album: 'Memori Asa (Special Graduation Kanaia Asa)',
         url: 'https://www.youtube.com/watch?v=5BViCw0zyUM',
       },
-    ]
+    ],
   },
   tana: {
-    photo: "/profiles/tananona.jpg",
-    wallpaper: "/wallpapers/tananona.jpg",
-    theme: "tananona",
-    displayName: "Tana Nona",
-    photoAlbum: "irengdoesart",
+    photo: '/profiles/tananona.jpg',
+    wallpaper: '/wallpapers/tananona.jpg',
+    theme: 'tananona',
+    displayName: 'Tana Nona',
+    photoAlbum: 'irengdoesart',
     featuredVideo: 'https://www.youtube.com/watch?v=1Yj2n9nqy-Q',
-    featuredVideoTag: "#SelamatPagiTana",
-    tweets: [
-      "/scraped_tweets/tananona.json",
-    ],
+    featuredVideoTag: '#SelamatPagiTana',
+    tweets: ['/scraped_tweets/tananona.json'],
     playlist: [
       {
         title: 'Punkish',
@@ -237,20 +235,17 @@ export const profiles = {
         album: 'Dokter Cinta (Cover)',
         url: 'https://www.youtube.com/watch?v=_JTwpWegls0',
       },
-    ]
+    ],
   },
   maura: {
-    photo: "/profiles/maura.jpg",
-    wallpaper: "/wallpapers/maura.jpg",
-    theme: "maura",
-    displayName: "Maura Nilambari",
-    photoAlbum: "maulukis",
+    photo: '/profiles/maura.jpg',
+    wallpaper: '/wallpapers/maura.jpg',
+    theme: 'maura',
+    displayName: 'Maura Nilambari',
+    photoAlbum: 'maulukis',
     featuredVideo: 'https://www.youtube.com/watch?v=tCNLREVv33I',
-    featuredVideoTag: "#makeitMemaurable",
-    tweets: [
-      "/scraped_tweets/maura.json",
-      "/scraped_tweets/makeitMemaurable.json",
-    ],
+    featuredVideoTag: '#makeitMemaurable',
+    tweets: ['/scraped_tweets/maura.json', '/scraped_tweets/makeitMemaurable.json'],
     playlist: [
       {
         title: 'Suatu Saat Bertemu (Dreamtale)',
@@ -281,20 +276,20 @@ export const profiles = {
           minHeight: 480,
         },
       },
-    ]
+    ],
   },
   isha: {
-    photo: "/profiles/isha.jpg",
-    wallpaper: "/wallpapers/isha.jpg",
-    theme: "isha",
-    displayName: "Isha Kirana",
-    photoAlbum: "isha4k",
+    photo: '/profiles/isha.jpg',
+    wallpaper: '/wallpapers/isha.jpg',
+    theme: 'isha',
+    displayName: 'Isha Kirana',
+    photoAlbum: 'isha4k',
     featuredVideo: 'https://www.youtube.com/watch?v=CUT4Xjvp1SA',
-    featuredVideoTag: "#hinds19ht",
+    featuredVideoTag: '#hinds19ht',
     tweets: [
-      "/scraped_tweets/isha.json",
-      "/scraped_tweets/isha2.json",
-      "/scraped_tweets/kiranacore.json",
+      '/scraped_tweets/isha.json',
+      '/scraped_tweets/isha2.json',
+      '/scraped_tweets/kiranacore.json',
     ],
     playlist: [
       {
@@ -310,20 +305,161 @@ export const profiles = {
         url: 'https://www.youtube.com/watch?v=nXAAiVBeZ_U',
       },
     ],
-    desktopItems: [
-      // {
-      //   icon: 'audiobook',
-      //   label: 'Nuansa-Karya-Kata_ByHelmi.pdf',
-      //   appletUrl: 'https://drive.google.com/file/d/1HSiNUtkStjfN0dKTNxe-KTRv6lYeEM81/preview',
-      //   windowSetting: {
-      //     minWidth: 500,
-      //     minHeight: 480,
-      //   },
-      // },
-    ]
+    desktopItems: [],
   },
-};
+  piameraleo: {
+    photo: '/profiles/piameraleo.jpg',
+    wallpaper: '/wallpapers/piameraleo.jpg',
+    theme: 'piameraleo',
+    displayName: 'Pia Meraleo',
+    photoAlbum: 'piallete',
+    featuredVideo: 'https://www.youtube.com/watch?v=CUT4Xjvp1SA',
+    featuredVideoTag: '#hinds19ht',
+    tweets: ['/scraped_tweets/piameraleo.json'],
+    playlist: [
+      {
+        title: 'Punkish',
+        artist: 'JKT48V',
+        album: 'Punkish',
+        url: 'https://www.youtube.com/watch?v=bCeWCo8ICPc',
+      },
+      {
+        title: 'Hello You, Hello Me',
+        artist: 'Pia Meraleo',
+        album: 'Hello You, Hello Me (Cover)',
+        url: 'https://www.youtube.com/watch?v=pC3z3uwsQZc',
+      },
+      {
+        title: 'Heart Gata Virus',
+        artist: 'JKT48V Gen 1',
+        album: 'Heart Gata Virus',
+        url: 'https://www.youtube.com/watch?v=vvKmNuXc9_0',
+      },
+      {
+        title: 'Pundak Kanan / Migikata',
+        artist: 'Pia Meraleo',
+        album: 'Pundak Kanan / Migikata (Cover)',
+        url: 'https://www.youtube.com/watch?v=PVy952zGxrw',
+      },
+      {
+        title: 'Just Wanna xxxx With You',
+        artist: 'Tana Nona, Pia Meraleo, Auri Cordelia, Caerula Aki, Gema Gathika',
+        album: 'Just Wanna xxxx With You (Cover)',
+        url: 'https://www.youtube.com/watch?v=ejUBpOIPDhc',
+      },
+      {
+        title: 'Siapa Yamg Mempertemukan Kita Berdua',
+        artist: 'Pia Meraleo',
+        album: 'Siapa Yamg Mempertemukan Kita Berdua (Cover)',
+        url: 'https://www.youtube.com/watch?v=6U0DakzI3XY',
+      },
+      {
+        title: 'Mimpi Yang Hina',
+        artist: 'Pia Meraleo',
+        album: 'Mimpi Yang Hina (Cover)',
+        url: 'https://www.youtube.com/watch?v=Hnc7eqcNYqU',
+      },
+      {
+        title: 'Live my Life',
+        artist: 'Pia Meraleo, Ayunda Risu, Airani Iofifteen',
+        album: 'Live my Life (Cover)',
+        url: 'https://www.youtube.com/watch?v=tQOrc9mIosQ',
+      },
+      {
+        title: '#KuSangatSuka',
+        artist: 'JKT48V Gen 1',
+        album: '#KuSangatSuka',
+        url: 'https://www.youtube.com/watch?v=rj9032TUmKI',
+      },
+      {
+        title: 'Blooming',
+        artist: 'Pia Meraleo',
+        album: 'Blooming',
+        url: 'https://www.youtube.com/watch?v=frbEB2ybb7U',
+      },
+      {
+        title: 'Sungai Impian',
+        artist: 'Pia Meraleo & Kanaia Asa',
+        album: 'Sungai Impian / Yume no Kawa (Cover)',
+        url: 'https://www.youtube.com/watch?v=uxnXVo8W70I',
+      },
+      {
+        title: 'Suatu Saat Bertemu',
+        artist: 'JKT48V',
+        album: 'Suatu Saat Bertemu',
+        url: 'https://www.youtube.com/watch?v=eW1P0lOiBM0',
+      },
+      {
+        title: 'Sakura Kita Makan Bersama',
+        artist: 'JKT48V Gen 1',
+        album: 'Sakura Kita Makan Bersama',
+        url: 'https://www.youtube.com/watch?v=OfUW4qyN7t0',
+      },
+      {
+        title: 'Kusuka Hari Minggu',
+        artist: 'Pia Meraleo & Ella JKT48',
+        album: 'Kusuka Hari Minggu',
+        url: 'https://www.youtube.com/watch?v=QzLrBj-W4AA',
+      },
+      {
+        title: 'That Won\'t Save Us',
+        artist: 'Pia Meraleo & Greesel JKT48',
+        album: 'That Won\'t Save Us (Cover)',
+        url: 'https://www.youtube.com/watch?v=aDfnYKm2ZjI',
+      },
+      {
+        title: 'NULL',
+        artist: 'Pia Meraleo',
+        album: 'NULL (Cover)',
+        url: 'https://www.youtube.com/watch?v=f-NCeJ-fInw',
+      },
+      {
+        title: 'Kadang Aku Lupa (Hai Tetangga)',
+        artist: 'Pia Meraleo & Lulu JKT48',
+        album: 'Kadang Aku Lupa (Hai Tetangga)',
+        url: 'https://www.youtube.com/watch?v=Qxmhyt86mjw',
+      },
+      {
+        title: 'Re:Dreaming Angel (Indonesia Ver.)',
+        artist: 'Tana Nona & Pia Meraleo',
+        album: 'Re:Dreaming Angel (Zenless Zone Zero)',
+        url: 'https://www.youtube.com/watch?v=mDq8I8Kt7JE',
+      },
+      {
+        title: 'Oh My Pumpkin! Jawa Version',
+        artist: 'Tana Nona & Pia Meraleo',
+        album: 'Oh My Pumpkin!',
+        url: 'https://www.youtube.com/watch?v=P0LGMvwdy8U',
+      },
+      {
+        title: '空腹 / Kuufuku',
+        artist: 'Tana Nona & Pia Meraleo',
+        album: '空腹 / Kuufuku (Cover)',
+        url: 'https://www.youtube.com/watch?v=-Gc-YOKLets',
+      },
+      {
+        title: 'Your Idol (Cover)',
+        artist: 'Tana Nona, Pia Meraleo & Moona Hoshinova',
+        album: 'Your Idol (Cover)',
+        url: 'https://www.youtube.com/watch?v=_Q-Kq7YvGoA',
+      },
+      {
+        title: 'Sessaw Game Penuh Air Mata',
+        artist: 'Pia Meraleo',
+        album: 'Sessaw Game Penuh Air Mata (Cover)',
+        url: 'https://www.youtube.com/watch?v=ALFg8wAlDxE',
+      },
+      {
+        title: 'Sneakers Waktu Itu',
+        artist: 'Pia Meraleo',
+        album: 'Sneakers Waktu Itu (Cover)',
+        url: 'https://www.youtube.com/watch?v=2FxUzqJrxWo',
+      },
+    ],
+    desktopItems: [],
+  },
+}
 
 export function resolveProfile(profileName) {
-  return profiles[profileName] || profiles.kanaia;
+  return profiles[profileName] || profiles.kanaia
 }

@@ -34,6 +34,10 @@
   --color-primary: #c5008e;
 }
 
+.theme-piameraleo, .theme-piameraleo * {
+  --color-primary: #9d1c16;
+}
+
 html,
 body {
   font-size: 14px;
